@@ -1,0 +1,2213 @@
+State,State_Clean,County,"Violent
+crime","Murder and
+nonnegligent
+manslaughter",Rape1,Robbery,"Aggravated
+assault","Property
+crime",Burglary,"Larceny-
+theft","Motor
+vehicle
+theft",Arson2
+ALABAMA,ALABAMA,,,,,,,,,,,
+ARIZONA - Metropolitan Counties,ARIZONA ,Cochise,47,0,1,3,43,531,195,273,63,5
+ARIZONA - Metropolitan Counties,ARIZONA ,Coconino,127,6,17,1,103,264,59,180,25,6
+ARIZONA - Metropolitan Counties,ARIZONA ,Mohave,135,3,6,19,107,1983,573,1197,213,13
+ARIZONA - Metropolitan Counties,ARIZONA ,Pinal,197,3,5,18,171,1469,321,987,161,
+ARIZONA - Metropolitan Counties,ARIZONA ,Yavapai,193,5,0,4,184,860,155,608,97,10
+ARIZONA - Metropolitan Counties,ARIZONA ,Yuma,136,7,17,6,106,807,223,502,82,7
+ARIZONA - Nonmetropolitan Counties,ARIZONA ,Gila,176,1,3,5,167,384,65,252,67,
+ARIZONA - Nonmetropolitan Counties,ARIZONA ,Graham,61,4,0,0,57,104,20,76,8,12
+ARIZONA - Nonmetropolitan Counties,ARIZONA ,La Paz,40,1,2,3,34,310,87,181,42,1
+ARIZONA - Nonmetropolitan Counties,ARIZONA ,Navajo,43,1,0,5,37,341,192,115,34,5
+ARIZONA - Nonmetropolitan Counties,ARIZONA ,Santa Cruz,1,0,0,0,1,117,35,66,16,0
+ARKANSAS - Metropolitan Counties,ARKANSAS ,Benton,159,3,32,3,121,,,188,61,1
+ARKANSAS - Metropolitan Counties,ARKANSAS ,Cleveland,20,0,4,0,16,162,90,56,16,2
+ARKANSAS - Metropolitan Counties,ARKANSAS ,Craighead,48,2,16,1,29,315,108,168,39,3
+ARKANSAS - Metropolitan Counties,ARKANSAS ,Crawford,55,1,1,1,52,254,37,188,29,0
+ARKANSAS - Metropolitan Counties,ARKANSAS ,Crittenden,123,3,9,8,103,286,83,182,21,1
+ARKANSAS - Metropolitan Counties,ARKANSAS ,Faulkner,116,1,18,5,92,749,176,476,97,6
+ARKANSAS - Metropolitan Counties,ARKANSAS ,Garland4,279,0,25,8,246,,,675,145,0
+ARKANSAS - Metropolitan Counties,ARKANSAS ,Grant,28,0,3,1,24,167,53,86,28,1
+ARKANSAS - Metropolitan Counties,ARKANSAS ,Jefferson,78,4,12,2,60,414,110,247,57,7
+ARKANSAS - Metropolitan Counties,ARKANSAS ,Lincoln,14,0,7,0,7,40,15,20,5,0
+ARKANSAS - Metropolitan Counties,ARKANSAS ,Little River,10,0,1,1,8,93,27,58,8,1
+ARKANSAS - Metropolitan Counties,ARKANSAS ,Lonoke,75,1,8,0,66,374,68,220,86,4
+ARKANSAS - Metropolitan Counties,ARKANSAS ,Madison,44,1,5,1,37,169,48,99,22,3
+ARKANSAS - Metropolitan Counties,ARKANSAS ,Miller,57,0,8,1,48,199,68,113,18,0
+ARKANSAS - Metropolitan Counties,ARKANSAS ,Perry,29,0,7,0,22,95,23,72,0,0
+ARKANSAS - Metropolitan Counties,ARKANSAS ,Poinsett,42,0,4,0,38,138,60,50,28,0
+ARKANSAS - Metropolitan Counties,ARKANSAS ,Pulaski,428,4,31,27,366,1638,353,1123,162,9
+ARKANSAS - Metropolitan Counties,ARKANSAS ,Saline,187,7,31,2,147,,,376,81,2
+ARKANSAS - Metropolitan Counties,ARKANSAS ,Sebastian,45,0,6,0,39,223,83,127,13,1
+ARKANSAS - Metropolitan Counties,ARKANSAS ,Washington,177,5,6,1,165,572,139,346,87,8
+ARKANSAS - Nonmetropolitan Counties,ARKANSAS ,Arkansas,15,0,1,1,13,58,14,42,2,1
+ARKANSAS - Nonmetropolitan Counties,ARKANSAS ,Ashley,22,0,1,2,19,153,38,98,17,3
+ARKANSAS - Nonmetropolitan Counties,ARKANSAS ,Baxter,70,1,15,1,53,616,81,472,63,5
+ARKANSAS - Nonmetropolitan Counties,ARKANSAS ,Boone,199,0,30,1,168,269,79,150,40,1
+ARKANSAS - Nonmetropolitan Counties,ARKANSAS ,Bradley,8,0,0,0,8,51,31,12,8,0
+ARKANSAS - Nonmetropolitan Counties,ARKANSAS ,Calhoun,11,0,0,0,11,68,22,34,12,0
+ARKANSAS - Nonmetropolitan Counties,ARKANSAS ,Carroll,45,0,5,1,39,209,52,111,46,1
+ARKANSAS - Nonmetropolitan Counties,ARKANSAS ,Chicot,13,0,2,0,11,76,18,58,0,0
+ARKANSAS - Nonmetropolitan Counties,ARKANSAS ,Clark,11,0,0,0,11,70,19,42,9,0
+ARKANSAS - Nonmetropolitan Counties,ARKANSAS ,Cleburne,142,0,21,4,117,297,86,185,26,6
+ARKANSAS - Nonmetropolitan Counties,ARKANSAS ,Columbia,23,1,2,0,20,67,21,37,9,0
+ARKANSAS - Nonmetropolitan Counties,ARKANSAS ,Conway,46,2,13,1,30,234,43,164,27,9
+ARKANSAS - Nonmetropolitan Counties,ARKANSAS ,Drew,16,0,4,0,12,66,23,37,6,0
+ARKANSAS - Nonmetropolitan Counties,ARKANSAS ,Fulton,29,0,3,0,26,51,0,45,6,0
+ARKANSAS - Nonmetropolitan Counties,ARKANSAS ,Hempstead,29,0,6,1,22,143,41,75,27,1
+ARKANSAS - Nonmetropolitan Counties,ARKANSAS ,Howard,20,0,4,0,16,57,29,25,3,0
+ARKANSAS - Nonmetropolitan Counties,ARKANSAS ,Independence,153,1,44,2,106,367,110,209,48,14
+ARKANSAS - Nonmetropolitan Counties,ARKANSAS ,Izard,33,0,8,0,25,197,55,130,12,5
+ARKANSAS - Nonmetropolitan Counties,ARKANSAS ,Jackson,45,1,6,1,37,119,10,80,29,5
+ARKANSAS - Nonmetropolitan Counties,ARKANSAS ,Johnson,40,0,7,0,33,114,47,51,16,2
+ARKANSAS - Nonmetropolitan Counties,ARKANSAS ,Lee,13,1,4,0,8,101,26,64,11,1
+ARKANSAS - Nonmetropolitan Counties,ARKANSAS ,Logan,36,0,10,0,26,162,35,117,10,6
+ARKANSAS - Nonmetropolitan Counties,ARKANSAS ,Marion,32,0,9,0,23,243,80,150,13,0
+ARKANSAS - Nonmetropolitan Counties,ARKANSAS ,Mississippi,23,0,3,2,18,247,81,133,33,3
+ARKANSAS - Nonmetropolitan Counties,ARKANSAS ,Monroe,1,0,1,0,0,32,3,14,15,1
+ARKANSAS - Nonmetropolitan Counties,ARKANSAS ,Pike,10,0,3,0,7,73,22,49,2,1
+ARKANSAS - Nonmetropolitan Counties,ARKANSAS ,Pope,91,2,15,1,73,309,102,163,44,4
+ARKANSAS - Nonmetropolitan Counties,ARKANSAS ,Prairie,3,0,1,1,1,67,24,39,4,0
+ARKANSAS - Nonmetropolitan Counties,ARKANSAS ,Randolph,40,1,16,0,23,112,24,75,13,2
+ARKANSAS - Nonmetropolitan Counties,ARKANSAS ,Scott,22,0,2,1,19,65,28,29,8,0
+ARKANSAS - Nonmetropolitan Counties,ARKANSAS ,Sevier,26,0,6,0,20,88,21,53,14,2
+ARKANSAS - Nonmetropolitan Counties,ARKANSAS ,St. Francis,40,0,7,6,27,286,80,206,0,2
+ARKANSAS - Nonmetropolitan Counties,ARKANSAS ,Union,60,3,2,3,52,273,76,174,23,2
+ARKANSAS - Nonmetropolitan Counties,ARKANSAS ,Van Buren,44,2,5,0,37,141,24,82,35,11
+ARKANSAS - Nonmetropolitan Counties,ARKANSAS ,White,200,0,61,8,131,598,154,354,90,6
+ARKANSAS - Nonmetropolitan Counties,ARKANSAS ,Woodruff,6,0,0,0,6,62,18,41,3,0
+ARKANSAS - Nonmetropolitan Counties,ARKANSAS ,Yell,30,0,5,0,25,177,66,90,21,1
+CALIFORNIA - Metropolitan Counties,CALIFORNIA ,Alameda,633,5,27,210,391,2169,354,1324,491,21
+CALIFORNIA - Metropolitan Counties,CALIFORNIA ,Butte,283,5,32,28,218,1290,524,724,42,3
+CALIFORNIA - Metropolitan Counties,CALIFORNIA ,Contra Costa,332,8,28,89,207,1499,411,1053,35,11
+CALIFORNIA - Metropolitan Counties,CALIFORNIA ,El Dorado,173,3,47,29,94,1695,482,1186,27,4
+CALIFORNIA - Metropolitan Counties,CALIFORNIA ,Fresno,1082,14,38,102,928,3281,1378,1304,599,129
+CALIFORNIA - Metropolitan Counties,CALIFORNIA ,Imperial,211,2,11,7,191,588,178,324,86,22
+CALIFORNIA - Metropolitan Counties,CALIFORNIA ,Kern,2864,29,244,433,2158,9449,2756,4680,2013,275
+CALIFORNIA - Metropolitan Counties,CALIFORNIA ,Kings,125,2,19,19,85,432,114,297,21,1
+CALIFORNIA - Metropolitan Counties,CALIFORNIA ,Los Angeles,5564,68,300,1443,3753,15040,2798,8595,3647,220
+CALIFORNIA - Metropolitan Counties,CALIFORNIA ,Madera,457,1,34,14,408,1017,375,621,21,7
+CALIFORNIA - Metropolitan Counties,CALIFORNIA ,Marin,63,1,5,12,45,738,143,591,4,1
+CALIFORNIA - Metropolitan Counties,CALIFORNIA ,Merced,500,4,19,24,453,1515,487,956,72,8
+CALIFORNIA - Metropolitan Counties,CALIFORNIA ,Monterey,258,3,25,36,194,1125,361,733,31,7
+CALIFORNIA - Metropolitan Counties,CALIFORNIA ,Napa,69,0,11,7,51,269,55,212,2,0
+CALIFORNIA - Metropolitan Counties,CALIFORNIA ,Orange,247,2,11,21,213,881,142,642,97,4
+CALIFORNIA - Metropolitan Counties,CALIFORNIA ,Placer,183,3,28,13,139,1077,278,769,30,9
+CALIFORNIA - Metropolitan Counties,CALIFORNIA ,Riverside,932,24,37,179,692,7220,1454,4320,1446,24
+CALIFORNIA - Metropolitan Counties,CALIFORNIA ,Sacramento,2408,36,161,685,1526,8067,2276,5634,157,67
+CALIFORNIA - Metropolitan Counties,CALIFORNIA ,San Benito,33,0,7,2,24,152,34,105,13,0
+CALIFORNIA - Metropolitan Counties,CALIFORNIA ,San Bernardino,1503,27,115,189,1172,3945,1142,1875,928,53
+CALIFORNIA - Metropolitan Counties,CALIFORNIA ,San Diego,1499,10,104,224,1161,4300,901,2498,901,30
+CALIFORNIA - Metropolitan Counties,CALIFORNIA ,San Joaquin,903,5,35,162,701,2439,719,1589,131,24
+CALIFORNIA - Metropolitan Counties,CALIFORNIA ,San Luis Obispo,181,5,26,5,145,963,331,614,18,7
+CALIFORNIA - Metropolitan Counties,CALIFORNIA ,San Mateo,324,3,71,62,188,3245,297,2612,336,5
+CALIFORNIA - Metropolitan Counties,CALIFORNIA ,Santa Barbara,232,2,17,26,187,1257,305,938,14,8
+CALIFORNIA - Metropolitan Counties,CALIFORNIA ,Santa Clara,356,2,40,25,289,1518,178,1154,186,4
+CALIFORNIA - Metropolitan Counties,CALIFORNIA ,Santa Cruz,331,5,58,34,234,1630,439,1174,17,7
+CALIFORNIA - Metropolitan Counties,CALIFORNIA ,Shasta,386,4,41,34,307,824,415,332,77,12
+CALIFORNIA - Metropolitan Counties,CALIFORNIA ,Solano,109,1,13,18,77,377,110,192,75,7
+CALIFORNIA - Metropolitan Counties,CALIFORNIA ,Sonoma,497,1,45,36,415,1089,350,733,6,22
+CALIFORNIA - Metropolitan Counties,CALIFORNIA ,Stanislaus,370,8,17,90,255,1602,559,1000,43,13
+CALIFORNIA - Metropolitan Counties,CALIFORNIA ,Sutter,77,1,4,13,59,576,167,350,59,1
+CALIFORNIA - Metropolitan Counties,CALIFORNIA ,Tulare,334,9,30,64,231,1893,637,1254,2,0
+CALIFORNIA - Metropolitan Counties,CALIFORNIA ,Ventura,159,5,18,25,111,543,112,363,68,13
+CALIFORNIA - Metropolitan Counties,CALIFORNIA ,Yolo,69,0,8,6,55,294,79,204,11,1
+CALIFORNIA - Metropolitan Counties,CALIFORNIA ,Yuba,204,5,21,37,141,847,316,520,11,11
+CALIFORNIA - Nonmetropolitan Counties,CALIFORNIA ,Alpine,13,0,2,0,11,29,12,14,3,0
+CALIFORNIA - Nonmetropolitan Counties,CALIFORNIA ,Amador,66,1,3,8,54,416,146,268,2,4
+CALIFORNIA - Nonmetropolitan Counties,CALIFORNIA ,Calaveras,139,1,32,8,98,668,274,380,14,0
+CALIFORNIA - Nonmetropolitan Counties,CALIFORNIA ,Colusa,26,0,8,4,14,169,53,111,5,3
+CALIFORNIA - Nonmetropolitan Counties,CALIFORNIA ,Del Norte,84,2,11,18,53,424,192,228,4,12
+CALIFORNIA - Nonmetropolitan Counties,CALIFORNIA ,Glenn,55,2,8,8,37,362,86,239,37,3
+CALIFORNIA - Nonmetropolitan Counties,CALIFORNIA ,Humboldt,310,1,21,59,229,1092,398,661,33,17
+CALIFORNIA - Nonmetropolitan Counties,CALIFORNIA ,Inyo,60,1,9,3,47,192,86,105,1,0
+CALIFORNIA - Nonmetropolitan Counties,CALIFORNIA ,Lake,193,3,21,19,150,435,204,225,6,5
+CALIFORNIA - Nonmetropolitan Counties,CALIFORNIA ,Lassen,78,0,8,0,70,172,100,65,7,1
+CALIFORNIA - Nonmetropolitan Counties,CALIFORNIA ,Mariposa,79,0,8,2,69,171,53,115,3,0
+CALIFORNIA - Nonmetropolitan Counties,CALIFORNIA ,Mendocino,178,2,29,14,133,414,174,225,15,18
+CALIFORNIA - Nonmetropolitan Counties,CALIFORNIA ,Modoc,31,0,2,1,28,29,6,22,1,0
+CALIFORNIA - Nonmetropolitan Counties,CALIFORNIA ,Mono,25,0,3,0,22,53,21,32,0,1
+CALIFORNIA - Nonmetropolitan Counties,CALIFORNIA ,Nevada,118,0,9,6,103,424,191,226,7,1
+CALIFORNIA - Nonmetropolitan Counties,CALIFORNIA ,Plumas,128,1,9,5,113,294,116,167,11,3
+CALIFORNIA - Nonmetropolitan Counties,CALIFORNIA ,Sierra,1,0,0,0,1,31,15,16,0,0
+CALIFORNIA - Nonmetropolitan Counties,CALIFORNIA ,Siskiyou,70,5,2,2,61,146,69,69,8,1
+CALIFORNIA - Nonmetropolitan Counties,CALIFORNIA ,Tehama,95,2,14,12,67,472,179,278,15,0
+CALIFORNIA - Nonmetropolitan Counties,CALIFORNIA ,Trinity,61,2,10,9,40,190,83,101,6,2
+CALIFORNIA - Nonmetropolitan Counties,CALIFORNIA ,Tuolumne,169,2,62,7,98,669,306,355,8,6
+COLORADO - Metropolitan Counties,COLORADO ,Adams,513,7,94,76,336,2845,350,1608,887,23
+COLORADO - Metropolitan Counties,COLORADO ,Boulder,85,1,11,8,65,617,143,431,43,3
+COLORADO - Metropolitan Counties,COLORADO ,Douglas,318,2,99,21,196,2098,328,1610,160,20
+COLORADO - Metropolitan Counties,COLORADO ,Elbert,5,0,1,0,4,5,1,2,2,1
+COLORADO - Metropolitan Counties,COLORADO ,El Paso,484,7,112,50,315,2351,402,1509,440,23
+COLORADO - Metropolitan Counties,COLORADO ,Gilpin,25,0,2,4,19,83,21,55,7,1
+COLORADO - Metropolitan Counties,COLORADO ,Larimer,211,2,24,7,178,753,134,531,88,8
+COLORADO - Metropolitan Counties,COLORADO ,Mesa,164,5,36,18,105,1059,249,694,116,17
+COLORADO - Metropolitan Counties,COLORADO ,Park,41,1,6,1,33,65,17,42,6,2
+COLORADO - Metropolitan Counties,COLORADO ,Pueblo,45,2,0,5,38,1058,183,720,155,1
+COLORADO - Metropolitan Counties,COLORADO ,Teller,13,0,1,0,12,53,14,31,8,1
+COLORADO - Metropolitan Counties,COLORADO ,Weld,136,2,24,10,100,664,128,415,121,8
+COLORADO - Nonmetropolitan Counties,COLORADO ,Archuleta,46,0,13,1,32,125,38,73,14,1
+COLORADO - Nonmetropolitan Counties,COLORADO ,Baca,3,0,0,0,3,2,0,1,1,0
+COLORADO - Nonmetropolitan Counties,COLORADO ,Bent,17,1,3,1,12,166,57,96,13,1
+COLORADO - Nonmetropolitan Counties,COLORADO ,Chaffee,3,0,2,0,1,57,10,38,9,0
+COLORADO - Nonmetropolitan Counties,COLORADO ,Cheyenne,3,0,0,0,3,14,2,12,0,0
+COLORADO - Nonmetropolitan Counties,COLORADO ,Crowley,5,0,1,0,4,61,25,30,6,1
+COLORADO - Nonmetropolitan Counties,COLORADO ,Custer,8,0,0,0,8,67,7,53,7,1
+COLORADO - Nonmetropolitan Counties,COLORADO ,Dolores,1,0,0,0,1,22,13,5,4,0
+COLORADO - Nonmetropolitan Counties,COLORADO ,Eagle,28,0,12,0,16,190,25,154,11,2
+COLORADO - Nonmetropolitan Counties,COLORADO ,Fremont,35,1,9,1,24,198,51,110,37,0
+COLORADO - Nonmetropolitan Counties,COLORADO ,Garfield,70,0,15,4,51,205,55,130,20,4
+COLORADO - Nonmetropolitan Counties,COLORADO ,Gunnison,6,0,1,0,5,21,2,15,4,0
+COLORADO - Nonmetropolitan Counties,COLORADO ,Huerfano,24,0,4,1,19,151,51,78,22,1
+COLORADO - Nonmetropolitan Counties,COLORADO ,Kiowa,2,0,0,0,2,14,4,8,2,0
+COLORADO - Nonmetropolitan Counties,COLORADO ,Kit Carson,4,1,1,0,2,42,19,21,2,1
+COLORADO - Nonmetropolitan Counties,COLORADO ,La Plata,50,1,19,0,30,197,54,125,18,3
+COLORADO - Nonmetropolitan Counties,COLORADO ,Las Animas,16,1,1,0,14,53,18,31,4,2
+COLORADO - Nonmetropolitan Counties,COLORADO ,Logan,33,1,7,0,25,109,51,42,16,1
+COLORADO - Nonmetropolitan Counties,COLORADO ,Moffat,15,0,0,0,15,10,1,9,0,0
+COLORADO - Nonmetropolitan Counties,COLORADO ,Montezuma,15,1,1,1,12,136,52,71,13,1
+COLORADO - Nonmetropolitan Counties,COLORADO ,Montrose,20,0,3,0,17,176,59,108,9,1
+COLORADO - Nonmetropolitan Counties,COLORADO ,Morgan,21,1,9,0,11,127,49,66,12,3
+COLORADO - Nonmetropolitan Counties,COLORADO ,Otero,21,4,7,0,10,92,24,47,21,0
+COLORADO - Nonmetropolitan Counties,COLORADO ,Phillips,2,0,0,0,2,2,0,2,0,0
+COLORADO - Nonmetropolitan Counties,COLORADO ,Pitkin,2,0,2,0,0,23,2,19,2,0
+COLORADO - Nonmetropolitan Counties,COLORADO ,Prowers,2,0,0,0,2,16,3,9,4,0
+COLORADO - Nonmetropolitan Counties,COLORADO ,Rio Grande,3,0,0,1,2,55,17,31,7,0
+COLORADO - Nonmetropolitan Counties,COLORADO ,Routt,5,1,1,0,3,48,8,37,3,0
+COLORADO - Nonmetropolitan Counties,COLORADO ,San Juan,1,0,0,0,1,9,0,6,3,0
+COLORADO - Nonmetropolitan Counties,COLORADO ,San Miguel,2,0,0,0,2,5,2,3,0,0
+COLORADO - Nonmetropolitan Counties,COLORADO ,Summit,36,0,16,1,19,237,44,189,4,2
+COLORADO - Nonmetropolitan Counties,COLORADO ,Washington,3,1,0,1,1,74,7,52,15,0
+COLORADO - Nonmetropolitan Counties,COLORADO ,Yuma,4,0,3,0,1,44,15,28,1,0
+DELAWARE - Metropolitan Counties,DELAWARE ,New Castle County Police Department,912,8,103,112,689,4125,668,2955,502,0
+FLORIDA - Metropolitan Counties,FLORIDA ,Alachua,738,4,111,99,524,1817,414,1260,143,19
+FLORIDA - Metropolitan Counties,FLORIDA ,Baker,121,0,14,7,100,275,63,181,31,0
+FLORIDA - Metropolitan Counties,FLORIDA ,Bay,360,4,51,26,279,2192,464,1544,184,6
+FLORIDA - Metropolitan Counties,FLORIDA ,Brevard,540,8,52,54,426,3548,656,2589,303,14
+FLORIDA - Metropolitan Counties,FLORIDA ,Broward,349,2,26,93,228,694,99,527,68,1
+FLORIDA - Metropolitan Counties,FLORIDA ,Charlotte,301,2,41,16,242,1833,262,1445,126,9
+FLORIDA - Metropolitan Counties,FLORIDA ,Citrus,366,4,29,40,293,2046,394,1466,186,14
+FLORIDA - Metropolitan Counties,FLORIDA ,Clay,510,4,86,64,356,2876,496,2213,167,10
+FLORIDA - Metropolitan Counties,FLORIDA ,Collier,864,8,124,144,588,3884,433,3177,274,7
+FLORIDA - Metropolitan Counties,FLORIDA ,Escambia,1451,24,149,299,979,7196,1540,5117,539,3
+FLORIDA - Metropolitan Counties,FLORIDA ,Flagler,172,3,36,8,125,1022,150,803,69,3
+FLORIDA - Metropolitan Counties,FLORIDA ,Gadsden,77,0,15,7,55,264,114,138,12,1
+FLORIDA - Metropolitan Counties,FLORIDA ,Gilchrist,33,0,8,1,24,145,53,68,24,0
+FLORIDA - Metropolitan Counties,FLORIDA ,Hernando,465,6,58,43,358,2258,397,1690,171,9
+FLORIDA - Metropolitan Counties,FLORIDA ,Highlands,209,5,20,40,144,1755,401,1279,75,5
+FLORIDA - Metropolitan Counties,FLORIDA ,Hillsborough,1752,32,248,278,1194,11353,1460,8948,945,33
+FLORIDA - Metropolitan Counties,FLORIDA ,Indian River,274,5,24,18,227,1398,177,1123,98,0
+FLORIDA - Metropolitan Counties,FLORIDA ,Jefferson,69,1,2,1,65,157,61,82,14,1
+FLORIDA - Metropolitan Counties,FLORIDA ,Lake,445,3,66,51,325,2231,567,1404,260,11
+FLORIDA - Metropolitan Counties,FLORIDA ,Lee,1236,9,191,256,780,4632,806,3398,428,29
+FLORIDA - Metropolitan Counties,FLORIDA ,Leon,322,1,35,22,264,1447,273,1059,115,1
+FLORIDA - Metropolitan Counties,FLORIDA ,Levy,462,1,17,2,442,527,225,243,59,4
+FLORIDA - Metropolitan Counties,FLORIDA ,Manatee,1368,10,179,173,1006,4650,648,3659,343,15
+FLORIDA - Metropolitan Counties,FLORIDA ,Marion,1014,24,171,96,723,3987,853,2614,520,4
+FLORIDA - Metropolitan Counties,FLORIDA ,Martin,293,3,83,34,173,1528,199,1265,64,3
+FLORIDA - Metropolitan Counties,FLORIDA ,Miami-Dade,5353,90,478,1294,3491,31822,2869,25805,3148,74
+FLORIDA - Metropolitan Counties,FLORIDA ,Nassau,174,1,35,4,134,919,332,514,73,5
+FLORIDA - Metropolitan Counties,FLORIDA ,Okaloosa,535,7,82,39,407,2375,271,1912,192,2
+FLORIDA - Metropolitan Counties,FLORIDA ,Orange,4874,58,437,1112,3267,20832,3236,15470,2126,0
+FLORIDA - Metropolitan Counties,FLORIDA ,Osceola,678,9,80,86,503,4509,830,3408,271,5
+FLORIDA - Metropolitan Counties,FLORIDA ,Palm Beach,1589,31,215,290,1053,9137,1073,7255,809,26
+FLORIDA - Metropolitan Counties,FLORIDA ,Pasco,1452,13,225,259,955,6456,993,4969,494,46
+FLORIDA - Metropolitan Counties,FLORIDA ,Pinellas,466,7,91,62,306,3831,507,3090,234,11
+FLORIDA - Metropolitan Counties,FLORIDA ,Polk,1166,10,63,128,965,5089,971,3572,546,6
+FLORIDA - Metropolitan Counties,FLORIDA ,Santa Rosa,209,4,54,14,137,1360,276,973,111,7
+FLORIDA - Metropolitan Counties,FLORIDA ,Sarasota,475,3,26,64,382,4183,583,3398,202,6
+FLORIDA - Metropolitan Counties,FLORIDA ,Seminole,445,4,83,45,313,2551,392,1977,182,5
+FLORIDA - Metropolitan Counties,FLORIDA ,St. Johns,281,5,24,32,220,2104,297,1657,150,4
+FLORIDA - Metropolitan Counties,FLORIDA ,St. Lucie,259,2,42,36,179,1160,210,842,108,8
+FLORIDA - Metropolitan Counties,FLORIDA ,Sumter,176,5,15,13,143,884,194,589,101,4
+FLORIDA - Metropolitan Counties,FLORIDA ,Volusia,546,7,60,87,392,2205,421,1572,212,14
+FLORIDA - Metropolitan Counties,FLORIDA ,Wakulla,75,0,11,2,62,503,124,346,33,1
+FLORIDA - Metropolitan Counties,FLORIDA ,Walton,114,1,15,4,94,755,130,569,56,0
+FLORIDA - Nonmetropolitan Counties,FLORIDA ,Bradford,65,0,12,3,50,226,82,123,21,1
+FLORIDA - Nonmetropolitan Counties,FLORIDA ,Calhoun,30,1,0,1,28,78,27,42,9,0
+FLORIDA - Nonmetropolitan Counties,FLORIDA ,Columbia,158,1,17,19,121,894,361,483,50,2
+FLORIDA - Nonmetropolitan Counties,FLORIDA ,DeSoto,104,0,17,6,81,512,147,321,44,2
+FLORIDA - Nonmetropolitan Counties,FLORIDA ,Dixie,85,1,14,2,68,147,88,44,15,1
+FLORIDA - Nonmetropolitan Counties,FLORIDA ,Franklin,59,0,1,0,58,211,33,169,9,2
+FLORIDA - Nonmetropolitan Counties,FLORIDA ,Glades,24,0,2,0,22,124,20,92,12,0
+FLORIDA - Nonmetropolitan Counties,FLORIDA ,Gulf,29,1,1,0,27,156,47,97,12,0
+FLORIDA - Nonmetropolitan Counties,FLORIDA ,Hamilton,41,1,4,4,32,186,56,119,11,1
+FLORIDA - Nonmetropolitan Counties,FLORIDA ,Hardee,47,1,4,4,38,270,79,167,24,0
+FLORIDA - Nonmetropolitan Counties,FLORIDA ,Hendry,126,7,19,11,89,630,254,328,48,3
+FLORIDA - Nonmetropolitan Counties,FLORIDA ,Holmes,72,0,12,3,57,158,54,97,7,0
+FLORIDA - Nonmetropolitan Counties,FLORIDA ,Lafayette,13,0,1,0,12,37,12,20,5,0
+FLORIDA - Nonmetropolitan Counties,FLORIDA ,Liberty,19,1,0,1,17,66,22,35,9,0
+FLORIDA - Nonmetropolitan Counties,FLORIDA ,Madison,109,0,14,3,92,174,71,101,2,0
+FLORIDA - Nonmetropolitan Counties,FLORIDA ,Monroe,186,2,19,23,142,681,86,557,38,6
+FLORIDA - Nonmetropolitan Counties,FLORIDA ,Okeechobee,162,2,21,25,114,780,153,549,78,0
+FLORIDA - Nonmetropolitan Counties,FLORIDA ,Putnam,124,4,21,10,89,797,217,528,52,0
+FLORIDA - Nonmetropolitan Counties,FLORIDA ,Suwannee,148,2,17,2,127,432,137,269,26,0
+FLORIDA - Nonmetropolitan Counties,FLORIDA ,Taylor,71,0,9,4,58,229,91,108,30,0
+FLORIDA - Nonmetropolitan Counties,FLORIDA ,Union,47,0,12,3,32,83,30,47,6,0
+FLORIDA - Nonmetropolitan Counties,FLORIDA ,Washington,32,0,0,1,31,132,44,74,14,0
+GEORGIA - Metropolitan Counties6,GEORGIA ,Brooks,50,0,5,1,44,196,47,122,27,0
+GEORGIA - Metropolitan Counties6,GEORGIA ,Bryan,47,1,5,9,32,277,45,217,15,0
+GEORGIA - Metropolitan Counties6,GEORGIA ,Burke,27,0,2,3,22,225,57,142,26,0
+GEORGIA - Metropolitan Counties6,GEORGIA ,Butts,57,2,6,3,46,329,40,266,23,1
+GEORGIA - Metropolitan Counties6,GEORGIA ,Cherokee,74,0,19,12,43,1145,149,902,94,0
+GEORGIA - Metropolitan Counties6,GEORGIA ,Clayton County Police Department,1440,33,220,422,765,7364,1627,4595,1142,20
+GEORGIA - Metropolitan Counties6,GEORGIA ,Cobb,6,0,0,0,6,74,0,71,3,0
+GEORGIA - Metropolitan Counties6,GEORGIA ,Coweta,596,5,53,10,528,1007,179,730,98,3
+GEORGIA - Metropolitan Counties6,GEORGIA ,Dougherty,0,0,0,0,0,56,0,55,1,0
+GEORGIA - Metropolitan Counties6,GEORGIA ,Dougherty County Police Department,38,0,5,9,24,284,84,173,27,0
+GEORGIA - Metropolitan Counties6,GEORGIA ,Echols,3,0,1,0,2,19,9,10,0,0
+GEORGIA - Metropolitan Counties6,GEORGIA ,Fayette,50,4,7,5,34,346,93,222,31,2
+GEORGIA - Metropolitan Counties6,GEORGIA ,Forsyth,123,1,22,7,93,1377,180,1077,120,0
+GEORGIA - Metropolitan Counties6,GEORGIA ,Hall,252,4,37,20,191,1315,288,876,151,4
+GEORGIA - Metropolitan Counties6,GEORGIA ,Haralson,146,1,8,2,135,384,102,234,48,3
+GEORGIA - Metropolitan Counties6,GEORGIA ,Heard,18,0,1,2,15,96,25,60,11,2
+GEORGIA - Metropolitan Counties6,GEORGIA ,Jasper,69,0,2,2,65,193,34,144,15,1
+GEORGIA - Metropolitan Counties6,GEORGIA ,Jones,22,0,2,2,18,303,81,192,30,1
+GEORGIA - Metropolitan Counties6,GEORGIA ,Lanier,22,0,0,1,21,117,33,71,13,0
+GEORGIA - Metropolitan Counties6,GEORGIA ,Lee,41,0,6,11,24,494,103,356,35,1
+GEORGIA - Metropolitan Counties6,GEORGIA ,Madison,99,1,3,2,93,363,60,280,23,4
+GEORGIA - Metropolitan Counties6,GEORGIA ,Marion,2,0,0,0,2,29,9,17,3,0
+GEORGIA - Metropolitan Counties6,GEORGIA ,McDuffie,28,0,3,6,19,178,67,101,10,0
+GEORGIA - Metropolitan Counties6,GEORGIA ,Meriwether,42,2,5,2,33,257,64,173,20,1
+GEORGIA - Metropolitan Counties6,GEORGIA ,Murray,47,0,5,3,39,85,16,51,18,
+GEORGIA - Metropolitan Counties6,GEORGIA ,Newton,81,3,8,32,38,821,303,408,110,12
+GEORGIA - Metropolitan Counties6,GEORGIA ,Paulding,320,5,27,22,266,1862,314,1272,276,11
+GEORGIA - Metropolitan Counties6,GEORGIA ,Peach,25,0,6,3,16,156,32,106,18,0
+GEORGIA - Metropolitan Counties6,GEORGIA ,Pike,20,0,1,2,17,193,24,160,9,0
+GEORGIA - Metropolitan Counties6,GEORGIA ,Walton,39,1,10,7,21,444,74,322,48,0
+GEORGIA - Nonmetropolitan Counties6,GEORGIA ,Berrien,51,1,3,0,47,132,31,92,9,2
+GEORGIA - Nonmetropolitan Counties6,GEORGIA ,Bleckley,21,0,3,0,18,100,34,61,5,0
+GEORGIA - Nonmetropolitan Counties6,GEORGIA ,Candler,9,0,1,3,5,41,9,31,1,1
+GEORGIA - Nonmetropolitan Counties6,GEORGIA ,Cook,36,0,1,1,34,131,25,89,17,0
+GEORGIA - Nonmetropolitan Counties6,GEORGIA ,Fannin,31,2,8,1,20,274,61,179,34,3
+GEORGIA - Nonmetropolitan Counties6,GEORGIA ,Franklin,16,2,3,0,11,221,53,153,15,0
+GEORGIA - Nonmetropolitan Counties6,GEORGIA ,Gilmer,72,0,16,0,56,327,73,226,28,2
+GEORGIA - Nonmetropolitan Counties6,GEORGIA ,Hancock,15,0,0,0,15,50,15,28,7,0
+GEORGIA - Nonmetropolitan Counties6,GEORGIA ,Jefferson,27,0,2,0,25,70,23,36,11,0
+GEORGIA - Nonmetropolitan Counties6,GEORGIA ,Laurens,92,1,12,8,71,523,175,291,57,3
+GEORGIA - Nonmetropolitan Counties6,GEORGIA ,Mitchell,28,0,2,2,24,265,40,196,29,0
+GEORGIA - Nonmetropolitan Counties6,GEORGIA ,Pierce,31,0,5,2,24,321,72,219,30,2
+GEORGIA - Nonmetropolitan Counties6,GEORGIA ,Pulaski,50,2,2,1,45,209,55,151,3,
+GEORGIA - Nonmetropolitan Counties6,GEORGIA ,Screven,37,0,0,4,33,112,41,59,12,2
+GEORGIA - Nonmetropolitan Counties6,GEORGIA ,Thomas,60,0,17,11,32,477,106,322,49,3
+GEORGIA - Nonmetropolitan Counties6,GEORGIA ,Towns,23,0,3,0,20,88,17,67,4,0
+GEORGIA - Nonmetropolitan Counties6,GEORGIA ,Treutlen,5,0,1,0,4,34,10,22,2,1
+GEORGIA - Nonmetropolitan Counties6,GEORGIA ,Ware,83,1,3,3,76,432,62,354,16,
+GEORGIA - Nonmetropolitan Counties6,GEORGIA ,White,22,0,1,1,20,136,51,77,8,1
+GEORGIA - Nonmetropolitan Counties6,GEORGIA ,Wilkes,22,0,1,0,21,30,6,20,4,0
+GEORGIA - Nonmetropolitan Counties6,GEORGIA ,Wilkinson,10,0,0,1,9,34,16,14,4,0
+HAWAII - Metropolitan Counties,HAWAII ,Maui Police Department,449,1,110,67,271,4984,577,3746,661,128
+IDAHO - Metropolitan Counties,IDAHO ,Ada,257,0,67,4,186,595,131,443,21,10
+IDAHO - Metropolitan Counties,IDAHO ,Bannock,5,0,2,0,3,37,9,20,8,0
+IDAHO - Metropolitan Counties,IDAHO ,Boise,17,0,1,1,15,62,7,51,4,0
+IDAHO - Metropolitan Counties,IDAHO ,Bonneville,109,1,15,3,90,607,157,409,41,5
+IDAHO - Metropolitan Counties,IDAHO ,Butte,7,0,0,0,7,1,0,1,0,0
+IDAHO - Metropolitan Counties,IDAHO ,Canyon,117,1,28,3,85,430,139,200,91,3
+IDAHO - Metropolitan Counties,IDAHO ,Franklin,8,1,0,0,7,34,20,14,0,0
+IDAHO - Metropolitan Counties,IDAHO ,Gem,22,1,3,0,18,64,25,32,7,0
+IDAHO - Metropolitan Counties,IDAHO ,Jefferson,19,0,2,0,17,68,12,50,6,0
+IDAHO - Metropolitan Counties,IDAHO ,Jerome,13,0,2,0,11,95,32,52,11,0
+IDAHO - Metropolitan Counties,IDAHO ,Kootenai,149,1,15,4,129,707,175,490,42,3
+IDAHO - Metropolitan Counties,IDAHO ,Nez Perce,8,0,4,0,4,83,11,67,5,0
+IDAHO - Metropolitan Counties,IDAHO ,Owyhee,30,0,6,0,24,60,14,39,7,0
+IDAHO - Metropolitan Counties,IDAHO ,Power,10,0,5,0,5,29,5,21,3,0
+IDAHO - Metropolitan Counties,IDAHO ,Twin Falls,42,0,9,0,33,136,60,62,14,2
+IDAHO - Nonmetropolitan Counties,IDAHO ,Adams,10,0,0,0,10,43,6,37,0,0
+IDAHO - Nonmetropolitan Counties,IDAHO ,Benewah,25,1,1,1,22,36,7,22,7,1
+IDAHO - Nonmetropolitan Counties,IDAHO ,Bingham,27,1,4,1,21,154,44,95,15,0
+IDAHO - Nonmetropolitan Counties,IDAHO ,Blaine,5,0,2,0,3,18,7,10,1,0
+IDAHO - Nonmetropolitan Counties,IDAHO ,Bonner,26,0,1,0,25,342,111,190,41,2
+IDAHO - Nonmetropolitan Counties,IDAHO ,Camas,3,0,0,0,3,8,2,6,0,0
+IDAHO - Nonmetropolitan Counties,IDAHO ,Cassia,34,0,1,1,32,257,23,209,25,0
+IDAHO - Nonmetropolitan Counties,IDAHO ,Clark,1,0,1,0,0,5,0,5,0,0
+IDAHO - Nonmetropolitan Counties,IDAHO ,Custer,4,1,1,0,2,16,4,11,1,0
+IDAHO - Nonmetropolitan Counties,IDAHO ,Elmore,29,1,3,0,25,55,7,38,10,2
+IDAHO - Nonmetropolitan Counties,IDAHO ,Fremont,2,0,1,0,1,42,5,34,3,0
+IDAHO - Nonmetropolitan Counties,IDAHO ,Gooding,19,1,2,0,16,41,11,19,11,0
+IDAHO - Nonmetropolitan Counties,IDAHO ,Idaho,26,0,3,1,22,63,20,35,8,0
+IDAHO - Nonmetropolitan Counties,IDAHO ,Latah,14,1,7,0,6,89,22,63,4,0
+IDAHO - Nonmetropolitan Counties,IDAHO ,Lemhi,6,0,0,0,6,9,4,3,2,0
+IDAHO - Nonmetropolitan Counties,IDAHO ,Lewis,5,0,0,0,5,49,11,29,9,0
+IDAHO - Nonmetropolitan Counties,IDAHO ,Lincoln,17,0,2,0,15,26,9,15,2,0
+IDAHO - Nonmetropolitan Counties,IDAHO ,Madison,22,0,7,0,15,54,12,34,8,0
+IDAHO - Nonmetropolitan Counties,IDAHO ,Minidoka,12,0,1,0,11,82,21,53,8,0
+IDAHO - Nonmetropolitan Counties,IDAHO ,Oneida,5,0,1,0,4,19,8,8,3,0
+IDAHO - Nonmetropolitan Counties,IDAHO ,Payette,14,0,3,0,11,85,7,66,12,0
+IDAHO - Nonmetropolitan Counties,IDAHO ,Shoshone,14,0,2,0,12,106,34,62,10,0
+IDAHO - Nonmetropolitan Counties,IDAHO ,Teton,15,0,2,0,13,33,4,28,1,0
+IDAHO - Nonmetropolitan Counties,IDAHO ,Valley,22,0,6,0,16,58,22,35,1,0
+IDAHO - Nonmetropolitan Counties,IDAHO ,Washington,5,0,1,0,4,16,8,7,1,0
+ILLINOIS - Metropolitan Counties,ILLINOIS ,Alexander,6,0,1,0,5,53,15,37,1,0
+ILLINOIS - Metropolitan Counties,ILLINOIS ,Boone,27,0,12,1,14,146,34,103,9,0
+ILLINOIS - Metropolitan Counties,ILLINOIS ,Champaign,48,0,24,9,15,405,130,251,24,1
+ILLINOIS - Metropolitan Counties,ILLINOIS ,Clinton,9,0,1,1,7,73,12,58,3,0
+ILLINOIS - Metropolitan Counties,ILLINOIS ,Cook,231,4,61,37,129,1035,156,745,134,11
+ILLINOIS - Metropolitan Counties,ILLINOIS ,DeKalb,28,0,3,7,18,85,42,42,1,0
+ILLINOIS - Metropolitan Counties,ILLINOIS ,DuPage,81,1,21,12,47,434,120,272,42,2
+ILLINOIS - Metropolitan Counties,ILLINOIS ,Fulton,29,0,2,4,23,155,60,87,8,0
+ILLINOIS - Metropolitan Counties,ILLINOIS ,Grundy,20,1,6,2,11,79,19,58,2,2
+ILLINOIS - Metropolitan Counties,ILLINOIS ,Henry,6,0,0,0,6,51,11,36,4,0
+ILLINOIS - Metropolitan Counties,ILLINOIS ,Jackson,29,0,8,1,20,299,115,163,21,0
+ILLINOIS - Metropolitan Counties,ILLINOIS ,Jersey,25,0,15,0,10,115,37,67,11,0
+ILLINOIS - Metropolitan Counties,ILLINOIS ,Johnson,26,0,2,1,23,93,29,50,14,0
+ILLINOIS - Metropolitan Counties,ILLINOIS ,Kane,87,1,12,9,65,280,87,171,22,0
+ILLINOIS - Metropolitan Counties,ILLINOIS ,Kankakee,56,1,9,8,38,250,80,151,19,6
+ILLINOIS - Metropolitan Counties,ILLINOIS ,Kendall,52,0,19,7,26,225,27,193,5,1
+ILLINOIS - Metropolitan Counties,ILLINOIS ,Lake,104,1,27,13,63,771,194,501,76,3
+ILLINOIS - Metropolitan Counties,ILLINOIS ,Macon,38,0,5,3,30,282,60,210,12,3
+ILLINOIS - Metropolitan Counties,ILLINOIS ,Macoupin,10,0,0,4,6,250,55,180,15,1
+ILLINOIS - Metropolitan Counties,ILLINOIS ,Madison,126,0,22,8,96,1059,223,751,85,1
+ILLINOIS - Metropolitan Counties,ILLINOIS ,Marshall,3,0,1,0,2,24,14,7,3,1
+ILLINOIS - Metropolitan Counties,ILLINOIS ,McHenry,65,1,17,3,44,257,63,179,15,1
+ILLINOIS - Metropolitan Counties,ILLINOIS ,McLean,30,0,12,1,17,117,27,77,13,3
+ILLINOIS - Metropolitan Counties,ILLINOIS ,Menard,10,0,3,0,7,51,8,40,3,22
+ILLINOIS - Metropolitan Counties,ILLINOIS ,Monroe,9,0,3,0,6,34,16,15,3,0
+ILLINOIS - Metropolitan Counties,ILLINOIS ,Peoria,55,0,12,8,35,866,162,616,88,4
+ILLINOIS - Metropolitan Counties,ILLINOIS ,Piatt,16,0,5,0,11,63,37,20,6,0
+ILLINOIS - Metropolitan Counties,ILLINOIS ,Rock Island,54,0,17,2,35,222,53,154,15,1
+ILLINOIS - Metropolitan Counties,ILLINOIS ,Sangamon,204,1,21,22,160,467,209,196,62,1
+ILLINOIS - Metropolitan Counties,ILLINOIS ,Stark,9,0,0,0,9,33,18,12,3,0
+ILLINOIS - Metropolitan Counties,ILLINOIS ,Vermilion,87,0,19,2,66,403,135,249,19,4
+ILLINOIS - Metropolitan Counties,ILLINOIS ,Will,125,2,24,21,78,658,119,411,128,7
+ILLINOIS - Metropolitan Counties,ILLINOIS ,Williamson,8,2,4,1,1,248,45,183,20,1
+ILLINOIS - Metropolitan Counties,ILLINOIS ,Winnebago,123,3,27,9,84,517,161,314,42,4
+ILLINOIS - Metropolitan Counties,ILLINOIS ,Woodford,24,5,3,1,15,104,37,62,5,1
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Brown,1,0,0,0,1,10,2,8,0,0
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Bureau,29,0,10,0,19,113,28,73,12,4
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Carroll,9,0,1,0,8,21,8,12,1,1
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Cass,2,0,0,0,2,30,9,20,1,0
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Clay,5,0,0,0,5,43,17,19,7,1
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Coles,16,0,5,0,11,98,21,66,11,1
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Crawford,6,0,1,0,5,76,15,59,2,0
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Cumberland,1,0,0,0,1,13,7,5,1,0
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Douglas,8,0,2,0,6,30,13,15,2,0
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Edgar,4,0,1,0,3,32,11,17,4,0
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Effingham,16,0,0,0,16,107,23,69,15,0
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Fayette,14,0,4,0,10,50,14,23,13,0
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Ford,11,0,1,0,10,52,18,34,0,0
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Franklin,14,0,0,0,14,217,56,151,10,0
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Gallatin,5,0,0,0,5,38,8,23,7,0
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Greene,9,0,0,0,9,20,4,15,1,1
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Hamilton,7,0,3,0,4,42,6,33,3,0
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Iroquois,19,3,2,0,14,142,48,74,20,1
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Jasper,48,0,13,1,34,56,32,18,6,1
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Jefferson,59,0,4,2,53,286,102,156,28,4
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Jo Daviess,6,0,2,1,3,74,27,43,4,0
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Knox,51,0,9,0,42,171,72,81,18,1
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,La Salle,33,0,12,0,21,167,45,110,12,2
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Lee,21,0,0,0,21,81,11,63,7,1
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Livingston,28,0,8,2,18,96,33,57,6,1
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Logan,11,0,1,0,10,63,29,31,3,0
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Marion,43,1,10,4,28,202,100,86,16,0
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Mason,12,0,2,0,10,85,16,66,3,1
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,McDonough,8,0,0,0,8,19,9,9,1,0
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Montgomery,42,0,5,0,37,133,51,79,3,1
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Morgan,11,0,3,2,6,108,57,45,6,0
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Moultrie,8,0,2,0,6,38,15,20,3,0
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Ogle,13,0,0,0,13,149,46,101,2,0
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Perry,7,0,3,0,4,67,26,37,4,0
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Pike,15,0,6,1,8,37,14,22,1,0
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Putnam,1,0,0,0,1,19,5,14,0,0
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Randolph,4,0,1,0,3,18,5,12,1,0
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Schuyler,3,0,0,0,3,14,0,14,0,0
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Scott,0,0,0,0,0,15,5,6,4,0
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Shelby,1,0,1,0,0,49,16,33,0,0
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Stephenson,36,2,13,1,20,87,21,62,4,1
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Wabash,0,0,0,0,0,2,1,1,0,0
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Wayne,15,0,4,1,10,108,40,56,12,0
+ILLINOIS - Nonmetropolitan Counties,ILLINOIS ,Whiteside,17,1,8,0,8,79,36,37,6,0
+INDIANA - Metropolitan Counties,INDIANA ,Allen,184,2,36,29,117,642,128,436,78,1
+INDIANA - Metropolitan Counties,INDIANA ,Bartholomew,51,0,18,2,31,402,75,287,40,
+INDIANA - Metropolitan Counties,INDIANA ,Floyd,16,2,1,1,12,281,37,200,44,
+INDIANA - Metropolitan Counties,INDIANA ,Franklin,4,0,0,0,4,137,30,89,18,0
+INDIANA - Metropolitan Counties,INDIANA ,Hancock,60,0,2,5,53,233,50,145,38,1
+INDIANA - Metropolitan Counties,INDIANA ,Howard,56,0,3,4,49,126,29,86,11,
+INDIANA - Metropolitan Counties,INDIANA ,La Porte,57,1,2,10,44,416,130,233,53,1
+INDIANA - Metropolitan Counties,INDIANA ,Madison,37,0,16,6,15,369,95,249,25,3
+INDIANA - Metropolitan Counties,INDIANA ,Porter,38,2,10,2,24,350,77,248,25,
+INDIANA - Metropolitan Counties,INDIANA ,Shelby,58,1,4,3,50,154,46,90,18,2
+INDIANA - Metropolitan Counties,INDIANA ,Tippecanoe,41,1,12,6,22,500,120,344,36,3
+INDIANA - Metropolitan Counties,INDIANA ,Vanderburgh,51,1,9,4,37,482,61,399,22,1
+INDIANA - Metropolitan Counties,INDIANA ,Vigo,218,0,11,10,197,,190,,91,10
+INDIANA - Metropolitan Counties,INDIANA ,Warrick,88,2,6,6,74,508,84,386,38,0
+INDIANA - Nonmetropolitan Counties,INDIANA ,Blackford6,8,1,0,1,6,16,5,11,0,1
+INDIANA - Nonmetropolitan Counties,INDIANA ,Clinton,19,1,6,0,12,175,47,121,7,0
+INDIANA - Nonmetropolitan Counties,INDIANA ,Gibson,32,0,7,0,25,116,23,81,12,1
+INDIANA - Nonmetropolitan Counties,INDIANA ,Grant,36,0,4,1,31,254,89,158,7,0
+INDIANA - Nonmetropolitan Counties,INDIANA ,Jackson,12,0,1,0,11,277,67,189,21,
+INDIANA - Nonmetropolitan Counties,INDIANA ,Jay,7,1,0,0,6,53,4,43,6,
+INDIANA - Nonmetropolitan Counties,INDIANA ,Jennings,10,3,5,0,2,89,70,19,0,1
+INDIANA - Nonmetropolitan Counties,INDIANA ,Lawrence,27,0,1,10,16,142,55,53,34,
+INDIANA - Nonmetropolitan Counties,INDIANA ,Pulaski,41,0,2,2,37,118,23,83,12,0
+INDIANA - Nonmetropolitan Counties,INDIANA ,Scott,6,0,4,0,2,219,70,144,5,1
+INDIANA - Nonmetropolitan Counties,INDIANA ,Starke6,36,1,1,3,31,196,38,137,21,0
+INDIANA - Nonmetropolitan Counties,INDIANA ,Steuben6,12,0,4,0,8,322,63,207,52,1
+INDIANA - Nonmetropolitan Counties,INDIANA ,Wayne,6,1,3,0,2,147,37,92,18,
+INDIANA - Nonmetropolitan Counties,INDIANA ,White,12,0,0,0,12,44,20,19,5,
+IOWA - Metropolitan Counties,IOWA ,Black Hawk,20,0,0,0,20,123,58,48,17,1
+IOWA - Metropolitan Counties,IOWA ,Boone,17,0,0,0,17,48,13,27,8,1
+IOWA - Metropolitan Counties,IOWA ,Bremer,4,0,2,0,2,24,14,9,1,0
+IOWA - Metropolitan Counties,IOWA ,Dubuque,13,1,7,0,5,114,30,68,16,0
+IOWA - Metropolitan Counties,IOWA ,Grundy,7,0,0,0,7,63,40,18,5,1
+IOWA - Metropolitan Counties,IOWA ,Guthrie,2,0,0,0,2,45,19,23,3,0
+IOWA - Metropolitan Counties,IOWA ,Harrison,7,0,0,0,7,43,12,25,6,2
+IOWA - Metropolitan Counties,IOWA ,Jasper,6,0,2,0,4,44,20,17,7,0
+IOWA - Metropolitan Counties,IOWA ,Johnson,65,0,8,1,56,196,60,116,20,4
+IOWA - Metropolitan Counties,IOWA ,Madison,2,0,0,0,2,26,14,11,1,0
+IOWA - Metropolitan Counties,IOWA ,Mills,17,0,1,0,16,98,28,53,17,2
+IOWA - Metropolitan Counties,IOWA ,Polk,112,0,14,9,89,822,211,486,125,4
+IOWA - Metropolitan Counties,IOWA ,Pottawattamie,57,1,7,3,46,251,54,173,24,4
+IOWA - Metropolitan Counties,IOWA ,Scott,40,2,6,0,32,170,53,100,17,0
+IOWA - Metropolitan Counties,IOWA ,Story,13,1,3,0,9,105,43,46,16,1
+IOWA - Metropolitan Counties,IOWA ,Warren,54,0,7,0,47,136,37,82,17,4
+IOWA - Metropolitan Counties,IOWA ,Washington,35,0,2,0,33,61,25,27,9,0
+IOWA - Metropolitan Counties,IOWA ,Woodbury,22,0,3,0,19,186,98,78,10,0
+IOWA - Nonmetropolitan Counties,IOWA ,Adair,0,0,0,0,0,24,7,14,3,0
+IOWA - Nonmetropolitan Counties,IOWA ,Adams,3,0,0,0,3,20,8,10,2,0
+IOWA - Nonmetropolitan Counties,IOWA ,Allamakee,7,0,1,0,6,20,5,13,2,0
+IOWA - Nonmetropolitan Counties,IOWA ,Appanoose,8,0,0,0,8,70,24,30,16,1
+IOWA - Nonmetropolitan Counties,IOWA ,Buchanan,33,0,8,0,25,115,41,57,17,5
+IOWA - Nonmetropolitan Counties,IOWA ,Buena Vista,12,0,1,0,11,41,29,10,2,0
+IOWA - Nonmetropolitan Counties,IOWA ,Butler,7,0,4,0,3,25,15,6,4,1
+IOWA - Nonmetropolitan Counties,IOWA ,Calhoun,8,0,0,0,8,31,12,14,5,1
+IOWA - Nonmetropolitan Counties,IOWA ,Cass,10,1,2,0,7,38,6,25,7,0
+IOWA - Nonmetropolitan Counties,IOWA ,Cedar,12,0,2,0,10,43,14,24,5,1
+IOWA - Nonmetropolitan Counties,IOWA ,Cerro Gordo,10,0,2,0,8,98,26,53,19,0
+IOWA - Nonmetropolitan Counties,IOWA ,Cherokee,2,0,1,0,1,12,7,5,0,0
+IOWA - Nonmetropolitan Counties,IOWA ,Chickasaw,10,0,1,0,9,29,9,15,5,0
+IOWA - Nonmetropolitan Counties,IOWA ,Clarke,7,0,2,0,5,36,11,16,9,1
+IOWA - Nonmetropolitan Counties,IOWA ,Clay,13,0,1,0,12,11,7,3,1,0
+IOWA - Nonmetropolitan Counties,IOWA ,Clayton,11,0,7,0,4,41,11,27,3,0
+IOWA - Nonmetropolitan Counties,IOWA ,Clinton,17,0,6,1,10,92,25,61,6,0
+IOWA - Nonmetropolitan Counties,IOWA ,Crawford,3,0,0,0,3,3,0,2,1,1
+IOWA - Nonmetropolitan Counties,IOWA ,Davis,4,0,0,0,4,1,0,1,0,0
+IOWA - Nonmetropolitan Counties,IOWA ,Delaware,4,0,3,0,1,46,7,30,9,2
+IOWA - Nonmetropolitan Counties,IOWA ,Des Moines,14,0,1,0,13,118,70,46,2,0
+IOWA - Nonmetropolitan Counties,IOWA ,Dickinson,5,0,0,0,5,29,12,13,4,0
+IOWA - Nonmetropolitan Counties,IOWA ,Emmet,0,0,0,0,0,7,0,5,2,0
+IOWA - Nonmetropolitan Counties,IOWA ,Franklin,0,0,0,0,0,1,0,0,1,0
+IOWA - Nonmetropolitan Counties,IOWA ,Fremont,11,0,2,1,8,43,16,22,5,1
+IOWA - Nonmetropolitan Counties,IOWA ,Hamilton,6,0,0,0,6,54,28,19,7,0
+IOWA - Nonmetropolitan Counties,IOWA ,Hancock,6,0,2,0,4,31,17,14,0,0
+IOWA - Nonmetropolitan Counties,IOWA ,Hardin,11,0,4,0,7,83,36,38,9,0
+IOWA - Nonmetropolitan Counties,IOWA ,Henry,20,0,0,0,20,69,20,46,3,2
+IOWA - Nonmetropolitan Counties,IOWA ,Howard,0,0,0,0,0,35,20,12,3,0
+IOWA - Nonmetropolitan Counties,IOWA ,Humboldt,0,0,0,0,0,41,11,28,2,1
+IOWA - Nonmetropolitan Counties,IOWA ,Ida,10,0,2,0,8,68,17,44,7,0
+IOWA - Nonmetropolitan Counties,IOWA ,Iowa,8,0,0,0,8,55,12,31,12,0
+IOWA - Nonmetropolitan Counties,IOWA ,Jackson,3,0,0,0,3,23,6,12,5,0
+IOWA - Nonmetropolitan Counties,IOWA ,Jefferson,2,0,1,0,1,26,11,12,3,0
+IOWA - Nonmetropolitan Counties,IOWA ,Kossuth,6,3,3,0,0,32,22,8,2,0
+IOWA - Nonmetropolitan Counties,IOWA ,Lee,15,0,2,0,13,108,42,49,17,0
+IOWA - Nonmetropolitan Counties,IOWA ,Louisa,23,0,6,0,17,58,18,35,5,0
+IOWA - Nonmetropolitan Counties,IOWA ,Lucas,12,0,2,2,8,68,29,34,5,0
+IOWA - Nonmetropolitan Counties,IOWA ,Lyon,11,0,2,0,9,57,21,26,10,0
+IOWA - Nonmetropolitan Counties,IOWA ,Mahaska,23,0,1,0,22,64,22,31,11,0
+IOWA - Nonmetropolitan Counties,IOWA ,Marion,19,0,10,0,9,44,12,28,4,0
+IOWA - Nonmetropolitan Counties,IOWA ,Marshall,42,0,3,0,39,94,31,49,14,3
+IOWA - Nonmetropolitan Counties,IOWA ,Mitchell,0,0,0,0,0,5,2,3,0,0
+IOWA - Nonmetropolitan Counties,IOWA ,Monona,16,0,1,0,15,37,15,15,7,0
+IOWA - Nonmetropolitan Counties,IOWA ,Monroe,5,0,3,0,2,20,5,8,7,0
+IOWA - Nonmetropolitan Counties,IOWA ,Muscatine,21,1,7,1,12,56,29,20,7,0
+IOWA - Nonmetropolitan Counties,IOWA ,O'Brien,21,0,5,0,16,57,12,41,4,1
+IOWA - Nonmetropolitan Counties,IOWA ,Osceola,14,0,1,0,13,73,14,57,2,0
+IOWA - Nonmetropolitan Counties,IOWA ,Page,3,0,1,0,2,26,9,11,6,0
+IOWA - Nonmetropolitan Counties,IOWA ,Palo Alto,15,0,2,0,13,48,23,21,4,0
+IOWA - Nonmetropolitan Counties,IOWA ,Plymouth,13,0,3,0,10,45,15,23,7,0
+IOWA - Nonmetropolitan Counties,IOWA ,Ringgold,4,0,0,0,4,21,4,16,1,0
+IOWA - Nonmetropolitan Counties,IOWA ,Sac,6,0,1,0,5,32,10,20,2,1
+IOWA - Nonmetropolitan Counties,IOWA ,Shelby,3,0,0,0,3,14,6,7,1,1
+IOWA - Nonmetropolitan Counties,IOWA ,Sioux,7,0,3,0,4,50,12,35,3,0
+IOWA - Nonmetropolitan Counties,IOWA ,Tama,23,0,1,0,22,57,22,23,12,0
+IOWA - Nonmetropolitan Counties,IOWA ,Taylor,8,0,0,0,8,14,3,8,3,1
+IOWA - Nonmetropolitan Counties,IOWA ,Union,4,0,0,0,4,46,14,28,4,0
+IOWA - Nonmetropolitan Counties,IOWA ,Van Buren,4,0,0,0,4,58,24,31,3,0
+IOWA - Nonmetropolitan Counties,IOWA ,Wapello,25,0,2,0,23,91,33,45,13,2
+IOWA - Nonmetropolitan Counties,IOWA ,Wayne,8,0,0,0,8,28,13,12,3,1
+IOWA - Nonmetropolitan Counties,IOWA ,Webster,27,0,4,0,23,113,41,59,13,2
+IOWA - Nonmetropolitan Counties,IOWA ,Winneshiek,9,0,2,0,7,12,1,8,3,0
+IOWA - Nonmetropolitan Counties,IOWA ,Worth,6,0,1,0,5,27,7,19,1,0
+IOWA - Nonmetropolitan Counties,IOWA ,Wright,4,0,1,0,3,21,4,14,3,1
+KANSAS - Metropolitan Counties,KANSAS ,Butler,49,0,12,1,36,301,61,201,39,3
+KANSAS - Metropolitan Counties,KANSAS ,Doniphan,1,0,0,0,1,8,3,4,1,0
+KANSAS - Metropolitan Counties,KANSAS ,Geary,15,1,1,0,13,32,8,19,5,0
+KANSAS - Metropolitan Counties,KANSAS ,Harvey,11,0,0,1,10,24,12,11,1,0
+KANSAS - Metropolitan Counties,KANSAS ,Jackson,15,0,3,0,12,122,17,96,9,1
+KANSAS - Metropolitan Counties,KANSAS ,Jefferson,33,0,11,1,21,224,25,164,35,1
+KANSAS - Metropolitan Counties,KANSAS ,Johnson,50,0,10,2,38,220,24,163,33,1
+KANSAS - Metropolitan Counties,KANSAS ,Linn,13,1,2,0,10,86,26,52,8,1
+KANSAS - Metropolitan Counties,KANSAS ,Osage4,14,0,1,1,12,,,31,10,1
+KANSAS - Metropolitan Counties,KANSAS ,Pottawatomie,27,0,5,1,21,177,42,111,24,4
+KANSAS - Metropolitan Counties,KANSAS ,Riley County Police Department4,263,1,32,21,209,,,998,105,13
+KANSAS - Metropolitan Counties,KANSAS ,Sedgwick,94,2,21,3,68,205,61,109,35,3
+KANSAS - Metropolitan Counties,KANSAS ,Shawnee,87,1,8,3,75,958,250,589,119,2
+KANSAS - Metropolitan Counties,KANSAS ,Sumner,12,0,2,2,8,156,65,75,16,3
+KANSAS - Metropolitan Counties,KANSAS ,Wabaunsee,14,0,2,0,12,77,29,45,3,2
+KANSAS - Metropolitan Counties,KANSAS ,Wyandotte,21,0,4,2,15,92,6,82,4,0
+KANSAS - Nonmetropolitan Counties,KANSAS ,Allen,14,0,3,0,11,51,22,22,7,0
+KANSAS - Nonmetropolitan Counties,KANSAS ,Anderson,8,0,0,0,8,31,13,14,4,0
+KANSAS - Nonmetropolitan Counties,KANSAS ,Barber,6,0,0,1,5,19,4,13,2,0
+KANSAS - Nonmetropolitan Counties,KANSAS ,Barton,20,1,3,0,16,69,15,52,2,0
+KANSAS - Nonmetropolitan Counties,KANSAS ,Bourbon,10,0,0,0,10,33,7,19,7,1
+KANSAS - Nonmetropolitan Counties,KANSAS ,Brown,5,0,0,0,5,16,5,8,3,0
+KANSAS - Nonmetropolitan Counties,KANSAS ,Clark,3,0,0,0,3,14,1,13,0,0
+KANSAS - Nonmetropolitan Counties,KANSAS ,Clay,2,0,0,1,1,5,0,5,0,0
+KANSAS - Nonmetropolitan Counties,KANSAS ,Cowley,30,0,8,0,22,125,45,67,13,1
+KANSAS - Nonmetropolitan Counties,KANSAS ,Crawford,22,1,2,1,18,157,1,125,31,2
+KANSAS - Nonmetropolitan Counties,KANSAS ,Dickinson,23,0,2,0,21,106,33,64,9,1
+KANSAS - Nonmetropolitan Counties,KANSAS ,Edwards,0,0,0,0,0,15,5,9,1,0
+KANSAS - Nonmetropolitan Counties,KANSAS ,Ellis,14,0,0,2,12,32,10,20,2,1
+KANSAS - Nonmetropolitan Counties,KANSAS ,Ellsworth,8,0,1,0,7,47,26,16,5,1
+KANSAS - Nonmetropolitan Counties,KANSAS ,Finney,28,1,5,2,20,135,28,83,24,1
+KANSAS - Nonmetropolitan Counties,KANSAS ,Ford,13,0,0,0,13,59,15,34,10,0
+KANSAS - Nonmetropolitan Counties,KANSAS ,Franklin,52,0,6,1,45,155,54,81,20,4
+KANSAS - Nonmetropolitan Counties,KANSAS ,Gove,4,0,2,0,2,7,2,4,1,0
+KANSAS - Nonmetropolitan Counties,KANSAS ,Grant,2,0,0,0,2,13,5,7,1,0
+KANSAS - Nonmetropolitan Counties,KANSAS ,Gray,4,0,2,0,2,42,6,33,3,0
+KANSAS - Nonmetropolitan Counties,KANSAS ,Greenwood,25,0,4,0,21,72,18,46,8,1
+KANSAS - Nonmetropolitan Counties,KANSAS ,Hamilton,9,0,1,1,7,21,3,16,2,0
+KANSAS - Nonmetropolitan Counties,KANSAS ,Haskell,0,0,0,0,0,22,5,15,2,0
+KANSAS - Nonmetropolitan Counties,KANSAS ,Jewell,2,0,1,0,1,16,10,5,1,0
+KANSAS - Nonmetropolitan Counties,KANSAS ,Kearny,12,0,3,0,9,74,14,55,5,0
+KANSAS - Nonmetropolitan Counties,KANSAS ,Kingman,3,0,0,0,3,30,8,19,3,0
+KANSAS - Nonmetropolitan Counties,KANSAS ,Kiowa,3,0,0,0,3,18,9,8,1,0
+KANSAS - Nonmetropolitan Counties,KANSAS ,Labette,6,0,0,0,6,55,22,29,4,0
+KANSAS - Nonmetropolitan Counties,KANSAS ,Logan,1,0,0,0,1,10,0,9,1,0
+KANSAS - Nonmetropolitan Counties,KANSAS ,Lyon,17,0,7,0,10,57,18,36,3,0
+KANSAS - Nonmetropolitan Counties,KANSAS ,Marion,9,0,1,0,8,40,17,17,6,0
+KANSAS - Nonmetropolitan Counties,KANSAS ,McPherson,14,0,1,0,13,37,15,20,2,0
+KANSAS - Nonmetropolitan Counties,KANSAS ,Mitchell,2,0,0,0,2,29,12,12,5,0
+KANSAS - Nonmetropolitan Counties,KANSAS ,Montgomery4,27,0,2,1,24,,,76,17,3
+KANSAS - Nonmetropolitan Counties,KANSAS ,Morris,7,0,0,0,7,21,8,10,3,0
+KANSAS - Nonmetropolitan Counties,KANSAS ,Nemaha,5,0,0,0,5,51,4,39,8,1
+KANSAS - Nonmetropolitan Counties,KANSAS ,Neosho,8,0,1,0,7,30,13,14,3,1
+KANSAS - Nonmetropolitan Counties,KANSAS ,Ness,8,0,0,0,8,18,5,11,2,0
+KANSAS - Nonmetropolitan Counties,KANSAS ,Osborne,1,0,0,0,1,26,14,10,2,0
+KANSAS - Nonmetropolitan Counties,KANSAS ,Phillips,5,0,0,0,5,5,2,2,1,0
+KANSAS - Nonmetropolitan Counties,KANSAS ,Pratt,5,0,1,0,4,20,13,5,2,0
+KANSAS - Nonmetropolitan Counties,KANSAS ,Reno,32,0,4,0,28,178,64,96,18,0
+KANSAS - Nonmetropolitan Counties,KANSAS ,Rice,4,0,0,0,4,28,3,20,5,0
+KANSAS - Nonmetropolitan Counties,KANSAS ,Rooks,3,1,1,0,1,16,5,10,1,1
+KANSAS - Nonmetropolitan Counties,KANSAS ,Rush,11,0,0,1,10,31,11,18,2,0
+KANSAS - Nonmetropolitan Counties,KANSAS ,Russell,5,0,1,0,4,40,13,22,5,0
+KANSAS - Nonmetropolitan Counties,KANSAS ,Seward,4,1,0,0,3,19,6,8,5,2
+KANSAS - Nonmetropolitan Counties,KANSAS ,Thomas,4,0,0,0,4,19,2,15,2,0
+KANSAS - Nonmetropolitan Counties,KANSAS ,Washington,3,0,0,0,3,5,3,0,2,0
+KANSAS - Nonmetropolitan Counties,KANSAS ,Wichita,4,0,0,0,4,5,1,3,1,0
+KANSAS - Nonmetropolitan Counties,KANSAS ,Wilson,10,0,2,0,8,47,14,28,5,1
+KANSAS - Nonmetropolitan Counties,KANSAS ,Woodson,1,0,0,0,1,19,7,11,1,0
+KENTUCKY - Metropolitan Counties,KENTUCKY ,Allen,8,0,2,1,5,86,38,37,11,2
+KENTUCKY - Metropolitan Counties,KENTUCKY ,Boone,66,0,24,15,27,817,152,553,112,5
+KENTUCKY - Metropolitan Counties,KENTUCKY ,Bourbon,3,0,1,0,2,55,16,31,8,0
+KENTUCKY - Metropolitan Counties,KENTUCKY ,Boyd,20,0,5,0,15,181,67,94,20,0
+KENTUCKY - Metropolitan Counties,KENTUCKY ,Bracken,2,0,0,1,1,50,12,25,13,0
+KENTUCKY - Metropolitan Counties,KENTUCKY ,Bullitt,20,0,5,5,10,347,90,205,52,1
+KENTUCKY - Metropolitan Counties,KENTUCKY ,Butler,2,0,0,0,2,32,10,15,7,0
+KENTUCKY - Metropolitan Counties,KENTUCKY ,Campbell,0,0,0,0,0,0,0,0,0,0
+KENTUCKY - Metropolitan Counties,KENTUCKY ,Campbell County Police Department,13,0,7,1,5,141,38,79,24,0
+KENTUCKY - Metropolitan Counties,KENTUCKY ,Carter,6,1,0,1,4,57,13,24,20,0
+KENTUCKY - Metropolitan Counties,KENTUCKY ,Christian,18,0,6,2,10,258,88,133,37,1
+KENTUCKY - Metropolitan Counties,KENTUCKY ,Clark,6,0,2,2,2,142,54,67,21,0
+KENTUCKY - Metropolitan Counties,KENTUCKY ,Daviess,20,2,9,1,8,374,93,242,39,4
+KENTUCKY - Metropolitan Counties,KENTUCKY ,Edmonson,9,0,0,0,9,22,4,12,6,0
+KENTUCKY - Metropolitan Counties,KENTUCKY ,Fayette,0,0,0,0,0,0,0,0,0,0
+KENTUCKY - Metropolitan Counties,KENTUCKY ,Gallatin,2,0,0,0,2,17,11,3,3,0
+KENTUCKY - Metropolitan Counties,KENTUCKY ,Grant,6,0,2,1,3,135,33,79,23,0
+KENTUCKY - Metropolitan Counties,KENTUCKY ,Greenup,3,0,0,1,2,34,4,18,12,0
+KENTUCKY - Metropolitan Counties,KENTUCKY ,Hancock,2,0,1,0,1,27,8,12,7,0
+KENTUCKY - Metropolitan Counties,KENTUCKY ,Hardin,16,1,3,3,9,140,39,79,22,3
+KENTUCKY - Metropolitan Counties,KENTUCKY ,Henderson,19,1,4,0,14,163,48,93,22,1
+KENTUCKY - Metropolitan Counties,KENTUCKY ,Henry,1,0,0,0,1,8,4,1,3,0
+KENTUCKY - Metropolitan Counties,KENTUCKY ,Jefferson,1,0,0,0,1,0,0,0,0,0
+KENTUCKY - Metropolitan Counties,KENTUCKY ,Jessamine,14,0,7,1,6,206,59,121,26,2
+KENTUCKY - Metropolitan Counties,KENTUCKY ,Kenton,0,0,0,0,0,6,0,5,1,0
+KENTUCKY - Metropolitan Counties,KENTUCKY ,Kenton County Police Department,19,0,7,5,7,116,41,69,6,2
+KENTUCKY - Metropolitan Counties,KENTUCKY ,Larue,3,0,0,1,2,18,4,5,9,0
+KENTUCKY - Metropolitan Counties,KENTUCKY ,McLean,2,0,1,0,1,53,27,18,8,0
+KENTUCKY - Metropolitan Counties,KENTUCKY ,Meade,14,0,0,2,12,122,48,52,22,1
+KENTUCKY - Metropolitan Counties,KENTUCKY ,Oldham,0,0,0,0,0,3,2,1,0,0
+KENTUCKY - Metropolitan Counties,KENTUCKY ,Oldham County Police Department,25,0,13,4,8,455,87,337,31,6
+KENTUCKY - Metropolitan Counties,KENTUCKY ,Pendleton,4,0,0,1,3,60,15,40,5,1
+KENTUCKY - Metropolitan Counties,KENTUCKY ,Scott,8,1,0,2,5,161,35,104,22,0
+KENTUCKY - Metropolitan Counties,KENTUCKY ,Shelby,18,0,3,4,11,244,56,162,26,1
+KENTUCKY - Metropolitan Counties,KENTUCKY ,Spencer,0,0,0,0,0,43,13,24,6,0
+KENTUCKY - Metropolitan Counties,KENTUCKY ,Trigg,6,0,1,0,5,98,42,51,5,0
+KENTUCKY - Metropolitan Counties,KENTUCKY ,Warren,39,1,16,5,17,537,165,313,59,0
+KENTUCKY - Metropolitan Counties,KENTUCKY ,Woodford,0,0,0,0,0,14,1,12,1,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Adair,1,0,0,0,1,5,1,3,1,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Anderson,2,0,0,0,2,15,4,7,4,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Ballard,9,0,1,0,8,62,21,32,9,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Barren,30,1,2,3,24,84,22,43,19,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Bath,4,0,0,0,4,33,11,17,5,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Bell,18,0,0,0,18,137,54,66,17,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Boyle,6,0,1,2,3,34,12,18,4,1
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Breathitt,2,2,0,0,0,10,6,3,1,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Breckinridge,7,1,0,1,5,40,13,13,14,1
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Caldwell,2,0,0,0,2,22,4,12,6,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Calloway,10,0,4,1,5,194,68,110,16,4
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Carlisle,2,0,0,1,1,19,5,13,1,1
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Carroll,5,0,1,3,1,54,18,27,9,1
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Casey,1,0,0,0,1,44,27,9,8,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Clay,4,1,0,0,3,95,30,32,33,1
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Clinton,0,0,0,0,0,15,2,6,7,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Crittenden,1,0,1,0,0,24,10,9,5,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Cumberland,0,0,0,0,0,10,6,1,3,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Elliott,0,0,0,0,0,0,0,0,0,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Estill,2,0,0,1,1,29,6,18,5,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Fleming,2,0,0,0,2,12,4,8,0,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Floyd,5,0,1,0,4,50,6,30,14,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Franklin,25,1,4,2,18,209,43,119,47,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Fulton,0,0,0,0,0,13,4,7,2,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Garrard,0,0,0,0,0,0,0,0,0,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Garrard County Police Department,3,0,0,0,3,69,21,36,12,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Graves,28,0,15,3,10,223,81,120,22,1
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Grayson,4,0,0,3,1,84,25,45,14,1
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Green,2,0,1,0,1,2,2,0,0,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Harlan,1,0,1,0,0,39,21,14,4,1
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Harrison,7,0,0,2,5,73,23,41,9,1
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Hart,3,0,1,1,1,79,32,30,17,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Hickman,0,0,0,0,0,13,5,6,2,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Hopkins,18,0,2,0,16,204,56,128,20,1
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Jackson,4,0,0,0,4,76,23,30,23,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Johnson,4,0,1,0,3,45,20,13,12,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Knott,2,0,0,1,1,26,4,17,5,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Knox,17,0,1,4,12,81,23,27,31,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Laurel,25,1,1,6,17,460,112,229,119,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Lawrence,3,0,0,2,1,42,11,16,15,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Lee,1,0,0,1,0,5,2,2,1,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Leslie,1,0,0,0,1,17,2,6,9,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Letcher,1,0,0,0,1,13,0,11,2,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Lewis,4,0,1,0,3,18,10,5,3,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Lincoln,5,0,0,0,5,57,16,21,20,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Livingston,2,0,0,0,2,52,19,26,7,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Logan,26,0,10,1,15,80,39,36,5,2
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Lyon,3,0,0,2,1,60,22,34,4,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Madison,18,0,4,3,11,226,60,139,27,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Magoffin,1,0,1,0,0,19,3,8,8,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Marion,3,0,0,2,1,49,22,23,4,1
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Marshall,19,0,7,2,10,204,61,119,24,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Martin,4,0,0,0,4,13,2,4,7,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Mason,4,0,0,0,4,73,36,26,11,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,McCracken,38,1,16,5,16,472,137,289,46,2
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,McCreary,1,0,0,0,1,58,12,30,16,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Menifee,0,0,0,0,0,10,2,4,4,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Mercer,2,0,0,0,2,49,17,30,2,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Metcalfe,2,0,0,0,2,34,21,9,4,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Monroe,0,0,0,0,0,9,1,6,2,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Montgomery,10,1,2,1,6,285,96,150,39,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Morgan,2,0,0,0,2,14,5,7,2,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Muhlenberg,14,0,0,2,12,66,24,31,11,2
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Nelson,22,0,6,0,16,213,57,122,34,3
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Nicholas,0,0,0,0,0,2,1,0,1,1
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Ohio,19,0,10,0,9,116,33,56,27,1
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Owen,2,0,1,0,1,28,14,9,5,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Owsley,0,0,0,0,0,16,3,3,10,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Perry,8,1,2,0,5,51,15,17,19,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Pike,2,0,1,0,1,33,4,24,5,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Powell,0,0,0,0,0,8,2,4,2,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Pulaski,30,0,13,3,14,315,135,124,56,2
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Robertson,0,0,0,0,0,8,1,6,1,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Rockcastle,3,0,1,1,1,40,15,15,10,1
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Rowan,8,0,4,1,3,65,27,31,7,1
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Russell,3,0,2,0,1,63,15,42,6,2
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Simpson,2,0,1,0,1,40,11,19,10,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Taylor,13,1,4,1,7,148,63,74,11,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Todd,1,0,0,0,1,45,24,13,8,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Trimble,0,0,0,0,0,11,4,4,3,1
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Union,3,0,0,0,3,35,12,19,4,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Washington,6,0,1,1,4,43,25,13,5,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Wayne,8,0,5,1,2,35,7,23,5,2
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Webster,0,0,0,0,0,21,7,9,5,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Whitley,9,0,0,1,8,176,78,67,31,0
+KENTUCKY - Nonmetropolitan Counties,KENTUCKY ,Wolfe,0,0,0,0,0,18,7,7,4,0
+LOUISIANA - Metropolitan Counties,LOUISIANA ,Acadia,109,4,10,8,87,514,192,271,51,0
+LOUISIANA - Metropolitan Counties,LOUISIANA ,Ascension,340,3,21,37,279,1519,260,1150,109,8
+LOUISIANA - Metropolitan Counties,LOUISIANA ,Assumption,70,1,6,0,63,215,25,182,8,0
+LOUISIANA - Metropolitan Counties,LOUISIANA ,Bossier,64,2,4,1,57,467,99,345,23,1
+LOUISIANA - Metropolitan Counties,LOUISIANA ,Caddo,8,1,1,0,6,309,46,245,18,1
+LOUISIANA - Metropolitan Counties,LOUISIANA ,Calcasieu,583,4,80,26,473,3819,869,2669,281,3
+LOUISIANA - Metropolitan Counties,LOUISIANA ,De Soto,72,1,6,4,61,358,92,245,21,0
+LOUISIANA - Metropolitan Counties,LOUISIANA ,East Baton Rouge,609,18,53,149,389,6475,729,5433,313,4
+LOUISIANA - Metropolitan Counties,LOUISIANA ,East Feliciana,70,4,2,2,62,131,32,85,14,0
+LOUISIANA - Metropolitan Counties,LOUISIANA ,Iberville,206,0,2,6,198,335,55,279,1,0
+LOUISIANA - Metropolitan Counties,LOUISIANA ,Jefferson,1240,45,99,264,832,9618,1079,8014,525,45
+LOUISIANA - Metropolitan Counties,LOUISIANA ,Lafourche,231,12,24,0,195,2084,451,1530,103,6
+LOUISIANA - Metropolitan Counties,LOUISIANA ,Livingston,550,9,53,16,472,2948,681,2094,173,0
+LOUISIANA - Metropolitan Counties,LOUISIANA ,Morehouse,30,2,4,4,20,226,58,142,26,0
+LOUISIANA - Metropolitan Counties,LOUISIANA ,Ouachita,425,7,42,39,337,2512,599,1724,189,7
+LOUISIANA - Metropolitan Counties,LOUISIANA ,Plaquemines,37,0,2,1,34,108,20,82,6,1
+LOUISIANA - Metropolitan Counties,LOUISIANA ,Pointe Coupee,154,3,3,1,147,286,66,194,26,0
+LOUISIANA - Metropolitan Counties,LOUISIANA ,Rapides,326,5,40,21,260,1512,554,850,108,8
+LOUISIANA - Metropolitan Counties,LOUISIANA ,St. Charles,133,3,4,19,107,762,133,592,37,5
+LOUISIANA - Metropolitan Counties,LOUISIANA ,St. Helena,54,5,1,1,47,137,27,101,9,0
+LOUISIANA - Metropolitan Counties,LOUISIANA ,St. James,59,2,0,0,57,371,124,226,21,1
+LOUISIANA - Metropolitan Counties,LOUISIANA ,St. John the Baptist,93,10,2,0,81,965,175,755,35,1
+LOUISIANA - Metropolitan Counties,LOUISIANA ,St. Martin,156,3,21,8,124,627,153,417,57,0
+LOUISIANA - Metropolitan Counties,LOUISIANA ,St. Tammany,259,8,32,13,206,1485,286,1076,123,3
+LOUISIANA - Metropolitan Counties,LOUISIANA ,Tangipahoa,688,10,36,78,564,2350,647,1463,240,8
+LOUISIANA - Metropolitan Counties,LOUISIANA ,West Baton Rouge,85,2,6,15,62,545,66,427,52,6
+LOUISIANA - Metropolitan Counties,LOUISIANA ,West Feliciana,34,0,3,1,30,60,13,42,5,0
+LOUISIANA - Nonmetropolitan Counties,LOUISIANA ,Allen7,19,1,8,0,10,,26,,28,0
+LOUISIANA - Nonmetropolitan Counties,LOUISIANA ,Beauregard,18,1,5,0,12,241,55,166,20,1
+LOUISIANA - Nonmetropolitan Counties,LOUISIANA ,Bienville,83,0,12,3,68,196,60,118,18,1
+LOUISIANA - Nonmetropolitan Counties,LOUISIANA ,Caldwell,38,1,0,0,37,207,60,132,15,0
+LOUISIANA - Nonmetropolitan Counties,LOUISIANA ,Claiborne,16,0,0,1,15,51,12,35,4,1
+LOUISIANA - Nonmetropolitan Counties,LOUISIANA ,Concordia,73,0,4,18,51,304,95,196,13,0
+LOUISIANA - Nonmetropolitan Counties,LOUISIANA ,East Carroll,21,5,3,0,13,28,8,18,2,1
+LOUISIANA - Nonmetropolitan Counties,LOUISIANA ,Franklin,58,2,0,1,55,143,32,102,9,0
+LOUISIANA - Nonmetropolitan Counties,LOUISIANA ,Jackson,6,0,0,0,6,52,14,34,4,0
+LOUISIANA - Nonmetropolitan Counties,LOUISIANA ,La Salle,30,0,2,1,27,66,28,31,7,0
+LOUISIANA - Nonmetropolitan Counties,LOUISIANA ,Lincoln,79,0,7,0,72,197,39,147,11,0
+LOUISIANA - Nonmetropolitan Counties,LOUISIANA ,Madison,11,1,0,0,10,27,8,18,1,1
+LOUISIANA - Nonmetropolitan Counties,LOUISIANA ,Natchitoches,79,2,7,4,66,371,92,245,34,0
+LOUISIANA - Nonmetropolitan Counties,LOUISIANA ,Red River,33,0,0,1,32,136,45,84,7,0
+LOUISIANA - Nonmetropolitan Counties,LOUISIANA ,Richland,12,1,3,1,7,40,20,18,2,2
+LOUISIANA - Nonmetropolitan Counties,LOUISIANA ,Sabine,27,1,8,0,18,194,8,186,0,0
+LOUISIANA - Nonmetropolitan Counties,LOUISIANA ,St. Landry,159,4,0,13,142,746,326,370,50,0
+LOUISIANA - Nonmetropolitan Counties,LOUISIANA ,St. Mary,121,0,12,9,100,563,121,400,42,1
+LOUISIANA - Nonmetropolitan Counties,LOUISIANA ,Tensas,6,0,1,1,4,18,8,9,1,0
+LOUISIANA - Nonmetropolitan Counties,LOUISIANA ,Vernon,58,1,8,4,45,451,87,327,37,1
+LOUISIANA - Nonmetropolitan Counties,LOUISIANA ,Washington,274,0,48,13,213,657,174,418,65,4
+LOUISIANA - Nonmetropolitan Counties,LOUISIANA ,Webster,21,2,7,1,11,151,64,65,22,0
+LOUISIANA - Nonmetropolitan Counties,LOUISIANA ,West Carroll,33,1,5,1,26,57,4,48,5,0
+LOUISIANA - Nonmetropolitan Counties,LOUISIANA ,Winn,32,2,2,1,27,63,21,24,18,0
+MAINE - Metropolitan Counties,MAINE ,Androscoggin,13,0,5,1,7,100,25,69,6,1
+MAINE - Metropolitan Counties,MAINE ,Cumberland,29,0,9,2,18,285,57,207,21,0
+MAINE - Metropolitan Counties,MAINE ,Penobscot,5,0,0,2,3,226,46,163,17,0
+MAINE - Metropolitan Counties,MAINE ,Sagadahoc6,8,0,1,1,6,58,17,36,5,1
+MAINE - Metropolitan Counties,MAINE ,York,20,0,4,4,12,291,70,209,12,0
+MAINE - Nonmetropolitan Counties,MAINE ,Aroostook,6,0,0,0,6,77,25,48,4,0
+MAINE - Nonmetropolitan Counties,MAINE ,Franklin,6,0,4,0,2,38,7,30,1,0
+MAINE - Nonmetropolitan Counties,MAINE ,Hancock,4,0,1,0,3,72,16,49,7,0
+MAINE - Nonmetropolitan Counties,MAINE ,Kennebec,21,0,4,1,16,174,51,117,6,0
+MAINE - Nonmetropolitan Counties,MAINE ,Knox,5,0,0,0,5,156,21,122,13,1
+MAINE - Nonmetropolitan Counties,MAINE ,Lincoln,25,0,19,0,6,128,29,92,7,0
+MAINE - Nonmetropolitan Counties,MAINE ,Oxford,25,0,13,3,9,223,56,156,11,0
+MAINE - Nonmetropolitan Counties,MAINE ,Piscataquis,4,0,2,0,2,45,10,32,3,0
+MAINE - Nonmetropolitan Counties,MAINE ,Somerset,33,0,14,3,16,296,59,212,25,6
+MAINE - Nonmetropolitan Counties,MAINE ,Waldo6,13,0,0,1,12,75,33,38,4,0
+MAINE - Nonmetropolitan Counties,MAINE ,Washington,14,0,1,0,13,82,26,54,2,0
+MARYLAND - Metropolitan Counties,MARYLAND ,Allegany,43,0,8,4,31,178,51,119,8,
+MARYLAND - Metropolitan Counties,MARYLAND ,Anne Arundel,0,0,0,0,0,0,0,0,0,0
+MARYLAND - Metropolitan Counties,MARYLAND ,Anne Arundel County Police Department,1580,16,148,371,1045,9594,1045,7986,563,31
+MARYLAND - Metropolitan Counties,MARYLAND ,Baltimore County,0,0,0,0,0,0,0,0,0,0
+MARYLAND - Metropolitan Counties,MARYLAND ,Baltimore County Police Department,4718,50,382,1155,3131,20246,2539,16114,1593,144
+MARYLAND - Metropolitan Counties,MARYLAND ,Calvert,111,0,18,18,75,760,109,618,33,3
+MARYLAND - Metropolitan Counties,MARYLAND ,Cecil,69,2,5,12,50,398,95,273,30,1
+MARYLAND - Metropolitan Counties,MARYLAND ,Charles,539,5,64,118,352,2213,284,1778,151,9
+MARYLAND - Metropolitan Counties,MARYLAND ,Frederick,196,0,20,23,153,1183,153,979,51,9
+MARYLAND - Metropolitan Counties,MARYLAND ,Harford,252,5,32,45,170,1624,257,1275,92,1
+MARYLAND - Metropolitan Counties,MARYLAND ,Howard,0,0,0,0,0,1,0,1,0,0
+MARYLAND - Metropolitan Counties,MARYLAND ,Howard County Police Department,512,8,57,167,280,4303,428,3612,263,26
+MARYLAND - Metropolitan Counties,MARYLAND ,Montgomery,7,0,0,0,7,0,0,0,0,0
+MARYLAND - Metropolitan Counties,MARYLAND ,Montgomery County Police Department,1491,15,288,512,676,14209,1329,12016,864,6
+MARYLAND - Metropolitan Counties,MARYLAND ,Prince George's County Police Department6,1983,50,185,831,917,10750,1253,7426,2071,44
+MARYLAND - Metropolitan Counties,MARYLAND ,Queen Anne's,45,0,5,4,36,317,52,249,16,3
+MARYLAND - Metropolitan Counties,MARYLAND ,Somerset,6,0,1,0,5,40,2,38,0,0
+MARYLAND - Metropolitan Counties,MARYLAND ,St. Mary's,202,1,20,39,142,1663,301,1297,65,6
+MARYLAND - Metropolitan Counties,MARYLAND ,Washington,254,0,19,30,205,1081,261,787,33,0
+MARYLAND - Metropolitan Counties,MARYLAND ,Wicomico,50,0,6,10,34,486,119,350,17,1
+MARYLAND - Metropolitan Counties,MARYLAND ,Worcester,15,0,4,2,9,248,33,207,8,1
+MARYLAND - Nonmetropolitan Counties,MARYLAND ,Caroline,12,0,2,6,4,184,61,112,11,1
+MARYLAND - Nonmetropolitan Counties,MARYLAND ,Dorchester,15,0,2,1,12,137,31,98,8,0
+MARYLAND - Nonmetropolitan Counties,MARYLAND ,Garrett,60,0,11,0,49,159,37,119,3,0
+MARYLAND - Nonmetropolitan Counties,MARYLAND ,Kent,5,0,2,1,2,94,33,58,3,1
+MARYLAND - Nonmetropolitan Counties,MARYLAND ,Talbot,19,0,5,0,14,111,39,70,2,0
+MICHIGAN - Metropolitan Counties,MICHIGAN ,Bay,68,1,15,7,45,422,80,324,18,1
+MICHIGAN - Metropolitan Counties,MICHIGAN ,Berrien,117,0,37,7,73,689,106,532,51,8
+MICHIGAN - Metropolitan Counties,MICHIGAN ,Cass,0,0,0,0,0,0,0,0,0,0
+MICHIGAN - Metropolitan Counties,MICHIGAN ,Clinton,14,0,5,0,9,97,19,62,16,0
+MICHIGAN - Metropolitan Counties,MICHIGAN ,Eaton,154,2,46,21,85,981,114,808,59,2
+MICHIGAN - Metropolitan Counties,MICHIGAN ,Genesee4,155,1,16,5,133,,,347,32,3
+MICHIGAN - Metropolitan Counties,MICHIGAN ,Ingham,182,2,50,12,118,479,104,336,39,0
+MICHIGAN - Metropolitan Counties,MICHIGAN ,Ionia,61,1,31,1,28,217,35,164,18,1
+MICHIGAN - Metropolitan Counties,MICHIGAN ,Kalamazoo,290,2,56,34,198,2529,493,1814,222,5
+MICHIGAN - Metropolitan Counties,MICHIGAN ,Kent,390,4,135,30,221,2325,333,1850,142,7
+MICHIGAN - Metropolitan Counties,MICHIGAN ,Lapeer,55,1,26,1,27,180,44,112,24,0
+MICHIGAN - Metropolitan Counties,MICHIGAN ,Livingston,63,0,23,5,35,416,48,347,21,3
+MICHIGAN - Metropolitan Counties,MICHIGAN ,Macomb,272,1,69,30,172,1046,193,758,95,6
+MICHIGAN - Metropolitan Counties,MICHIGAN ,Midland,47,0,24,0,23,259,53,196,10,0
+MICHIGAN - Metropolitan Counties,MICHIGAN ,Montcalm,18,0,6,0,12,109,30,74,5,2
+MICHIGAN - Metropolitan Counties,MICHIGAN ,Muskegon,68,1,29,2,36,421,87,314,20,2
+MICHIGAN - Metropolitan Counties,MICHIGAN ,Oakland,23,0,6,5,12,37,2,30,5,1
+MICHIGAN - Metropolitan Counties,MICHIGAN ,Ottawa,571,3,216,32,320,2081,331,1650,100,22
+MICHIGAN - Metropolitan Counties,MICHIGAN ,Saginaw,99,0,28,10,61,522,74,435,13,1
+MICHIGAN - Metropolitan Counties,MICHIGAN ,Shiawassee,15,0,5,0,10,152,49,95,8,1
+MICHIGAN - Metropolitan Counties,MICHIGAN ,St. Clair,146,1,38,9,98,540,129,372,39,7
+MICHIGAN - Metropolitan Counties,MICHIGAN ,Washtenaw,574,3,71,55,445,1655,268,1218,169,8
+MICHIGAN - Metropolitan Counties,MICHIGAN ,Wayne,20,0,1,0,19,1,0,1,0,0
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Alcona,10,0,1,0,9,62,12,50,0,0
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Alger,3,0,0,0,3,2,1,1,0,0
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Allegan,100,0,14,3,83,535,112,369,54,3
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Alpena,23,0,9,0,14,51,12,39,0,0
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Antrim,33,1,12,0,20,130,36,85,9,2
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Arenac,25,0,7,1,17,71,35,33,3,2
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Baraga,3,0,0,0,3,15,4,9,2,0
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Barry,83,2,53,2,26,304,78,205,21,0
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Benzie,19,0,4,0,15,38,6,28,4,1
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Branch,13,0,3,0,10,119,38,67,14,1
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Charlevoix,30,0,12,0,18,96,41,52,3,1
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Cheboygan,22,0,9,0,13,30,8,21,1,0
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Chippewa,6,0,3,0,3,11,3,8,0,1
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Crawford,21,0,5,0,16,95,40,50,5,1
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Delta,4,0,1,0,3,46,2,41,3,0
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Dickinson,1,0,1,0,0,0,0,0,0,0
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Emmet,50,0,10,0,40,72,10,60,2,1
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Gladwin,31,0,2,0,29,115,49,61,5,2
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Gogebic,4,0,1,0,3,29,6,22,1,1
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Grand Traverse,145,2,57,4,82,510,65,430,15,4
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Gratiot,34,1,12,1,20,273,19,239,15,2
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Hillsdale,70,0,18,0,52,133,57,60,16,6
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Huron,16,0,7,1,8,91,31,57,3,1
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Iosco,3,0,0,0,3,1,0,1,0,0
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Iron,0,0,0,0,0,0,0,0,0,0
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Isabella,47,0,20,3,24,256,51,186,19,2
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Keweenaw,1,0,1,0,0,13,5,8,0,0
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Leelanau,7,0,2,0,5,39,11,27,1,0
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Lenawee,45,2,19,2,22,169,54,105,10,4
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Luce,35,0,1,0,34,84,15,67,2,0
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Mackinac,10,0,2,0,8,107,9,97,1,0
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Manistee,39,0,17,0,22,118,19,94,5,2
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Marquette,15,0,6,1,8,87,3,77,7,1
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Mason,36,2,7,0,27,138,29,106,3,0
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Mecosta,99,1,15,1,82,378,85,269,24,9
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Menominee,19,1,5,0,13,63,34,28,1,0
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Missaukee,26,0,5,0,21,51,8,40,3,2
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Montmorency,9,0,1,0,8,17,5,10,2,1
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Newaygo,40,0,8,0,32,241,80,152,9,2
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Oceana,46,0,5,0,41,186,56,122,8,1
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Ogemaw,12,0,4,0,8,138,42,94,2,1
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Ontonagon,8,0,0,0,8,14,3,8,3,0
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Osceola,31,0,13,0,18,140,34,98,8,0
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Oscoda,18,0,7,0,11,74,18,47,9,1
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Otsego,0,0,0,0,0,2,1,1,0,0
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Presque Isle,10,0,2,0,8,33,6,23,4,0
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Sanilac,34,0,3,2,29,87,34,41,12,0
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Schoolcraft,1,0,0,0,1,4,0,3,1,0
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,St. Joseph,67,1,15,2,49,224,81,113,30,2
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Tuscola,61,1,18,1,41,160,56,91,13,1
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Van Buren,97,1,32,1,63,376,114,231,31,3
+MICHIGAN - Nonmetropolitan Counties,MICHIGAN ,Wexford,25,0,15,0,10,260,92,153,15,0
+MINNESOTA - Metropolitan Counties,MINNESOTA ,Anoka6,75,0,18,7,50,936,112,731,93,0
+MINNESOTA - Metropolitan Counties,MINNESOTA ,Benton,9,0,5,1,3,173,41,101,31,1
+MINNESOTA - Metropolitan Counties,MINNESOTA ,Blue Earth,24,0,8,0,16,105,25,66,14,0
+MINNESOTA - Metropolitan Counties,MINNESOTA ,Carlton,12,0,4,0,8,166,56,93,17,1
+MINNESOTA - Metropolitan Counties,MINNESOTA ,Carver,38,0,16,4,18,497,77,401,19,1
+MINNESOTA - Metropolitan Counties,MINNESOTA ,Chisago,12,0,0,2,10,152,18,119,15,0
+MINNESOTA - Metropolitan Counties,MINNESOTA ,Clay,7,0,1,2,4,58,22,29,7,0
+MINNESOTA - Metropolitan Counties,MINNESOTA ,Dakota,17,0,2,0,15,48,13,34,1,1
+MINNESOTA - Metropolitan Counties,MINNESOTA ,Dodge6,11,0,1,0,10,104,27,71,6,0
+MINNESOTA - Metropolitan Counties,MINNESOTA ,Fillmore,9,0,2,0,7,59,11,46,2,1
+MINNESOTA - Metropolitan Counties,MINNESOTA ,Hennepin,20,0,0,0,20,44,5,35,4,0
+MINNESOTA - Metropolitan Counties,MINNESOTA ,Houston6,5,0,0,0,5,29,15,13,1,0
+MINNESOTA - Metropolitan Counties,MINNESOTA ,Isanti,15,0,4,0,11,232,43,165,24,1
+MINNESOTA - Metropolitan Counties,MINNESOTA ,Lake,0,0,0,0,0,19,14,5,0,0
+MINNESOTA - Metropolitan Counties,MINNESOTA ,Le Sueur,4,0,2,0,2,60,4,53,3,0
+MINNESOTA - Metropolitan Counties,MINNESOTA ,Mille Lacs,34,0,14,2,18,354,94,225,35,0
+MINNESOTA - Metropolitan Counties,MINNESOTA ,Nicollet,7,0,6,1,0,52,13,37,2,0
+MINNESOTA - Metropolitan Counties,MINNESOTA ,Olmsted6,40,1,3,3,33,228,57,153,18,2
+MINNESOTA - Metropolitan Counties,MINNESOTA ,Polk6,34,1,4,0,29,167,49,112,6,0
+MINNESOTA - Metropolitan Counties,MINNESOTA ,Ramsey,141,1,22,27,91,1249,158,930,161,8
+MINNESOTA - Metropolitan Counties,MINNESOTA ,Scott,4,0,0,0,4,25,8,15,2,0
+MINNESOTA - Metropolitan Counties,MINNESOTA ,Sherburne,30,2,5,1,22,272,26,226,20,2
+MINNESOTA - Metropolitan Counties,MINNESOTA ,Stearns,21,0,12,1,8,164,32,124,8,0
+MINNESOTA - Metropolitan Counties,MINNESOTA ,St. Louis6,50,1,22,0,27,566,208,303,55,5
+MINNESOTA - Metropolitan Counties,MINNESOTA ,Wabasha,7,0,1,0,6,22,3,16,3,0
+MINNESOTA - Metropolitan Counties,MINNESOTA ,Washington,52,0,27,7,18,579,116,428,35,2
+MINNESOTA - Metropolitan Counties,MINNESOTA ,Wright,98,0,45,3,50,1396,127,1204,65,3
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Aitkin6,11,1,3,0,7,167,59,99,9,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Becker,29,0,11,0,18,134,57,59,18,2
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Beltrami,50,2,13,2,33,268,74,164,30,3
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Big Stone,0,0,0,0,0,14,5,7,2,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Brown6,5,0,2,0,3,31,6,21,4,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Cass6,37,1,5,3,28,486,143,293,50,1
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Chippewa,2,0,0,0,2,1,0,1,0,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Clearwater,10,0,1,0,9,47,19,24,4,1
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Cook,10,0,5,0,5,47,6,36,5,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Cottonwood6,2,0,0,0,2,13,6,3,4,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Crow Wing,15,0,6,0,9,210,71,121,18,1
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Douglas,18,0,4,1,13,180,50,114,16,1
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Faribault,12,0,0,0,12,27,8,11,8,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Freeborn,11,0,1,0,10,84,28,48,8,6
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Goodhue,10,0,4,0,6,171,39,103,29,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Grant,2,0,0,0,2,6,1,5,0,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Hubbard,18,0,9,0,9,170,46,105,19,1
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Itasca6,46,1,15,0,30,134,35,79,20,3
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Jackson6,6,0,0,0,6,30,11,16,3,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Kandiyohi,25,0,10,1,14,170,32,121,17,1
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Kittson,0,0,0,0,0,0,0,0,0,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Koochiching,6,0,1,0,5,32,7,19,6,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Lac qui Parle6,0,0,0,0,0,20,3,14,3,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Lake of the Woods,6,0,1,0,5,9,4,3,2,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Lyon6,4,0,1,0,3,34,13,15,6,1
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Mahnomen,10,0,1,0,9,42,14,23,5,1
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Martin,0,0,0,0,0,14,5,7,2,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,McLeod,11,0,6,0,5,55,10,40,5,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Meeker,4,0,0,1,3,103,21,77,5,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Morrison,10,0,0,0,10,195,45,128,22,1
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Mower,9,0,2,0,7,68,18,40,10,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Murray6,2,0,0,0,2,6,1,5,0,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Nobles,6,0,1,0,5,35,10,21,4,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Norman,0,0,0,0,0,0,0,0,0,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Otter Tail,30,0,8,1,21,214,65,135,14,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Pennington,2,0,0,1,1,45,21,20,4,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Pine,138,0,42,3,93,563,126,374,63,4
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Pipestone,5,0,0,0,5,80,14,64,2,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Pope,6,0,1,1,4,49,18,26,5,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Red Lake6,3,0,2,0,1,16,0,15,1,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Redwood,6,0,0,0,6,44,9,32,3,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Renville,5,0,2,0,3,81,18,55,8,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Rice,18,0,7,1,10,142,42,92,8,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Rock,7,0,1,0,6,57,14,29,14,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Roseau,6,0,2,0,4,31,2,27,2,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Sibley,2,0,0,0,2,1,1,0,0,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Steele,12,0,3,2,7,76,17,48,11,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Stevens,2,0,1,0,1,33,9,24,0,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Swift,2,0,0,1,1,2,0,1,1,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Todd6,17,2,7,0,8,140,39,91,10,1
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Traverse6,6,0,1,0,5,12,1,6,5,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Wadena,10,0,2,0,8,10,1,8,1,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Waseca,4,0,3,0,1,55,13,41,1,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Watonwan6,8,0,5,0,3,26,15,10,1,1
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Wilkin,0,0,0,0,0,20,6,11,3,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Winona,6,0,2,0,4,79,14,60,5,0
+MINNESOTA - Nonmetropolitan Counties,MINNESOTA ,Yellow Medicine,3,0,1,0,2,35,8,24,3,1
+MISSISSIPPI - Metropolitan Counties,MISSISSIPPI ,DeSoto,35,2,7,4,22,359,86,228,45,1
+MISSISSIPPI - Metropolitan Counties,MISSISSIPPI ,Hancock,28,0,2,6,20,516,108,354,54,1
+MISSISSIPPI - Metropolitan Counties,MISSISSIPPI ,Harrison,60,2,12,17,29,869,172,559,138,4
+MISSISSIPPI - Metropolitan Counties,MISSISSIPPI ,Hinds,111,5,6,6,94,383,150,169,64,0
+MISSISSIPPI - Metropolitan Counties,MISSISSIPPI ,Jackson,135,1,30,11,93,1388,292,860,236,7
+MISSISSIPPI - Metropolitan Counties,MISSISSIPPI ,Lamar,87,3,20,10,54,637,166,434,37,2
+MISSISSIPPI - Metropolitan Counties,MISSISSIPPI ,Madison8,,2,,3,28,223,78,125,20,2
+MISSISSIPPI - Metropolitan Counties,MISSISSIPPI ,Stone,47,1,15,1,30,174,56,96,22,3
+MISSISSIPPI - Metropolitan Counties,MISSISSIPPI ,Tunica8,,4,,7,25,383,72,261,50,2
+MISSISSIPPI - Nonmetropolitan Counties,MISSISSIPPI ,Choctaw,6,1,1,0,4,57,14,40,3,0
+MISSISSIPPI - Nonmetropolitan Counties,MISSISSIPPI ,Claiborne,21,2,1,1,17,87,62,8,17,0
+MISSISSIPPI - Nonmetropolitan Counties,MISSISSIPPI ,George6,21,0,7,0,14,315,82,184,49,5
+MISSISSIPPI - Nonmetropolitan Counties,MISSISSIPPI ,Lauderdale,27,2,4,8,13,410,230,139,41,10
+MISSISSIPPI - Nonmetropolitan Counties,MISSISSIPPI ,Leflore8,,4,,15,67,250,71,163,16,4
+MISSISSIPPI - Nonmetropolitan Counties,MISSISSIPPI ,Lincoln,31,0,1,11,19,299,86,203,10,0
+MISSISSIPPI - Nonmetropolitan Counties,MISSISSIPPI ,Oktibbeha8,,0,,3,33,464,319,135,10,5
+MISSISSIPPI - Nonmetropolitan Counties,MISSISSIPPI ,Tishomingo,15,0,6,1,8,115,43,57,15,0
+MISSOURI - Metropolitan Counties,MISSOURI ,Andrew,1,0,0,0,1,41,12,24,5,0
+MISSOURI - Metropolitan Counties,MISSOURI ,Bates,34,0,6,1,27,120,51,69,0,0
+MISSOURI - Metropolitan Counties,MISSOURI ,Buchanan,41,0,17,2,22,213,38,113,62,4
+MISSOURI - Metropolitan Counties,MISSOURI ,Caldwell,20,2,0,0,18,87,21,54,12,0
+MISSOURI - Metropolitan Counties,MISSOURI ,Christian,64,0,5,1,58,250,85,137,28,
+MISSOURI - Metropolitan Counties,MISSOURI ,Clinton,16,0,4,1,11,53,12,36,5,0
+MISSOURI - Metropolitan Counties,MISSOURI ,Cole,34,1,0,1,32,381,62,286,33,1
+MISSOURI - Metropolitan Counties,MISSOURI ,Dallas,5,0,0,0,5,23,6,12,5,0
+MISSOURI - Metropolitan Counties,MISSOURI ,DeKalb,5,1,0,0,4,51,16,25,10,1
+MISSOURI - Metropolitan Counties,MISSOURI ,Franklin7,37,0,4,2,31,,,135,55,3
+MISSOURI - Metropolitan Counties,MISSOURI ,Howard6,17,0,2,1,14,35,8,22,5,0
+MISSOURI - Metropolitan Counties,MISSOURI ,Jefferson,386,3,36,27,320,2722,621,1656,445,12
+MISSOURI - Metropolitan Counties,MISSOURI ,Platte,48,0,15,1,32,290,54,186,50,1
+MISSOURI - Metropolitan Counties,MISSOURI ,Polk,34,0,9,0,25,326,100,201,25,0
+MISSOURI - Metropolitan Counties,MISSOURI ,St. Charles6,0,0,0,0,0,0,0,0,0,0
+MISSOURI - Metropolitan Counties,MISSOURI ,St. Charles County Police Department6,139,2,22,13,102,757,129,547,81,6
+MISSOURI - Metropolitan Counties,MISSOURI ,St. Louis County Police Department,1821,44,188,342,1247,8077,1365,5390,1322,58
+MISSOURI - Metropolitan Counties,MISSOURI ,Webster,9,1,0,0,8,178,61,97,20,0
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Adair,5,0,0,0,5,97,45,45,7,1
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Benton,22,2,1,0,19,214,70,114,30,
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Camden6,89,1,18,2,68,413,187,186,40,2
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Carroll,6,0,1,0,5,32,12,9,11,0
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Carter6,21,0,2,0,19,54,23,20,11,0
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Cedar,36,0,3,0,33,53,16,37,0,1
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Dade,45,0,0,0,45,65,25,36,4,1
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Daviess,17,0,0,0,17,29,10,14,5,0
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Dent,12,1,5,1,5,71,46,22,3,
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Gasconade,49,1,0,1,47,178,51,94,33,0
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Gentry,1,0,0,0,1,30,14,11,5,0
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Grundy,2,0,0,0,2,15,7,7,1,0
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Harrison,3,0,0,0,3,33,17,12,4,0
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Henry,78,0,5,1,72,267,117,112,38,9
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Hickory,1,0,0,0,1,81,29,43,9,0
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Howell,70,1,0,2,67,349,69,188,92,0
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Iron,4,0,1,0,3,63,21,28,14,
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Laclede,49,0,13,1,35,333,86,197,50,1
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Lawrence,17,1,2,3,11,224,69,130,25,0
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Linn,8,0,0,0,8,20,7,11,2,0
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Livingston,2,0,0,0,2,26,8,17,1,0
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Macon,4,0,2,1,1,66,30,35,1,0
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Madison,0,0,0,0,0,0,0,0,0,0
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Mercer,0,0,0,0,0,2,1,1,0,0
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Oregon,29,0,3,0,26,91,43,33,15,0
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Ozark,20,0,2,0,18,45,21,18,6,0
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Pemiscot,22,2,4,2,14,80,26,43,11,
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Perry,31,0,0,0,31,39,19,13,7,0
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Pulaski,157,0,12,4,141,346,103,205,38,0
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Ralls,30,0,0,1,29,82,30,43,9,0
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Randolph,11,0,1,0,10,101,31,57,13,1
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Schuyler,4,1,0,0,3,36,6,25,5,0
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Shannon,17,0,2,0,15,22,4,13,5,1
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Shelby,3,0,1,0,2,8,3,4,1,0
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,St. Clair,15,0,2,2,11,111,32,64,15,2
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Ste. Genevieve,53,0,7,0,46,128,23,88,17,0
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Stoddard6,52,0,5,3,44,214,66,126,22,0
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Taney,82,0,4,6,72,298,73,174,51,2
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Texas,39,1,1,2,35,131,46,54,31,1
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Wayne,23,0,2,0,21,171,58,91,22,2
+MISSOURI - Nonmetropolitan Counties,MISSOURI ,Worth,6,0,0,0,6,6,0,4,2,0
+MONTANA - Metropolitan Counties,MONTANA ,Carbon,21,0,2,1,18,43,10,25,8,0
+MONTANA - Metropolitan Counties,MONTANA ,Cascade4,,,4,3,69,248,57,157,34,4
+MONTANA - Metropolitan Counties,MONTANA ,Stillwater,18,0,3,0,15,52,8,36,8,1
+MONTANA - Metropolitan Counties,MONTANA ,Yellowstone,143,3,18,6,116,656,85,482,89,4
+MONTANA - Nonmetropolitan Counties,MONTANA ,Beaverhead,3,0,0,0,3,4,2,2,0,0
+MONTANA - Nonmetropolitan Counties,MONTANA ,Big Horn,53,0,6,2,45,46,2,36,8,1
+MONTANA - Nonmetropolitan Counties,MONTANA ,Broadwater,27,0,5,0,22,31,6,22,3,0
+MONTANA - Nonmetropolitan Counties,MONTANA ,Butte-Silver Bow,120,0,9,6,105,1372,154,1070,148,4
+MONTANA - Nonmetropolitan Counties,MONTANA ,Carter,0,0,0,0,0,0,0,0,0,0
+MONTANA - Nonmetropolitan Counties,MONTANA ,Custer,6,0,0,0,6,29,2,21,6,0
+MONTANA - Nonmetropolitan Counties,MONTANA ,Dawson,10,0,2,0,8,12,4,7,1,1
+MONTANA - Nonmetropolitan Counties,MONTANA ,Deer Lodge,13,0,1,0,12,268,66,176,26,1
+MONTANA - Nonmetropolitan Counties,MONTANA ,Fergus,13,0,2,0,11,32,3,20,9,2
+MONTANA - Nonmetropolitan Counties,MONTANA ,Flathead,191,2,36,6,147,862,141,622,99,4
+MONTANA - Nonmetropolitan Counties,MONTANA ,Gallatin,86,0,25,0,61,392,25,333,34,1
+MONTANA - Nonmetropolitan Counties,MONTANA ,Garfield,0,0,0,0,0,0,0,0,0,0
+MONTANA - Nonmetropolitan Counties,MONTANA ,Golden Valley,2,0,0,0,2,7,3,4,0,0
+MONTANA - Nonmetropolitan Counties,MONTANA ,Hill,22,1,3,1,17,146,10,119,17,4
+MONTANA - Nonmetropolitan Counties,MONTANA ,Jefferson,23,0,2,0,21,83,27,42,14,0
+MONTANA - Nonmetropolitan Counties,MONTANA ,Lake,81,3,10,1,67,260,52,163,45,3
+MONTANA - Nonmetropolitan Counties,MONTANA ,Lewis and Clark,63,1,12,1,49,330,74,201,55,3
+MONTANA - Nonmetropolitan Counties,MONTANA ,Lincoln,22,0,2,0,20,69,6,56,7,0
+MONTANA - Nonmetropolitan Counties,MONTANA ,Madison,10,0,2,0,8,50,11,31,8,1
+MONTANA - Nonmetropolitan Counties,MONTANA ,McCone,0,0,0,0,0,4,1,3,0,0
+MONTANA - Nonmetropolitan Counties,MONTANA ,Meagher,6,0,0,0,6,8,3,5,0,0
+MONTANA - Nonmetropolitan Counties,MONTANA ,Musselshell,11,0,1,0,10,28,2,21,5,2
+MONTANA - Nonmetropolitan Counties,MONTANA ,Park,12,0,6,0,6,26,2,21,3,0
+MONTANA - Nonmetropolitan Counties,MONTANA ,Phillips,15,0,2,0,13,52,8,34,10,0
+MONTANA - Nonmetropolitan Counties,MONTANA ,Powell,12,1,3,0,8,19,4,8,7,1
+MONTANA - Nonmetropolitan Counties,MONTANA ,Prairie,11,0,0,0,11,1,0,1,0,1
+MONTANA - Nonmetropolitan Counties,MONTANA ,Ravalli,65,0,11,0,54,266,50,196,20,3
+MONTANA - Nonmetropolitan Counties,MONTANA ,Richland,14,0,1,0,13,32,7,20,5,0
+MONTANA - Nonmetropolitan Counties,MONTANA ,Roosevelt,60,0,3,3,54,65,26,26,13,2
+MONTANA - Nonmetropolitan Counties,MONTANA ,Sanders,5,0,1,0,4,35,5,27,3,0
+MONTANA - Nonmetropolitan Counties,MONTANA ,Sweet Grass,20,1,3,0,16,46,2,36,8,0
+MONTANA - Nonmetropolitan Counties,MONTANA ,Teton,9,0,3,0,6,28,5,18,5,0
+MONTANA - Nonmetropolitan Counties,MONTANA ,Toole,30,0,4,0,26,51,4,43,4,0
+MONTANA - Nonmetropolitan Counties,MONTANA ,Valley,22,0,3,0,19,15,1,13,1,0
+MONTANA - Nonmetropolitan Counties,MONTANA ,Wheatland,9,0,0,0,9,7,0,6,1,0
+NEBRASKA - Metropolitan Counties,NEBRASKA ,Cass,27,0,12,1,14,138,13,104,21,1
+NEBRASKA - Metropolitan Counties,NEBRASKA ,Dixon,2,0,0,0,2,30,8,18,4,0
+NEBRASKA - Metropolitan Counties,NEBRASKA ,Douglas,71,1,18,6,46,605,155,384,66,5
+NEBRASKA - Metropolitan Counties,NEBRASKA ,Hall,35,0,2,1,32,113,31,73,9,0
+NEBRASKA - Metropolitan Counties,NEBRASKA ,Lancaster,20,0,15,0,5,146,41,86,19,
+NEBRASKA - Metropolitan Counties,NEBRASKA ,Merrick,3,0,1,0,2,3,1,1,1,0
+NEBRASKA - Metropolitan Counties,NEBRASKA ,Sarpy,35,0,17,3,15,798,57,631,110,0
+NEBRASKA - Metropolitan Counties,NEBRASKA ,Saunders,8,0,1,0,7,65,23,34,8,0
+NEBRASKA - Metropolitan Counties,NEBRASKA ,Seward,3,0,0,0,3,16,7,4,5,1
+NEBRASKA - Metropolitan Counties,NEBRASKA ,Washington,2,0,0,0,2,79,15,56,8,0
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Adams,4,0,2,0,2,72,13,54,5,0
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Arthur,0,0,0,0,0,0,0,0,0,
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Boone,2,0,1,0,1,15,4,10,1,1
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Box Butte,4,0,0,0,4,14,2,8,4,
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Buffalo,13,1,4,0,8,87,20,58,9,2
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Burt6,3,0,1,0,2,20,10,7,3,
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Butler,6,0,2,0,4,28,8,15,5,0
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Cedar,3,0,0,0,3,27,0,23,4,
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Chase6,2,1,0,0,1,6,3,2,1,0
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Cherry,2,0,0,0,2,9,2,3,4,
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Cheyenne,7,0,1,0,6,14,1,11,2,1
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Colfax,9,0,3,0,6,27,4,21,2,1
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Cuming,6,0,4,0,2,3,1,1,1,0
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Custer,6,0,2,0,4,35,3,29,3,0
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Dawson,18,1,4,0,13,36,16,19,1,0
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Deuel,4,0,0,0,4,5,0,5,0,0
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Dodge,3,0,1,0,2,92,26,59,7,
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Fillmore,5,0,3,0,2,16,4,11,1,0
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Franklin,0,0,0,0,0,10,2,6,2,
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Frontier,3,0,1,0,2,24,3,20,1,0
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Furnas,7,0,2,0,5,57,13,35,9,0
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Gage,11,0,0,1,10,77,16,54,7,0
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Gosper,2,0,0,0,2,9,1,7,1,0
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Greeley6,0,0,0,0,0,0,0,0,0,0
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Hamilton,2,0,1,0,1,20,5,12,3,0
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Holt6,1,0,1,0,0,2,0,2,0,0
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Hooker6,0,0,0,0,0,0,0,0,0,0
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Jefferson,14,0,2,0,12,95,28,62,5,0
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Johnson,5,0,2,0,3,39,6,25,8,1
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Kearney,6,0,4,0,2,40,13,23,4,0
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Keith,3,0,0,0,3,17,1,14,2,0
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Keya Paha,2,0,0,0,2,0,0,0,0,
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Knox6,0,0,0,0,0,29,3,16,10,
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Lincoln,16,0,5,2,9,66,20,36,10,0
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Madison,10,0,3,0,7,19,4,14,1,0
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Nemaha,10,0,3,2,5,17,5,8,4,0
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Perkins,0,0,0,0,0,24,4,17,3,0
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Platte,8,0,2,0,6,69,11,50,8,0
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Polk,0,0,0,0,0,20,1,19,0,0
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Saline,7,0,0,0,7,46,13,29,4,1
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Scotts Bluff,10,0,2,0,8,54,16,28,10,0
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Sherman,5,0,0,0,5,23,5,18,0,0
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Stanton,2,1,0,0,1,29,1,22,6,
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Thayer6,4,0,2,0,2,25,8,12,5,0
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Thurston,7,0,1,0,6,13,5,7,1,0
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Valley,5,0,3,0,2,4,0,1,3,0
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Wayne,6,0,1,0,5,10,5,2,3,1
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,Wheeler,0,0,0,0,0,1,0,1,0,0
+NEBRASKA - Nonmetropolitan Counties,NEBRASKA ,York,3,0,3,0,0,21,2,14,5,0
+NEVADA - Metropolitan Counties,NEVADA ,Storey,31,0,5,1,25,74,20,47,7,0
+NEVADA - Metropolitan Counties,NEVADA ,Washoe6,223,2,32,18,171,616,160,370,86,7
+NEVADA - Nonmetropolitan Counties,NEVADA ,Churchill,20,0,11,0,9,186,56,113,17,2
+NEVADA - Nonmetropolitan Counties,NEVADA ,Elko,57,1,11,0,45,176,40,111,25,1
+NEVADA - Nonmetropolitan Counties,NEVADA ,Esmeralda,6,0,1,1,4,6,1,4,1,1
+NEVADA - Nonmetropolitan Counties,NEVADA ,Eureka,22,0,4,0,18,27,13,11,3,0
+NEVADA - Nonmetropolitan Counties,NEVADA ,Humboldt,26,0,1,2,23,76,41,29,6,
+NEVADA - Nonmetropolitan Counties,NEVADA ,Lander,62,2,23,0,37,56,25,26,5,2
+NEVADA - Nonmetropolitan Counties,NEVADA ,Lyon,179,0,18,7,154,522,102,349,71,4
+NEVADA - Nonmetropolitan Counties,NEVADA ,Mineral,4,0,1,0,3,48,3,38,7,3
+NEVADA - Nonmetropolitan Counties,NEVADA ,Nye,113,2,5,21,85,715,167,404,144,0
+NEVADA - Nonmetropolitan Counties,NEVADA ,Pershing,26,1,11,1,13,39,11,22,6,
+NEW HAMPSHIRE - Metropolitan Counties,NEW HAMPSHIRE ,Rockingham,0,0,0,0,0,3,0,3,0,0
+NEW HAMPSHIRE - Metropolitan Counties,NEW HAMPSHIRE ,Strafford,3,0,1,0,2,4,0,3,1,1
+NEW HAMPSHIRE - Nonmetropolitan Counties,NEW HAMPSHIRE ,Carroll,4,0,0,0,4,49,7,38,4,0
+NEW HAMPSHIRE - Nonmetropolitan Counties,NEW HAMPSHIRE ,Cheshire,0,0,0,0,0,7,2,5,0,0
+NEW HAMPSHIRE - Nonmetropolitan Counties,NEW HAMPSHIRE ,Grafton,4,0,4,0,0,4,0,4,0,0
+NEW HAMPSHIRE - Nonmetropolitan Counties,NEW HAMPSHIRE ,Merrimack,1,0,1,0,0,1,1,0,0,0
+NEW JERSEY - Metropolitan Counties,NEW JERSEY ,Atlantic,0,0,0,0,0,0,0,0,0,0
+NEW JERSEY - Metropolitan Counties,NEW JERSEY ,Bergen,2,0,2,0,0,46,2,44,0,0
+NEW JERSEY - Metropolitan Counties,NEW JERSEY ,Burlington,0,0,0,0,0,0,0,0,0,0
+NEW JERSEY - Metropolitan Counties,NEW JERSEY ,Camden,2,0,0,0,2,44,4,38,2,0
+NEW JERSEY - Metropolitan Counties,NEW JERSEY ,Cape May,0,0,0,0,0,0,0,0,0,0
+NEW JERSEY - Metropolitan Counties,NEW JERSEY ,Cumberland,0,0,0,0,0,1,0,1,0,0
+NEW JERSEY - Metropolitan Counties,NEW JERSEY ,Essex,131,0,9,35,87,135,5,127,3,8
+NEW JERSEY - Metropolitan Counties,NEW JERSEY ,Gloucester,0,0,0,0,0,0,0,0,0,0
+NEW JERSEY - Metropolitan Counties,NEW JERSEY ,Hudson,0,0,0,0,0,0,0,0,0,0
+NEW JERSEY - Metropolitan Counties,NEW JERSEY ,Hunterdon,0,0,0,0,0,0,0,0,0,0
+NEW JERSEY - Metropolitan Counties,NEW JERSEY ,Mercer,2,0,0,0,2,14,1,6,7,0
+NEW JERSEY - Metropolitan Counties,NEW JERSEY ,Middlesex,0,0,0,0,0,0,0,0,0,0
+NEW JERSEY - Metropolitan Counties,NEW JERSEY ,Monmouth,7,0,0,0,7,1,0,1,0,0
+NEW JERSEY - Metropolitan Counties,NEW JERSEY ,Morris,0,0,0,0,0,0,0,0,0,0
+NEW JERSEY - Metropolitan Counties,NEW JERSEY ,Ocean,0,0,0,0,0,8,0,8,0,0
+NEW JERSEY - Metropolitan Counties,NEW JERSEY ,Passaic,0,0,0,0,0,0,0,0,0,0
+NEW JERSEY - Metropolitan Counties,NEW JERSEY ,Salem,0,0,0,0,0,0,0,0,0,0
+NEW JERSEY - Metropolitan Counties,NEW JERSEY ,Somerset,1,0,0,0,1,1,0,1,0,0
+NEW JERSEY - Metropolitan Counties,NEW JERSEY ,Sussex,0,0,0,0,0,0,0,0,0,0
+NEW JERSEY - Metropolitan Counties,NEW JERSEY ,Union,0,0,0,0,0,0,0,0,0,0
+NEW JERSEY - Metropolitan Counties,NEW JERSEY ,Warren,0,0,0,0,0,0,0,0,0,0
+NEW MEXICO - Metropolitan Counties,NEW MEXICO ,Sandoval,144,0,1,1,142,102,43,59,0,
+NEW MEXICO - Metropolitan Counties,NEW MEXICO ,Santa Fe,103,0,6,7,90,414,258,156,0,
+NEW MEXICO - Metropolitan Counties,NEW MEXICO ,Torrance,65,0,5,1,59,105,57,25,23,
+NEW MEXICO - Metropolitan Counties,NEW MEXICO ,Valencia,376,3,17,6,350,907,315,421,171,
+NEW MEXICO - Nonmetropolitan Counties,NEW MEXICO ,Catron,1,0,0,0,1,15,9,6,0,
+NEW MEXICO - Nonmetropolitan Counties,NEW MEXICO ,Chaves,54,3,9,3,39,223,90,98,35,
+NEW MEXICO - Nonmetropolitan Counties,NEW MEXICO ,Cibola,12,0,2,0,10,37,14,16,7,
+NEW MEXICO - Nonmetropolitan Counties,NEW MEXICO ,Colfax,3,0,0,0,3,8,5,3,0,
+NEW MEXICO - Nonmetropolitan Counties,NEW MEXICO ,De Baca,4,0,1,0,3,15,11,2,2,
+NEW MEXICO - Nonmetropolitan Counties,NEW MEXICO ,Grant,24,0,5,0,19,112,52,60,0,
+NEW MEXICO - Nonmetropolitan Counties,NEW MEXICO ,Guadalupe,0,0,0,0,0,6,0,6,0,
+NEW MEXICO - Nonmetropolitan Counties,NEW MEXICO ,Hidalgo,10,0,0,0,10,17,5,7,5,
+NEW MEXICO - Nonmetropolitan Counties,NEW MEXICO ,Lea,60,4,4,5,47,342,112,160,70,
+NEW MEXICO - Nonmetropolitan Counties,NEW MEXICO ,Lincoln,43,2,1,2,38,118,52,55,11,
+NEW MEXICO - Nonmetropolitan Counties,NEW MEXICO ,Luna,63,0,1,1,61,222,97,98,27,
+NEW MEXICO - Nonmetropolitan Counties,NEW MEXICO ,McKinley,183,1,0,7,175,222,89,86,47,
+NEW MEXICO - Nonmetropolitan Counties,NEW MEXICO ,Otero,149,0,13,2,134,272,108,138,26,
+NEW MEXICO - Nonmetropolitan Counties,NEW MEXICO ,Quay,1,0,0,0,1,13,6,7,0,
+NEW MEXICO - Nonmetropolitan Counties,NEW MEXICO ,San Miguel,0,0,0,0,0,2,0,2,0,
+NEW MEXICO - Nonmetropolitan Counties,NEW MEXICO ,Sierra,43,1,7,0,35,71,26,41,4,
+NEW MEXICO - Nonmetropolitan Counties,NEW MEXICO ,Socorro,15,0,0,1,14,61,13,42,6,
+NEW MEXICO - Nonmetropolitan Counties,NEW MEXICO ,Taos,28,2,2,2,22,93,43,30,20,
+NEW MEXICO - Nonmetropolitan Counties,NEW MEXICO ,Union,2,0,0,0,2,15,3,10,2,
+NEW YORK - Metropolitan Counties,NEW YORK ,Albany,25,1,4,1,19,121,21,90,10,0
+NEW YORK - Metropolitan Counties,NEW YORK ,Broome,51,0,22,11,18,486,60,403,23,1
+NEW YORK - Metropolitan Counties,NEW YORK ,Chemung,9,0,2,0,7,221,18,198,5,0
+NEW YORK - Metropolitan Counties,NEW YORK ,Dutchess,38,0,12,6,20,353,48,279,26,2
+NEW YORK - Metropolitan Counties,NEW YORK ,Erie,50,0,0,2,48,505,72,411,22,7
+NEW YORK - Metropolitan Counties,NEW YORK ,Herkimer,0,0,0,0,0,1,1,0,0,0
+NEW YORK - Metropolitan Counties,NEW YORK ,Jefferson,28,0,5,0,23,227,18,204,5,1
+NEW YORK - Metropolitan Counties,NEW YORK ,Livingston,32,0,14,3,15,283,31,250,2,1
+NEW YORK - Metropolitan Counties,NEW YORK ,Madison,20,0,6,0,14,85,15,68,2,0
+NEW YORK - Metropolitan Counties,NEW YORK ,Monroe,209,0,44,42,123,2341,264,2001,76,2
+NEW YORK - Metropolitan Counties,NEW YORK ,Nassau,1179,9,40,339,791,9655,583,8677,395,35
+NEW YORK - Metropolitan Counties,NEW YORK ,Niagara,56,0,14,6,36,475,78,372,25,0
+NEW YORK - Metropolitan Counties,NEW YORK ,Oneida,70,0,48,3,19,309,53,240,16,0
+NEW YORK - Metropolitan Counties,NEW YORK ,Onondaga,191,0,49,29,113,1518,210,1204,104,9
+NEW YORK - Metropolitan Counties,NEW YORK ,Ontario,69,2,26,5,36,669,87,571,11,0
+NEW YORK - Metropolitan Counties,NEW YORK ,Orleans,15,0,6,1,8,115,19,87,9,0
+NEW YORK - Metropolitan Counties,NEW YORK ,Oswego,33,1,17,3,12,268,40,202,26,0
+NEW YORK - Metropolitan Counties,NEW YORK ,Putnam,18,0,4,4,10,127,15,108,4,0
+NEW YORK - Metropolitan Counties,NEW YORK ,Rensselaer,18,0,5,5,8,230,21,199,10,1
+NEW YORK - Metropolitan Counties,NEW YORK ,Schoharie,5,0,1,0,4,18,2,13,3,3
+NEW YORK - Metropolitan Counties,NEW YORK ,Suffolk,34,0,0,0,34,0,0,0,0,0
+NEW YORK - Metropolitan Counties,NEW YORK ,Suffolk County Police Department,1183,24,159,281,719,14828,891,13161,776,42
+NEW YORK - Metropolitan Counties,NEW YORK ,Tioga,7,0,5,1,1,140,45,89,6,1
+NEW YORK - Metropolitan Counties,NEW YORK ,Ulster,21,0,6,1,14,145,25,115,5,0
+NEW YORK - Metropolitan Counties,NEW YORK ,Washington,30,0,26,1,3,67,12,55,0,0
+NEW YORK - Metropolitan Counties,NEW YORK ,Wayne,63,0,16,7,40,333,81,237,15,3
+NEW YORK - Metropolitan Counties,NEW YORK ,Westchester Public Safety,30,0,1,2,27,199,10,182,7,2
+NEW YORK - Metropolitan Counties,NEW YORK ,Yates,12,0,3,0,9,98,31,66,1,0
+NEW YORK - Nonmetropolitan Counties,NEW YORK ,Allegany,3,0,0,0,3,7,0,3,4,0
+NEW YORK - Nonmetropolitan Counties,NEW YORK ,Cattaraugus,48,0,13,0,35,202,44,136,22,6
+NEW YORK - Nonmetropolitan Counties,NEW YORK ,Chautauqua,33,1,16,2,14,428,148,266,14,9
+NEW YORK - Nonmetropolitan Counties,NEW YORK ,Chenango,32,0,15,1,16,274,71,194,9,1
+NEW YORK - Nonmetropolitan Counties,NEW YORK ,Clinton,11,0,0,0,11,34,3,31,0,0
+NEW YORK - Nonmetropolitan Counties,NEW YORK ,Columbia,25,1,6,1,17,251,54,189,8,3
+NEW YORK - Nonmetropolitan Counties,NEW YORK ,Delaware,22,0,12,0,10,151,46,100,5,0
+NEW YORK - Nonmetropolitan Counties,NEW YORK ,Essex,2,0,0,0,2,4,0,4,0,0
+NEW YORK - Nonmetropolitan Counties,NEW YORK ,Franklin,0,0,0,0,0,0,0,0,0,0
+NEW YORK - Nonmetropolitan Counties,NEW YORK ,Fulton,22,0,9,1,12,288,34,247,7,0
+NEW YORK - Nonmetropolitan Counties,NEW YORK ,Greene,13,0,2,3,8,26,7,19,0,2
+NEW YORK - Nonmetropolitan Counties,NEW YORK ,Hamilton,1,0,0,0,1,6,1,5,0,0
+NEW YORK - Nonmetropolitan Counties,NEW YORK ,Lewis,12,0,4,0,8,54,18,33,3,0
+NEW YORK - Nonmetropolitan Counties,NEW YORK ,Montgomery,6,0,0,1,5,212,8,192,12,1
+NEW YORK - Nonmetropolitan Counties,NEW YORK ,Otsego,13,0,5,0,8,29,3,24,2,1
+NEW YORK - Nonmetropolitan Counties,NEW YORK ,Schuyler,5,0,1,0,4,10,2,7,1,0
+NEW YORK - Nonmetropolitan Counties,NEW YORK ,Seneca,2,0,1,0,1,43,2,41,0,0
+NEW YORK - Nonmetropolitan Counties,NEW YORK ,Steuben,9,0,2,0,7,47,13,31,3,1
+NEW YORK - Nonmetropolitan Counties,NEW YORK ,St. Lawrence,11,0,2,1,8,25,8,15,2,0
+NEW YORK - Nonmetropolitan Counties,NEW YORK ,Sullivan,27,0,6,1,20,273,34,234,5,1
+NEW YORK - Nonmetropolitan Counties,NEW YORK ,Wyoming,17,0,7,1,9,96,20,76,0,0
+NORTH CAROLINA - Metropolitan Counties6,NORTH CAROLINA ,Alamance,118,3,11,10,94,649,230,368,51,4
+NORTH CAROLINA - Metropolitan Counties6,NORTH CAROLINA ,Alexander,86,8,27,1,50,429,138,247,44,3
+NORTH CAROLINA - Metropolitan Counties6,NORTH CAROLINA ,Anson,26,3,4,3,16,181,92,82,7,1
+NORTH CAROLINA - Metropolitan Counties6,NORTH CAROLINA ,Buncombe,219,0,14,27,178,1830,520,1071,239,19
+NORTH CAROLINA - Metropolitan Counties6,NORTH CAROLINA ,Burke,110,4,16,9,81,1045,349,553,143,3
+NORTH CAROLINA - Metropolitan Counties6,NORTH CAROLINA ,Cabarrus,38,2,3,8,25,640,156,435,49,6
+NORTH CAROLINA - Metropolitan Counties6,NORTH CAROLINA ,Caldwell,75,2,18,9,46,1199,439,594,166,13
+NORTH CAROLINA - Metropolitan Counties6,NORTH CAROLINA ,Camden,11,0,0,1,10,74,32,38,4,1
+NORTH CAROLINA - Metropolitan Counties6,NORTH CAROLINA ,Chatham,60,0,13,6,41,478,173,278,27,9
+NORTH CAROLINA - Metropolitan Counties6,NORTH CAROLINA ,Craven,119,4,8,11,96,919,399,436,84,3
+NORTH CAROLINA - Metropolitan Counties6,NORTH CAROLINA ,Cumberland,458,3,43,65,347,1964,494,1324,146,63
+NORTH CAROLINA - Metropolitan Counties6,NORTH CAROLINA ,Currituck,63,0,8,1,54,268,69,187,12,2
+NORTH CAROLINA - Metropolitan Counties6,NORTH CAROLINA ,Franklin,77,1,8,5,63,616,198,368,50,4
+NORTH CAROLINA - Metropolitan Counties6,NORTH CAROLINA ,Gaston,17,0,0,0,17,5,0,4,1,0
+NORTH CAROLINA - Metropolitan Counties6,NORTH CAROLINA ,Granville,57,1,5,3,48,316,99,198,19,3
+NORTH CAROLINA - Metropolitan Counties6,NORTH CAROLINA ,Guilford,206,3,8,28,167,1063,399,561,103,14
+NORTH CAROLINA - Metropolitan Counties6,NORTH CAROLINA ,Haywood,118,0,21,2,95,835,366,405,64,6
+NORTH CAROLINA - Metropolitan Counties6,NORTH CAROLINA ,Iredell,121,2,5,10,104,780,361,356,63,7
+NORTH CAROLINA - Metropolitan Counties6,NORTH CAROLINA ,Johnston,152,3,16,17,116,1463,404,950,109,11
+NORTH CAROLINA - Metropolitan Counties6,NORTH CAROLINA ,Lincoln,131,1,14,10,106,943,214,655,74,5
+NORTH CAROLINA - Metropolitan Counties6,NORTH CAROLINA ,Madison,14,0,2,0,12,178,74,82,22,4
+NORTH CAROLINA - Metropolitan Counties6,NORTH CAROLINA ,New Hanover,179,0,25,24,130,1593,264,1269,60,14
+NORTH CAROLINA - Metropolitan Counties6,NORTH CAROLINA ,Onslow,214,3,26,19,166,1773,504,1161,108,13
+NORTH CAROLINA - Metropolitan Counties6,NORTH CAROLINA ,Pamlico,25,0,5,0,20,206,60,127,19,1
+NORTH CAROLINA - Metropolitan Counties6,NORTH CAROLINA ,Person,56,0,2,2,52,357,151,185,21,6
+NORTH CAROLINA - Metropolitan Counties6,NORTH CAROLINA ,Pitt,138,3,8,22,105,915,315,541,59,6
+NORTH CAROLINA - Metropolitan Counties6,NORTH CAROLINA ,Rockingham,70,1,22,10,37,700,232,415,53,0
+NORTH CAROLINA - Metropolitan Counties6,NORTH CAROLINA ,Rowan,149,4,16,16,113,999,265,636,98,11
+NORTH CAROLINA - Metropolitan Counties6,NORTH CAROLINA ,Union,235,3,77,23,132,1987,419,1449,119,7
+NORTH CAROLINA - Metropolitan Counties6,NORTH CAROLINA ,Wake,215,6,16,24,169,1376,375,857,144,22
+NORTH CAROLINA - Metropolitan Counties6,NORTH CAROLINA ,Wayne,206,2,2,24,178,1181,458,574,149,6
+NORTH CAROLINA - Metropolitan Counties6,NORTH CAROLINA ,Yadkin,66,1,11,4,50,451,130,286,35,4
+NORTH CAROLINA - Nonmetropolitan Counties6,NORTH CAROLINA ,Alleghany,19,0,11,1,7,72,26,39,7,1
+NORTH CAROLINA - Nonmetropolitan Counties6,NORTH CAROLINA ,Ashe,57,0,14,1,42,151,68,71,12,1
+NORTH CAROLINA - Nonmetropolitan Counties6,NORTH CAROLINA ,Avery,18,0,2,0,16,179,92,79,8,2
+NORTH CAROLINA - Nonmetropolitan Counties6,NORTH CAROLINA ,Bladen,65,0,3,4,58,481,158,273,50,5
+NORTH CAROLINA - Nonmetropolitan Counties6,NORTH CAROLINA ,Carteret,69,2,16,3,48,640,199,408,33,4
+NORTH CAROLINA - Nonmetropolitan Counties6,NORTH CAROLINA ,Cherokee,68,0,13,4,51,763,228,477,58,7
+NORTH CAROLINA - Nonmetropolitan Counties6,NORTH CAROLINA ,Chowan,21,0,3,1,17,95,47,42,6,0
+NORTH CAROLINA - Nonmetropolitan Counties6,NORTH CAROLINA ,Dare,12,1,3,0,8,239,53,176,10,1
+NORTH CAROLINA - Nonmetropolitan Counties6,NORTH CAROLINA ,Greene,60,4,24,2,30,304,131,145,28,1
+NORTH CAROLINA - Nonmetropolitan Counties6,NORTH CAROLINA ,Hertford,28,5,4,11,8,184,62,102,20,2
+NORTH CAROLINA - Nonmetropolitan Counties6,NORTH CAROLINA ,Macon,25,0,5,1,19,476,136,307,33,4
+NORTH CAROLINA - Nonmetropolitan Counties6,NORTH CAROLINA ,McDowell,59,1,8,5,45,881,380,411,90,12
+NORTH CAROLINA - Nonmetropolitan Counties6,NORTH CAROLINA ,Mitchell,2,0,0,1,1,55,24,28,3,1
+NORTH CAROLINA - Nonmetropolitan Counties6,NORTH CAROLINA ,Moore,62,1,9,7,45,580,173,385,22,3
+NORTH CAROLINA - Nonmetropolitan Counties6,NORTH CAROLINA ,Pasquotank,64,0,6,7,51,233,93,118,22,4
+NORTH CAROLINA - Nonmetropolitan Counties6,NORTH CAROLINA ,Richmond,178,2,21,27,128,1007,411,505,91,11
+NORTH CAROLINA - Nonmetropolitan Counties6,NORTH CAROLINA ,Robeson,717,22,12,90,593,2525,1238,1110,177,39
+NORTH CAROLINA - Nonmetropolitan Counties6,NORTH CAROLINA ,Sampson,195,4,22,24,145,877,425,385,67,12
+NORTH CAROLINA - Nonmetropolitan Counties6,NORTH CAROLINA ,Scotland,59,1,5,12,41,325,170,128,27,8
+NORTH CAROLINA - Nonmetropolitan Counties6,NORTH CAROLINA ,Stanly,24,1,3,2,18,481,203,240,38,2
+NORTH CAROLINA - Nonmetropolitan Counties6,NORTH CAROLINA ,Swain,27,2,4,2,19,242,118,91,33,0
+NORTH CAROLINA - Nonmetropolitan Counties6,NORTH CAROLINA ,Transylvania,38,0,14,0,24,257,78,163,16,3
+NORTH CAROLINA - Nonmetropolitan Counties6,NORTH CAROLINA ,Tyrrell,4,0,1,0,3,23,10,12,1,0
+NORTH CAROLINA - Nonmetropolitan Counties6,NORTH CAROLINA ,Vance,125,4,12,8,101,546,206,299,41,13
+NORTH CAROLINA - Nonmetropolitan Counties6,NORTH CAROLINA ,Warren,40,4,8,5,23,216,101,101,14,2
+NORTH CAROLINA - Nonmetropolitan Counties6,NORTH CAROLINA ,Watauga,30,4,2,1,23,266,85,159,22,3
+NORTH CAROLINA - Nonmetropolitan Counties6,NORTH CAROLINA ,Wilkes,132,3,27,8,94,676,241,349,86,8
+NORTH CAROLINA - Nonmetropolitan Counties6,NORTH CAROLINA ,Yancey,5,0,0,1,4,47,17,26,4,1
+NORTH DAKOTA - Metropolitan Counties,NORTH DAKOTA ,Burleigh,12,0,5,0,7,97,23,60,14,1
+NORTH DAKOTA - Metropolitan Counties,NORTH DAKOTA ,Cass,18,0,4,2,12,141,49,71,21,1
+NORTH DAKOTA - Metropolitan Counties,NORTH DAKOTA ,Grand Forks,15,0,4,0,11,89,18,52,19,0
+NORTH DAKOTA - Metropolitan Counties,NORTH DAKOTA ,Morton,3,0,0,0,3,113,18,85,10,1
+NORTH DAKOTA - Metropolitan Counties,NORTH DAKOTA ,Oliver,0,0,0,0,0,3,1,1,1,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Adams,2,0,1,0,1,9,2,6,1,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Barnes,2,0,0,0,2,18,6,10,2,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Benson,1,0,0,0,1,13,2,7,4,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Billings,0,0,0,0,0,6,1,5,0,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Bottineau,4,0,4,0,0,55,14,29,12,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Bowman,1,0,1,0,0,10,3,3,4,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Burke,0,0,0,0,0,2,2,0,0,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Cavalier,2,0,1,0,1,11,3,6,2,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Dickey,0,0,0,0,0,8,4,4,0,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Divide,2,0,1,0,1,6,0,5,1,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Dunn,5,0,1,0,4,14,3,9,2,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Eddy,1,0,1,0,0,20,3,13,4,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Emmons,3,0,1,0,2,28,7,20,1,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Foster,0,0,0,0,0,10,1,4,5,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Golden Valley,0,0,0,0,0,0,0,0,0,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Grant,1,0,1,0,0,5,1,4,0,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Griggs,3,0,2,0,1,6,1,4,1,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Hettinger,1,0,0,0,1,22,2,15,5,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Kidder,0,0,0,0,0,7,3,4,0,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Lamoure,3,0,0,0,3,4,1,2,1,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Logan,2,0,0,0,2,0,0,0,0,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,McHenry,6,0,2,0,4,34,7,20,7,1
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,McIntosh,0,0,0,0,0,0,0,0,0,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,McKenzie,15,0,8,0,7,167,25,114,28,1
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,McLean,12,0,3,0,9,79,21,52,6,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Mercer,1,0,1,0,0,16,10,5,1,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Mountrail,2,1,1,0,0,58,4,48,6,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Nelson,5,0,0,0,5,15,4,9,2,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Pembina,6,0,0,0,6,36,11,20,5,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Pierce,0,0,0,0,0,11,3,7,1,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Ramsey,3,0,1,0,2,18,2,12,4,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Ransom,3,1,0,0,2,26,11,9,6,1
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Renville,2,0,1,0,1,24,5,17,2,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Richland,8,0,0,0,8,94,27,51,16,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Rolette,4,0,1,0,3,38,9,23,6,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Sargent,7,0,1,0,6,21,10,10,1,2
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Sheridan,1,0,0,0,1,4,1,3,0,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Sioux,0,0,0,0,0,0,0,0,0,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Slope,0,0,0,0,0,1,1,0,0,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Stark,5,0,0,0,5,55,9,42,4,1
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Steele,0,0,0,0,0,1,0,1,0,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Stutsman,2,0,1,0,1,33,11,12,10,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Towner,0,0,0,0,0,16,3,9,4,1
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Traill,3,0,1,0,2,54,18,28,8,2
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Walsh,7,1,2,0,4,96,35,52,9,0
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Ward,38,1,9,2,26,182,65,82,35,5
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Wells,3,0,1,0,2,7,5,1,1,1
+NORTH DAKOTA - Nonmetropolitan Counties,NORTH DAKOTA ,Williams,15,0,5,0,10,166,37,102,27,1
+OHIO - Metropolitan Counties,OHIO ,Allen,38,1,14,13,10,582,115,437,30,4
+OHIO - Metropolitan Counties,OHIO ,Belmont,42,0,12,3,27,205,35,151,19,2
+OHIO - Metropolitan Counties,OHIO ,Carroll,2,0,0,0,2,71,21,41,9,0
+OHIO - Metropolitan Counties,OHIO ,Clermont,111,0,23,3,85,897,269,582,46,1
+OHIO - Metropolitan Counties,OHIO ,Fairfield,52,0,14,5,33,1039,139,855,45,2
+OHIO - Metropolitan Counties,OHIO ,Fulton,14,0,5,2,7,167,32,132,3,1
+OHIO - Metropolitan Counties,OHIO ,Geauga,10,0,6,1,3,134,28,94,12,0
+OHIO - Metropolitan Counties,OHIO ,Greene,36,0,12,4,20,348,86,240,22,3
+OHIO - Metropolitan Counties,OHIO ,Hamilton,176,4,69,22,81,2025,235,1621,169,13
+OHIO - Metropolitan Counties,OHIO ,Hocking,28,4,6,2,16,346,108,210,28,3
+OHIO - Metropolitan Counties,OHIO ,Jefferson,10,0,1,0,9,44,10,33,1,1
+OHIO - Metropolitan Counties,OHIO ,Lawrence,65,2,18,6,39,446,112,303,31,4
+OHIO - Metropolitan Counties,OHIO ,Licking,53,0,16,3,34,793,179,555,59,1
+OHIO - Metropolitan Counties,OHIO ,Lorain,60,0,16,9,35,509,167,323,19,1
+OHIO - Metropolitan Counties,OHIO ,Lucas,93,0,8,18,67,801,110,640,51,1
+OHIO - Metropolitan Counties,OHIO ,Madison,20,0,12,2,6,264,56,183,25,2
+OHIO - Metropolitan Counties,OHIO ,Mahoning,1,0,1,0,0,57,8,44,5,0
+OHIO - Metropolitan Counties,OHIO ,Medina,11,0,4,0,7,166,98,64,4,0
+OHIO - Metropolitan Counties,OHIO ,Miami,38,0,10,2,26,280,98,166,16,4
+OHIO - Metropolitan Counties,OHIO ,Montgomery,279,3,43,76,157,1051,288,615,148,17
+OHIO - Metropolitan Counties,OHIO ,Perry,13,0,7,2,4,124,38,75,11,1
+OHIO - Metropolitan Counties,OHIO ,Pickaway,22,1,1,3,17,546,130,386,30,5
+OHIO - Metropolitan Counties,OHIO ,Portage8,,1,,39,304,916,190,688,38,4
+OHIO - Metropolitan Counties,OHIO ,Richland,61,1,34,6,20,757,166,562,29,1
+OHIO - Metropolitan Counties,OHIO ,Stark,107,2,36,10,59,1544,401,1019,124,12
+OHIO - Metropolitan Counties,OHIO ,Summit,80,0,22,14,44,944,176,705,63,3
+OHIO - Metropolitan Counties,OHIO ,Union,21,0,3,2,16,126,28,86,12,1
+OHIO - Metropolitan Counties,OHIO ,Wood,13,0,6,0,7,301,42,240,19,0
+OHIO - Nonmetropolitan Counties,OHIO ,Adams,8,0,3,1,4,186,45,119,22,2
+OHIO - Nonmetropolitan Counties,OHIO ,Ashland,37,1,23,0,13,103,25,74,4,0
+OHIO - Nonmetropolitan Counties,OHIO ,Ashtabula,32,0,2,3,27,457,104,320,33,1
+OHIO - Nonmetropolitan Counties,OHIO ,Auglaize,3,0,1,0,2,45,10,31,4,0
+OHIO - Nonmetropolitan Counties,OHIO ,Champaign,25,0,4,0,21,153,39,102,12,0
+OHIO - Nonmetropolitan Counties,OHIO ,Columbiana,37,1,15,1,20,315,63,222,30,3
+OHIO - Nonmetropolitan Counties,OHIO ,Coshocton,40,4,15,1,20,345,73,244,28,11
+OHIO - Nonmetropolitan Counties,OHIO ,Crawford,3,0,1,0,2,92,32,58,2,0
+OHIO - Nonmetropolitan Counties,OHIO ,Defiance,14,0,6,1,7,117,25,90,2,1
+OHIO - Nonmetropolitan Counties,OHIO ,Erie,1,0,0,0,1,189,40,144,5,1
+OHIO - Nonmetropolitan Counties,OHIO ,Fayette,19,0,8,4,7,307,76,219,12,2
+OHIO - Nonmetropolitan Counties,OHIO ,Gallia,32,1,9,0,22,294,77,192,25,2
+OHIO - Nonmetropolitan Counties,OHIO ,Hancock,14,0,4,1,9,127,31,91,5,1
+OHIO - Nonmetropolitan Counties,OHIO ,Hardin,13,0,2,0,11,68,22,42,4,1
+OHIO - Nonmetropolitan Counties,OHIO ,Henry,13,0,3,1,9,109,36,64,9,0
+OHIO - Nonmetropolitan Counties,OHIO ,Highland,38,4,17,3,14,305,91,199,15,0
+OHIO - Nonmetropolitan Counties,OHIO ,Jackson,26,0,14,1,11,229,82,125,22,1
+OHIO - Nonmetropolitan Counties,OHIO ,Knox,56,0,21,2,33,330,58,272,0,4
+OHIO - Nonmetropolitan Counties,OHIO ,Logan,31,0,8,1,22,171,45,114,12,0
+OHIO - Nonmetropolitan Counties,OHIO ,Marion,38,0,13,2,23,935,136,763,36,4
+OHIO - Nonmetropolitan Counties,OHIO ,Meigs,16,1,1,1,13,230,76,125,29,0
+OHIO - Nonmetropolitan Counties,OHIO ,Monroe,12,0,3,0,9,64,36,24,4,0
+OHIO - Nonmetropolitan Counties,OHIO ,Morgan,29,0,2,1,26,80,22,47,11,0
+OHIO - Nonmetropolitan Counties,OHIO ,Noble,5,0,3,0,2,36,7,27,2,0
+OHIO - Nonmetropolitan Counties,OHIO ,Paulding,30,1,1,0,28,104,23,80,1,0
+OHIO - Nonmetropolitan Counties,OHIO ,Pike,33,3,7,1,22,464,93,270,101,5
+OHIO - Nonmetropolitan Counties,OHIO ,Putnam,15,1,9,2,3,90,19,66,5,0
+OHIO - Nonmetropolitan Counties,OHIO ,Ross,114,3,33,5,73,1041,285,631,125,12
+OHIO - Nonmetropolitan Counties,OHIO ,Scioto,48,0,12,7,29,633,177,394,62,6
+OHIO - Nonmetropolitan Counties,OHIO ,Shelby,12,1,1,1,9,131,27,97,7,2
+OHIO - Nonmetropolitan Counties,OHIO ,Tuscarawas,22,0,9,1,12,241,83,130,28,3
+OHIO - Nonmetropolitan Counties,OHIO ,Van Wert,16,0,6,0,10,106,40,60,6,1
+OHIO - Nonmetropolitan Counties,OHIO ,Vinton,10,0,1,0,9,78,23,43,12,0
+OHIO - Nonmetropolitan Counties,OHIO ,Washington,34,4,8,3,19,172,51,102,19,0
+OHIO - Nonmetropolitan Counties,OHIO ,Wayne,44,0,14,5,25,473,164,277,32,1
+OHIO - Nonmetropolitan Counties,OHIO ,Wyandot,3,0,0,0,3,3,2,0,1,0
+OKLAHOMA - Metropolitan Counties,OKLAHOMA ,Canadian,19,1,6,1,11,151,31,93,27,2
+OKLAHOMA - Metropolitan Counties,OKLAHOMA ,Cleveland,30,1,5,1,23,245,79,135,31,1
+OKLAHOMA - Metropolitan Counties,OKLAHOMA ,Comanche,17,0,4,0,13,215,100,79,36,4
+OKLAHOMA - Metropolitan Counties,OKLAHOMA ,Cotton,0,0,0,0,0,21,3,16,2,1
+OKLAHOMA - Metropolitan Counties,OKLAHOMA ,Creek,65,2,14,3,46,374,126,178,70,3
+OKLAHOMA - Metropolitan Counties,OKLAHOMA ,Garfield,12,0,3,0,9,157,38,107,12,2
+OKLAHOMA - Metropolitan Counties,OKLAHOMA ,Grady,24,0,4,1,19,321,86,177,58,4
+OKLAHOMA - Metropolitan Counties,OKLAHOMA ,Lincoln,48,1,12,4,31,289,110,132,47,4
+OKLAHOMA - Metropolitan Counties,OKLAHOMA ,Logan,36,0,9,3,24,384,136,194,54,1
+OKLAHOMA - Metropolitan Counties,OKLAHOMA ,McClain,27,1,4,1,21,280,109,134,37,3
+OKLAHOMA - Metropolitan Counties,OKLAHOMA ,Oklahoma,35,1,2,2,30,227,72,94,61,0
+OKLAHOMA - Metropolitan Counties,OKLAHOMA ,Okmulgee,42,2,10,2,28,216,111,70,35,2
+OKLAHOMA - Metropolitan Counties,OKLAHOMA ,Osage,56,5,8,3,40,332,140,153,39,7
+OKLAHOMA - Metropolitan Counties,OKLAHOMA ,Rogers,109,3,11,2,93,472,187,216,69,4
+OKLAHOMA - Metropolitan Counties,OKLAHOMA ,Sequoyah,88,2,16,1,69,301,122,155,24,7
+OKLAHOMA - Metropolitan Counties,OKLAHOMA ,Tulsa,228,6,18,16,188,924,321,416,187,7
+OKLAHOMA - Metropolitan Counties,OKLAHOMA ,Wagoner,48,1,5,5,37,295,115,150,30,10
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Adair,38,1,11,1,25,159,59,79,21,4
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Alfalfa,1,0,0,0,1,26,10,13,3,0
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Atoka,5,0,1,0,4,68,24,27,17,0
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Beaver,0,0,0,0,0,14,4,8,2,0
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Beckham,9,0,2,0,7,77,34,33,10,3
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Blaine,10,0,3,0,7,104,38,56,10,1
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Bryan,30,0,7,1,22,321,138,137,46,2
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Caddo,12,0,1,0,11,165,72,73,20,5
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Carter,29,0,16,3,10,208,64,119,25,4
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Cherokee,69,4,6,5,54,461,169,213,79,4
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Choctaw,47,0,0,0,47,79,28,34,17,0
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Cimarron,0,0,0,0,0,10,2,4,4,0
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Coal,0,0,0,0,0,4,2,1,1,0
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Craig,13,0,4,0,9,106,45,48,13,5
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Custer,12,1,2,0,9,113,44,56,13,0
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Delaware,46,0,8,3,35,263,67,156,40,5
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Dewey,2,0,2,0,0,40,16,19,5,1
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Ellis,7,0,1,0,6,51,16,30,5,2
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Garvin,30,0,8,1,21,269,80,167,22,11
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Grant,3,0,0,0,3,31,11,14,6,1
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Harmon,2,0,1,0,1,9,2,7,0,0
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Haskell,7,0,1,0,6,66,29,29,8,1
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Hughes,8,0,1,0,7,121,27,81,13,2
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Jackson,15,0,3,0,12,46,15,22,9,1
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Jefferson,11,0,2,0,9,18,8,6,4,0
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Johnston,14,2,4,1,7,32,14,11,7,1
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Kay,24,0,0,0,24,68,33,28,7,0
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Kingfisher,13,0,3,0,10,84,9,66,9,1
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Kiowa,5,0,1,0,4,26,10,12,4,1
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Latimer,15,0,1,1,13,85,34,36,15,3
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Le Flore,37,0,4,2,31,281,88,152,41,3
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Love,18,0,4,4,10,100,19,65,16,2
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Major,5,0,2,0,3,30,10,13,7,1
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Marshall,19,3,2,2,12,209,78,92,39,0
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Mayes,38,0,12,1,25,327,90,170,67,7
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,McCurtain,29,0,8,1,20,318,124,145,49,15
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,McIntosh,37,1,7,1,28,221,104,87,30,3
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Murray,10,0,2,0,8,10,6,3,1,0
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Muskogee,73,0,7,2,64,295,124,144,27,5
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Noble,6,0,1,0,5,76,25,36,15,2
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Nowata,12,0,1,0,11,65,20,28,17,2
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Okfuskee,13,1,3,1,8,145,63,63,19,3
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Ottawa,15,0,5,0,10,122,31,63,28,1
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Payne,25,3,1,0,21,221,64,116,41,5
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Pittsburg,55,3,9,1,42,422,195,186,41,2
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Pontotoc,21,0,4,0,17,143,65,64,14,0
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Pottawatomie,65,1,20,4,40,540,188,271,81,1
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Pushmataha,14,0,0,0,14,91,44,39,8,6
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Roger Mills,9,0,0,0,9,31,5,23,3,2
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Seminole,29,0,8,1,20,257,103,123,31,7
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Stephens,19,0,3,0,16,152,49,80,23,0
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Texas,9,0,3,0,6,51,13,34,4,1
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Tillman,1,0,0,0,1,27,14,11,2,0
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Washita,14,0,2,0,12,52,8,37,7,1
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Woods,6,0,1,0,5,23,4,14,5,0
+OKLAHOMA - Nonmetropolitan Counties,OKLAHOMA ,Woodward,12,0,2,0,10,68,23,35,10,1
+OREGON - Metropolitan Counties,OREGON ,Clackamas,446,8,80,92,266,4651,600,3461,590,17
+OREGON - Metropolitan Counties,OREGON ,Deschutes,86,1,19,3,63,654,109,475,70,5
+OREGON - Metropolitan Counties,OREGON ,Jackson,128,10,20,12,86,1274,312,833,129,10
+OREGON - Metropolitan Counties,OREGON ,Josephine,45,0,11,3,31,394,76,148,170,3
+OREGON - Metropolitan Counties,OREGON ,Linn,56,5,9,8,34,705,167,451,87,14
+OREGON - Metropolitan Counties,OREGON ,Marion8,,6,,34,48,2409,332,1666,411,
+OREGON - Metropolitan Counties,OREGON ,Multnomah,165,3,30,23,109,1696,155,1255,286,4
+OREGON - Metropolitan Counties,OREGON ,Polk,52,0,3,5,44,295,88,187,20,4
+OREGON - Metropolitan Counties,OREGON ,Washington,349,3,108,31,207,2480,406,1791,283,30
+OREGON - Metropolitan Counties,OREGON ,Yamhill,41,0,13,5,23,473,100,327,46,8
+OREGON - Nonmetropolitan Counties,OREGON ,Baker,10,0,1,0,9,59,14,39,6,0
+OREGON - Nonmetropolitan Counties,OREGON ,Clatsop,28,0,6,0,22,166,34,125,7,2
+OREGON - Nonmetropolitan Counties,OREGON ,Coos,40,0,4,4,32,506,108,346,52,6
+OREGON - Nonmetropolitan Counties,OREGON ,Crook,17,3,0,0,14,126,23,93,10,1
+OREGON - Nonmetropolitan Counties,OREGON ,Curry,42,0,3,0,39,254,59,163,32,1
+OREGON - Nonmetropolitan Counties,OREGON ,Douglas,153,0,23,10,120,889,235,455,199,12
+OREGON - Nonmetropolitan Counties,OREGON ,Gilliam6,9,0,3,0,6,52,14,36,2,0
+OREGON - Nonmetropolitan Counties,OREGON ,Harney,1,0,1,0,0,21,6,12,3,0
+OREGON - Nonmetropolitan Counties,OREGON ,Jefferson,8,1,2,1,4,172,44,109,19,3
+OREGON - Nonmetropolitan Counties,OREGON ,Lake,9,0,1,0,8,88,30,49,9,0
+OREGON - Nonmetropolitan Counties,OREGON ,Lincoln,44,1,6,0,37,271,91,165,15,4
+OREGON - Nonmetropolitan Counties,OREGON ,Malheur,17,0,3,1,13,192,35,116,41,2
+OREGON - Nonmetropolitan Counties,OREGON ,Morrow,20,0,4,0,16,112,26,70,16,2
+OREGON - Nonmetropolitan Counties,OREGON ,Sherman,0,0,0,0,0,42,6,33,3,0
+OREGON - Nonmetropolitan Counties,OREGON ,Umatilla,43,0,7,3,33,410,152,207,51,10
+OREGON - Nonmetropolitan Counties,OREGON ,Union,8,0,1,0,7,209,64,129,16,5
+OREGON - Nonmetropolitan Counties,OREGON ,Wasco,22,0,2,1,19,132,32,89,11,0
+PENNSYLVANIA - Metropolitan Counties,PENNSYLVANIA ,Allegheny,3,0,0,0,3,0,0,0,0,0
+PENNSYLVANIA - Metropolitan Counties,PENNSYLVANIA ,Berks,5,0,0,0,5,0,0,0,0,0
+PENNSYLVANIA - Metropolitan Counties,PENNSYLVANIA ,Bucks,0,0,0,0,0,1,0,1,0,0
+PENNSYLVANIA - Metropolitan Counties,PENNSYLVANIA ,Erie,5,0,0,0,5,1,0,1,0,0
+PENNSYLVANIA - Metropolitan Counties,PENNSYLVANIA ,Lancaster,1,0,0,0,1,0,0,0,0,0
+PENNSYLVANIA - Metropolitan Counties,PENNSYLVANIA ,Monroe,0,0,0,0,0,0,0,0,0,0
+PENNSYLVANIA - Metropolitan Counties,PENNSYLVANIA ,Montgomery,0,0,0,0,0,0,0,0,0,0
+PENNSYLVANIA - Nonmetropolitan Counties,PENNSYLVANIA ,Elk,0,0,0,0,0,0,0,0,0,0
+PENNSYLVANIA - Nonmetropolitan Counties,PENNSYLVANIA ,Snyder,0,0,0,0,0,0,0,0,0,0
+PENNSYLVANIA - Nonmetropolitan Counties,PENNSYLVANIA ,Wayne,0,0,0,0,0,0,0,0,0,0
+SOUTH CAROLINA - Metropolitan Counties,SOUTH CAROLINA ,Aiken,549,7,74,44,424,2639,700,1574,365,7
+SOUTH CAROLINA - Metropolitan Counties,SOUTH CAROLINA ,Anderson,693,12,73,63,545,4585,882,3073,630,27
+SOUTH CAROLINA - Metropolitan Counties,SOUTH CAROLINA ,Beaufort,577,6,52,73,446,1879,347,1384,148,9
+SOUTH CAROLINA - Metropolitan Counties,SOUTH CAROLINA ,Calhoun,62,0,5,4,53,294,107,146,41,0
+SOUTH CAROLINA - Metropolitan Counties,SOUTH CAROLINA ,Charleston,280,12,27,32,209,1698,356,1060,282,6
+SOUTH CAROLINA - Metropolitan Counties,SOUTH CAROLINA ,Chester,111,3,8,7,93,529,122,362,45,2
+SOUTH CAROLINA - Metropolitan Counties,SOUTH CAROLINA ,Clarendon,137,3,16,10,108,668,206,412,50,1
+SOUTH CAROLINA - Metropolitan Counties,SOUTH CAROLINA ,Darlington,386,12,26,39,309,1853,674,1034,145,10
+SOUTH CAROLINA - Metropolitan Counties,SOUTH CAROLINA ,Dorchester,292,2,1,33,256,1871,380,1305,186,1
+SOUTH CAROLINA - Metropolitan Counties,SOUTH CAROLINA ,Fairfield,154,3,8,8,135,465,130,294,41,3
+SOUTH CAROLINA - Metropolitan Counties,SOUTH CAROLINA ,Florence,516,12,66,82,356,2325,586,1512,227,19
+SOUTH CAROLINA - Metropolitan Counties,SOUTH CAROLINA ,Greenville,1705,24,214,250,1217,7923,1585,5510,828,52
+SOUTH CAROLINA - Metropolitan Counties,SOUTH CAROLINA ,Horry,10,0,6,0,4,1,0,0,1,0
+SOUTH CAROLINA - Metropolitan Counties,SOUTH CAROLINA ,Horry County Police Department,834,8,148,88,590,6144,1089,4493,562,18
+SOUTH CAROLINA - Metropolitan Counties,SOUTH CAROLINA ,Kershaw,160,1,26,18,115,1201,240,845,116,11
+SOUTH CAROLINA - Metropolitan Counties,SOUTH CAROLINA ,Lancaster,284,7,52,19,206,1677,366,1235,76,7
+SOUTH CAROLINA - Metropolitan Counties,SOUTH CAROLINA ,Laurens,219,4,30,15,170,978,281,547,150,8
+SOUTH CAROLINA - Metropolitan Counties,SOUTH CAROLINA ,Lexington,554,13,69,87,385,5086,1000,3324,762,18
+SOUTH CAROLINA - Metropolitan Counties,SOUTH CAROLINA ,Pickens,228,4,22,8,194,1408,383,846,179,7
+SOUTH CAROLINA - Metropolitan Counties,SOUTH CAROLINA ,Richland,2206,21,138,263,1784,8709,1422,6137,1150,38
+SOUTH CAROLINA - Metropolitan Counties,SOUTH CAROLINA ,Saluda,43,0,8,1,34,198,63,115,20,1
+SOUTH CAROLINA - Metropolitan Counties,SOUTH CAROLINA ,Spartanburg,1042,16,65,83,878,5420,1357,3487,576,28
+SOUTH CAROLINA - Metropolitan Counties,SOUTH CAROLINA ,Sumter,384,5,23,30,326,1543,421,955,167,6
+SOUTH CAROLINA - Metropolitan Counties,SOUTH CAROLINA ,York,377,3,46,42,286,2565,515,1842,208,9
+SOUTH CAROLINA - Nonmetropolitan Counties,SOUTH CAROLINA ,Allendale,12,0,0,2,10,48,18,26,4,1
+SOUTH CAROLINA - Nonmetropolitan Counties,SOUTH CAROLINA ,Bamberg,24,0,1,3,20,146,41,87,18,3
+SOUTH CAROLINA - Nonmetropolitan Counties,SOUTH CAROLINA ,Barnwell,57,1,2,2,52,292,78,174,40,3
+SOUTH CAROLINA - Nonmetropolitan Counties,SOUTH CAROLINA ,Colleton,214,11,15,15,173,726,201,439,86,8
+SOUTH CAROLINA - Nonmetropolitan Counties,SOUTH CAROLINA ,Dillon,138,5,6,18,109,576,229,301,46,12
+SOUTH CAROLINA - Nonmetropolitan Counties,SOUTH CAROLINA ,Georgetown,187,6,17,15,149,986,213,677,96,6
+SOUTH CAROLINA - Nonmetropolitan Counties,SOUTH CAROLINA ,Hampton,61,0,7,3,51,269,92,164,13,3
+SOUTH CAROLINA - Nonmetropolitan Counties,SOUTH CAROLINA ,Lee,64,0,1,3,60,306,96,185,25,0
+SOUTH CAROLINA - Nonmetropolitan Counties,SOUTH CAROLINA ,Marion,71,0,5,13,53,462,120,265,77,2
+SOUTH CAROLINA - Nonmetropolitan Counties,SOUTH CAROLINA ,Marlboro,106,3,13,6,84,342,115,211,16,4
+SOUTH CAROLINA - Nonmetropolitan Counties,SOUTH CAROLINA ,McCormick,8,0,0,0,8,77,23,41,13,0
+SOUTH CAROLINA - Nonmetropolitan Counties,SOUTH CAROLINA ,Newberry,91,4,5,4,78,299,64,214,21,0
+SOUTH CAROLINA - Nonmetropolitan Counties,SOUTH CAROLINA ,Oconee,199,4,46,13,136,1553,351,1047,155,22
+SOUTH CAROLINA - Nonmetropolitan Counties,SOUTH CAROLINA ,Orangeburg,744,16,18,41,669,2661,791,1502,368,5
+SOUTH CAROLINA - Nonmetropolitan Counties,SOUTH CAROLINA ,Union,53,0,7,3,43,376,87,256,33,4
+SOUTH DAKOTA - Metropolitan Counties,SOUTH DAKOTA ,Lincoln,32,1,7,2,22,274,141,113,20,0
+SOUTH DAKOTA - Metropolitan Counties,SOUTH DAKOTA ,McCook,7,0,2,0,5,19,8,8,3,0
+SOUTH DAKOTA - Metropolitan Counties,SOUTH DAKOTA ,Meade,26,1,3,1,21,151,50,87,14,1
+SOUTH DAKOTA - Metropolitan Counties,SOUTH DAKOTA ,Minnehaha,54,0,17,1,36,319,96,172,51,0
+SOUTH DAKOTA - Metropolitan Counties,SOUTH DAKOTA ,Pennington,122,0,57,2,63,352,76,235,41,1
+SOUTH DAKOTA - Metropolitan Counties,SOUTH DAKOTA ,Turner,18,0,2,0,16,45,11,26,8,1
+SOUTH DAKOTA - Metropolitan Counties,SOUTH DAKOTA ,Union,7,0,1,0,6,46,11,33,2,2
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Aurora,5,0,0,0,5,1,1,0,0,0
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Beadle,4,0,0,0,4,7,3,3,1,0
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Bennett,0,0,0,0,0,6,4,0,2,1
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Bon Homme,2,0,0,0,2,13,2,3,8,0
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Brookings,9,1,2,0,6,45,11,33,1,0
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Brown,9,0,2,0,7,40,19,17,4,2
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Brule,3,0,1,0,2,1,0,1,0,0
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Butte,6,0,0,0,6,29,3,26,0,0
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Charles Mix,11,0,3,0,8,19,8,11,0,0
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Clark,1,0,0,0,1,5,0,3,2,0
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Clay,7,0,1,0,6,50,6,32,12,1
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Codington,9,0,0,0,9,16,1,12,3,1
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Corson,1,0,0,0,1,26,10,8,8,1
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Custer,8,0,2,0,6,135,54,74,7,1
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Davison,3,0,0,0,3,14,8,6,0,1
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Day,4,0,1,0,3,33,13,14,6,0
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Deuel,1,0,0,0,1,16,4,10,2,0
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Edmunds,0,0,0,0,0,0,0,0,0,0
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Faulk,0,0,0,0,0,7,4,3,0,0
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Gregory,0,0,0,0,0,7,0,5,2,0
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Hamlin,5,0,1,0,4,29,7,20,2,0
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Hand,4,0,3,0,1,1,0,1,0,0
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Hanson,1,0,0,0,1,10,5,1,4,0
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Hughes,4,0,0,0,4,9,2,5,2,1
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Hutchinson,0,0,0,0,0,6,5,0,1,0
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Jerauld,1,0,0,0,1,9,3,5,1,0
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Jones,0,0,0,0,0,2,1,1,0,0
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Kingsbury,0,0,0,0,0,4,1,3,0,0
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Lake,2,0,1,0,1,19,4,14,1,0
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Lawrence,7,0,1,0,6,39,14,21,4,0
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Lyman,2,0,0,0,2,11,7,3,1,0
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Marshall,6,0,0,0,6,23,8,14,1,0
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,McPherson,3,0,0,0,3,18,4,14,0,0
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Mellette,0,0,0,0,0,6,1,5,0,0
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Miner,0,0,0,0,0,6,4,2,0,0
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Moody,3,0,0,0,3,2,2,0,0,1
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Perkins,2,0,2,0,0,10,1,9,0,0
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Potter,3,0,1,0,2,3,0,2,1,0
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Roberts,11,0,1,0,10,7,0,5,2,0
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Sanborn,3,0,0,0,3,7,1,6,0,0
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Spink,13,0,0,0,13,84,26,49,9,0
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Stanley,0,0,0,0,0,10,3,6,1,0
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Sully,4,0,0,0,4,9,7,0,2,2
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Tripp,2,0,1,0,1,4,0,3,1,0
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Walworth,0,0,0,0,0,5,0,5,0,0
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Yankton,7,1,2,0,4,53,10,27,16,0
+SOUTH DAKOTA - Nonmetropolitan Counties,SOUTH DAKOTA ,Ziebach,0,0,0,0,0,0,0,0,0,0
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Anderson,144,0,11,4,129,472,136,253,83,12
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Blount,322,0,55,14,253,1103,256,711,136,3
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Bradley,205,1,15,13,176,808,190,508,110,1
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Campbell,62,0,22,1,39,335,106,178,51,2
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Cannon,12,0,1,0,11,96,42,27,27,1
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Carter,63,0,3,3,57,334,67,236,31,0
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Cheatham,87,1,6,2,78,280,57,174,49,2
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Chester,25,1,6,0,18,79,30,37,12,0
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Crockett,29,0,0,1,28,106,35,57,14,0
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Dickson,121,0,15,4,102,334,88,195,51,0
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Fayette,55,1,1,4,49,209,60,121,28,0
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Gibson,56,2,7,3,44,160,51,88,21,0
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Grainger,43,0,3,1,39,160,38,104,18,0
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Hamblen,120,1,11,8,100,462,100,288,74,5
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Hartsville/Trousdale,30,0,5,1,24,142,24,105,13,0
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Hawkins,77,2,6,2,67,587,163,335,89,3
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Jefferson,97,1,14,0,82,428,135,230,63,1
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Knox,577,2,62,30,483,3413,588,2331,494,15
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Loudon,72,3,3,3,63,375,79,243,53,1
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Macon,41,0,0,0,41,159,54,91,14,1
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Madison,103,0,4,12,87,380,73,251,56,0
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Marion,59,0,3,1,55,220,43,135,42,3
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Maury,140,1,24,1,114,431,94,260,77,3
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Montgomery,104,2,10,1,91,571,136,378,57,2
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Morgan,40,0,3,1,36,320,100,168,52,1
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Polk,25,0,1,2,22,311,61,192,58,3
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Roane,63,2,5,1,55,235,70,123,42,1
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Robertson,75,1,6,1,67,243,48,164,31,2
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Rutherford,205,1,19,16,169,746,153,506,87,10
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Sequatchie,31,0,1,1,29,153,40,84,29,3
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Shelby,569,3,34,72,460,2473,551,1703,219,11
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Smith,43,0,7,1,35,148,54,82,12,0
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Stewart,18,0,3,0,15,92,35,39,18,0
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Sullivan,228,5,28,7,188,1043,225,656,162,12
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Sumner,118,9,11,4,94,404,85,267,52,4
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Tipton,123,0,11,3,109,465,131,273,61,1
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Unicoi,21,0,0,0,21,116,31,75,10,1
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Union,22,1,4,0,17,204,63,116,25,0
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Washington,159,1,10,4,144,762,182,446,134,3
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Williamson,119,2,14,2,101,289,66,196,27,4
+TENNESSEE - Metropolitan Counties,TENNESSEE ,Wilson,85,0,2,4,79,555,105,384,66,1
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Bedford,75,0,8,0,67,250,59,165,26,3
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Benton,18,0,6,1,11,114,47,50,17,0
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Bledsoe,11,0,0,0,11,62,16,28,18,1
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Carroll,44,1,7,2,34,154,63,73,18,0
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Claiborne,58,4,3,2,49,283,80,162,41,5
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Clay,14,0,0,2,12,40,18,20,2,0
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Coffee,87,0,6,3,78,403,102,261,40,2
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Cumberland,42,1,1,4,36,737,198,440,99,2
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Decatur,30,0,3,0,27,100,43,43,14,0
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,DeKalb,17,1,1,0,15,117,34,68,15,2
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Dyer,18,0,2,0,16,184,51,112,21,0
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Fentress,27,1,3,0,23,189,46,120,23,3
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Franklin,98,3,8,1,86,238,41,163,34,0
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Giles,51,1,7,2,41,184,44,114,26,3
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Greene,168,0,8,5,155,888,258,487,143,12
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Grundy,77,2,7,0,68,245,47,149,49,4
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Hancock,21,0,3,0,18,110,24,74,12,0
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Hardeman,46,0,2,3,41,178,57,92,29,1
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Hardin,35,1,4,2,28,348,121,181,46,1
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Haywood,36,1,2,1,32,133,47,64,22,1
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Henderson,83,0,9,2,72,295,87,161,47,2
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Henry,47,0,8,1,38,298,89,168,41,3
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Hickman,84,0,8,1,75,394,108,201,85,0
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Houston,23,0,0,0,23,75,21,48,6,0
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Humphreys,30,0,0,0,30,93,28,52,13,1
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Jackson,24,1,1,1,21,83,21,50,12,2
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Johnson,34,1,3,2,28,132,41,69,22,0
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Lake,4,0,1,0,3,25,9,12,4,0
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Lauderdale,45,2,3,1,39,192,68,104,20,3
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Lawrence,49,0,5,1,43,267,97,133,37,3
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Lewis,17,0,0,0,17,71,24,40,7,2
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Lincoln,62,0,7,2,53,286,101,152,33,1
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Marshall,28,0,0,1,27,72,10,43,19,0
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,McMinn,93,1,8,5,79,549,180,255,114,5
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,McNairy,55,1,5,1,48,276,93,145,38,4
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Meigs,61,0,6,4,51,284,78,157,49,7
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Monroe,234,0,10,7,217,873,284,465,124,6
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Moore,7,0,2,0,5,58,4,51,3,0
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Obion,34,0,1,1,32,177,35,114,28,1
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Overton,13,0,1,0,12,135,16,90,29,1
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Perry,13,0,0,0,13,59,14,40,5,2
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Pickett,8,0,2,0,6,28,4,22,2,0
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Putnam,85,0,13,0,72,518,136,317,65,5
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Rhea,67,0,5,2,60,191,57,112,22,0
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Scott,27,1,2,0,24,161,104,41,16,0
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Sevier,153,0,19,10,124,836,203,460,173,1
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Van Buren,3,0,0,0,3,30,3,20,7,0
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Wayne,14,2,0,0,12,93,21,54,18,1
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,Weakley,27,0,7,1,19,116,45,53,18,0
+TENNESSEE - Nonmetropolitan Counties,TENNESSEE ,White,55,0,2,5,48,251,45,165,41,8
+TEXAS - Metropolitan Counties,TEXAS ,Austin,13,0,2,0,11,87,40,29,18,0
+TEXAS - Metropolitan Counties,TEXAS ,Bandera6,12,0,2,1,9,268,95,143,30,1
+TEXAS - Metropolitan Counties,TEXAS ,Bastrop,212,6,46,18,142,649,192,349,108,5
+TEXAS - Metropolitan Counties,TEXAS ,Bell,82,0,27,1,54,631,152,445,34,0
+TEXAS - Metropolitan Counties,TEXAS ,Bexar,692,13,145,88,446,5297,990,3801,506,39
+TEXAS - Metropolitan Counties,TEXAS ,Bowie,102,1,25,2,74,331,131,170,30,6
+TEXAS - Metropolitan Counties,TEXAS ,Brazoria,170,4,13,34,119,1325,306,851,168,3
+TEXAS - Metropolitan Counties,TEXAS ,Brazos,29,0,13,1,15,306,93,200,13,2
+TEXAS - Metropolitan Counties,TEXAS ,Burleson,20,1,7,2,10,100,34,63,3,1
+TEXAS - Metropolitan Counties,TEXAS ,Caldwell6,51,0,6,2,43,88,26,53,9,0
+TEXAS - Metropolitan Counties,TEXAS ,Callahan,5,0,0,0,5,44,12,22,10,1
+TEXAS - Metropolitan Counties,TEXAS ,Cameron,162,1,46,15,100,937,298,586,53,4
+TEXAS - Metropolitan Counties,TEXAS ,Carson,22,1,2,3,16,25,9,15,1,0
+TEXAS - Metropolitan Counties,TEXAS ,Chambers,93,3,8,8,74,544,132,408,4,4
+TEXAS - Metropolitan Counties,TEXAS ,Clay,16,0,8,0,8,103,33,49,21,2
+TEXAS - Metropolitan Counties,TEXAS ,Collin,66,0,22,4,40,338,102,187,49,2
+TEXAS - Metropolitan Counties,TEXAS ,Comal,135,0,40,9,86,601,179,373,49,0
+TEXAS - Metropolitan Counties,TEXAS ,Coryell,4,0,0,1,3,54,11,43,0,0
+TEXAS - Metropolitan Counties,TEXAS ,Dallas,43,0,11,4,28,307,54,206,47,0
+TEXAS - Metropolitan Counties,TEXAS ,Denton6,95,0,43,7,45,440,88,299,53,3
+TEXAS - Metropolitan Counties,TEXAS ,Ector,116,4,14,19,79,1579,228,985,366,0
+TEXAS - Metropolitan Counties,TEXAS ,Ellis6,83,1,19,4,59,362,85,238,39,0
+TEXAS - Metropolitan Counties,TEXAS ,El Paso6,259,1,44,17,197,641,145,395,101,4
+TEXAS - Metropolitan Counties,TEXAS ,Fort Bend,841,10,119,120,592,4643,691,3653,299,1
+TEXAS - Metropolitan Counties,TEXAS ,Galveston,123,2,30,16,75,727,179,454,94,15
+TEXAS - Metropolitan Counties,TEXAS ,Goliad,22,1,3,2,16,79,19,49,11,0
+TEXAS - Metropolitan Counties,TEXAS ,Grayson,32,0,15,7,10,401,109,237,55,4
+TEXAS - Metropolitan Counties,TEXAS ,Gregg,84,3,26,4,51,373,106,212,55,2
+TEXAS - Metropolitan Counties,TEXAS ,Guadalupe,69,2,32,3,32,424,113,279,32,19
+TEXAS - Metropolitan Counties,TEXAS ,Hardin,38,1,1,5,31,285,91,148,46,5
+TEXAS - Metropolitan Counties,TEXAS ,Harris,7329,97,860,2249,4123,42526,7044,29466,6016,85
+TEXAS - Metropolitan Counties,TEXAS ,Harrison,52,3,0,3,46,445,138,246,61,1
+TEXAS - Metropolitan Counties,TEXAS ,Hays,111,0,37,12,62,672,141,479,52,1
+TEXAS - Metropolitan Counties,TEXAS ,Hidalgo6,518,5,139,103,271,3241,909,2012,320,10
+TEXAS - Metropolitan Counties,TEXAS ,Hudspeth,8,0,0,0,8,14,3,9,2,1
+TEXAS - Metropolitan Counties,TEXAS ,Hunt6,350,4,16,9,321,570,166,293,111,0
+TEXAS - Metropolitan Counties,TEXAS ,Jefferson,59,1,1,8,49,358,78,224,56,1
+TEXAS - Metropolitan Counties,TEXAS ,Johnson6,205,0,53,4,148,660,167,397,96,3
+TEXAS - Metropolitan Counties,TEXAS ,Jones,4,0,0,1,3,60,20,35,5,0
+TEXAS - Metropolitan Counties,TEXAS ,Kaufman,126,2,30,15,79,767,237,425,105,1
+TEXAS - Metropolitan Counties,TEXAS ,Kendall,19,0,2,2,15,104,23,67,14,2
+TEXAS - Metropolitan Counties,TEXAS ,Lampasas6,12,1,1,0,10,83,21,55,7,1
+TEXAS - Metropolitan Counties,TEXAS ,Lubbock,16,1,4,0,11,331,89,191,51,0
+TEXAS - Metropolitan Counties,TEXAS ,Lynn6,0,0,0,0,0,3,0,3,0,1
+TEXAS - Metropolitan Counties,TEXAS ,McLennan,69,0,24,0,45,500,149,227,124,5
+TEXAS - Metropolitan Counties,TEXAS ,Medina,101,2,14,4,81,351,79,202,70,0
+TEXAS - Metropolitan Counties,TEXAS ,Montgomery,736,12,74,103,547,4976,1052,3366,558,15
+TEXAS - Metropolitan Counties,TEXAS ,Nueces,61,1,10,9,41,160,49,108,3,0
+TEXAS - Metropolitan Counties,TEXAS ,Oldham,0,0,0,0,0,6,4,2,0,0
+TEXAS - Metropolitan Counties,TEXAS ,Parker,100,2,24,4,70,751,188,474,89,2
+TEXAS - Metropolitan Counties,TEXAS ,Randall,61,0,26,3,32,249,94,122,33,1
+TEXAS - Metropolitan Counties,TEXAS ,Robertson,8,1,1,0,6,116,37,65,14,0
+TEXAS - Metropolitan Counties,TEXAS ,Rockwall,13,0,4,0,9,91,15,50,26,1
+TEXAS - Metropolitan Counties,TEXAS ,Rusk,33,1,7,2,23,442,145,240,57,2
+TEXAS - Metropolitan Counties,TEXAS ,San Patricio,37,0,0,4,33,166,60,80,26,0
+TEXAS - Metropolitan Counties,TEXAS ,Smith,335,7,58,18,252,1453,412,800,241,7
+TEXAS - Metropolitan Counties,TEXAS ,Tarrant6,123,0,28,18,77,742,214,456,72,2
+TEXAS - Metropolitan Counties,TEXAS ,Taylor,39,0,5,0,34,89,45,37,7,0
+TEXAS - Metropolitan Counties,TEXAS ,Tom Green,32,1,25,1,5,254,89,140,25,5
+TEXAS - Metropolitan Counties,TEXAS ,Travis6,790,2,117,71,600,3240,762,2192,286,16
+TEXAS - Metropolitan Counties,TEXAS ,Victoria,94,3,19,6,66,399,128,224,47,0
+TEXAS - Metropolitan Counties,TEXAS ,Wichita,38,0,1,1,36,126,42,62,22,0
+TEXAS - Metropolitan Counties,TEXAS ,Williamson,152,1,57,4,90,1377,295,975,107,9
+TEXAS - Metropolitan Counties,TEXAS ,Wilson6,20,0,7,0,13,228,94,111,23,3
+TEXAS - Metropolitan Counties,TEXAS ,Wise,83,2,22,4,55,323,114,170,39,1
+TEXAS - Nonmetropolitan Counties,TEXAS ,Anderson,30,2,3,2,23,363,150,171,42,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Angelina,97,1,27,5,64,567,183,330,54,1
+TEXAS - Nonmetropolitan Counties,TEXAS ,Aransas,60,0,13,3,44,240,62,164,14,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Bailey6,3,0,1,0,2,36,15,20,1,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Bee,21,0,3,0,18,159,56,93,10,1
+TEXAS - Nonmetropolitan Counties,TEXAS ,Borden6,1,0,1,0,0,10,5,4,1,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Bosque6,27,0,3,0,24,71,38,24,9,1
+TEXAS - Nonmetropolitan Counties,TEXAS ,Brewster,7,0,1,0,6,10,4,3,3,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Briscoe,0,0,0,0,0,3,2,0,1,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Brooks,1,0,0,0,1,0,0,0,0,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Brown6,31,0,7,1,23,189,62,114,13,4
+TEXAS - Nonmetropolitan Counties,TEXAS ,Burnet,54,0,11,2,41,219,65,119,35,2
+TEXAS - Nonmetropolitan Counties,TEXAS ,Calhoun,22,0,8,0,14,103,26,71,6,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Camp6,9,0,2,0,7,67,31,29,7,2
+TEXAS - Nonmetropolitan Counties,TEXAS ,Cass,32,0,3,1,28,174,61,92,21,5
+TEXAS - Nonmetropolitan Counties,TEXAS ,Castro,6,0,0,0,6,47,13,26,8,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Cherokee,61,1,7,2,51,362,117,198,47,2
+TEXAS - Nonmetropolitan Counties,TEXAS ,Childress,1,0,0,0,1,7,1,5,1,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Cochran6,3,0,0,0,3,27,12,15,0,1
+TEXAS - Nonmetropolitan Counties,TEXAS ,Coke,2,0,0,0,2,14,10,0,4,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Colorado,19,1,7,1,10,117,29,77,11,2
+TEXAS - Nonmetropolitan Counties,TEXAS ,Comanche,3,0,0,0,3,58,11,41,6,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Concho,11,0,0,0,11,8,8,0,0,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Cooke6,33,3,8,3,19,100,38,51,11,2
+TEXAS - Nonmetropolitan Counties,TEXAS ,Crockett,2,0,0,1,1,18,9,5,4,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Culberson,0,0,0,0,0,0,0,0,0,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Dallam,0,0,0,0,0,1,0,0,1,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Dawson6,2,0,0,0,2,64,27,25,12,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Deaf Smith,8,0,1,0,7,60,18,32,10,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Delta,1,0,0,0,1,27,10,16,1,1
+TEXAS - Nonmetropolitan Counties,TEXAS ,DeWitt,33,1,7,0,25,120,47,66,7,2
+TEXAS - Nonmetropolitan Counties,TEXAS ,Dimmit,11,1,2,0,8,139,39,93,7,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Donley6,4,2,0,0,2,30,12,16,2,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Duval,12,0,0,0,12,104,24,41,39,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Eastland6,5,2,2,0,1,22,9,5,8,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Edwards,2,0,1,0,1,5,1,2,2,2
+TEXAS - Nonmetropolitan Counties,TEXAS ,Erath6,50,2,9,2,37,93,52,30,11,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Fannin,42,1,8,0,33,194,51,114,29,1
+TEXAS - Nonmetropolitan Counties,TEXAS ,Fayette,11,0,6,1,4,123,41,76,6,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Floyd6,12,0,0,1,11,25,5,19,1,2
+TEXAS - Nonmetropolitan Counties,TEXAS ,Freestone6,22,0,3,3,16,131,55,68,8,2
+TEXAS - Nonmetropolitan Counties,TEXAS ,Frio,9,0,0,0,9,60,17,34,9,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Gaines,11,2,2,1,6,88,29,49,10,10
+TEXAS - Nonmetropolitan Counties,TEXAS ,Garza,15,0,5,0,10,30,17,11,2,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Gillespie,12,1,3,0,8,55,6,46,3,1
+TEXAS - Nonmetropolitan Counties,TEXAS ,Gonzales,25,0,7,0,18,116,27,83,6,2
+TEXAS - Nonmetropolitan Counties,TEXAS ,Gray6,15,0,1,2,12,59,19,36,4,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Hale,16,0,0,0,16,64,25,38,1,1
+TEXAS - Nonmetropolitan Counties,TEXAS ,Hall,3,1,0,0,2,7,2,5,0,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Hamilton6,4,0,2,0,2,15,4,8,3,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Hansford6,1,0,0,0,1,11,4,3,4,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Hardeman,5,0,0,0,5,13,3,10,0,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Hartley,0,0,0,0,0,10,3,3,4,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Haskell,1,0,0,0,1,8,2,6,0,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Hemphill6,2,0,0,0,2,13,1,12,0,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Henderson,141,2,58,5,76,584,281,242,61,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Hill,31,1,12,1,17,234,56,154,24,2
+TEXAS - Nonmetropolitan Counties,TEXAS ,Hockley6,13,0,2,2,9,71,30,34,7,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Hood,55,0,11,2,42,356,99,205,52,2
+TEXAS - Nonmetropolitan Counties,TEXAS ,Hopkins6,27,1,9,0,17,61,17,26,18,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Houston,2,0,0,0,2,102,43,53,6,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Howard6,53,0,4,0,49,273,53,172,48,4
+TEXAS - Nonmetropolitan Counties,TEXAS ,Hutchinson,11,0,3,0,8,71,26,42,3,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Jack,9,0,0,2,7,36,15,13,8,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Jackson,6,0,1,0,5,51,10,34,7,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Jasper,72,2,18,2,50,403,155,197,51,1
+TEXAS - Nonmetropolitan Counties,TEXAS ,Jim Hogg6,5,0,0,0,5,20,10,7,3,1
+TEXAS - Nonmetropolitan Counties,TEXAS ,Karnes6,3,1,0,0,2,99,45,42,12,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Kenedy,0,0,0,0,0,8,2,3,3,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Kerr,51,0,21,0,30,199,51,133,15,2
+TEXAS - Nonmetropolitan Counties,TEXAS ,Kimble,2,0,1,1,0,4,2,2,0,1
+TEXAS - Nonmetropolitan Counties,TEXAS ,Kinney,0,0,0,0,0,1,1,0,0,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Lamar,28,1,9,1,17,135,39,88,8,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Lamb,6,0,2,1,3,61,24,31,6,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,La Salle,5,0,0,1,4,44,7,37,0,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Lavaca,10,2,2,0,6,63,16,41,6,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Lee6,25,0,2,1,22,86,28,49,9,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Leon,11,0,0,0,11,116,36,70,10,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Limestone,14,0,2,0,12,76,63,10,3,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Llano6,29,1,3,0,25,145,41,88,16,2
+TEXAS - Nonmetropolitan Counties,TEXAS ,Madison6,8,0,0,1,7,66,34,15,17,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Mason6,8,0,1,0,7,10,4,5,1,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Matagorda,62,0,19,6,37,332,91,214,27,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,McCulloch6,3,0,0,0,3,41,17,19,5,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Menard,3,0,0,1,2,1,1,0,0,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Milam,13,0,2,0,11,87,19,60,8,1
+TEXAS - Nonmetropolitan Counties,TEXAS ,Mills6,14,0,1,0,13,20,11,9,0,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Mitchell,1,0,0,0,1,25,5,15,5,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Montague6,33,0,7,0,26,83,28,48,7,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Moore6,6,1,0,0,5,39,12,20,7,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Morris,10,0,4,2,4,72,21,48,3,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Nacogdoches,58,2,10,1,45,270,85,148,37,1
+TEXAS - Nonmetropolitan Counties,TEXAS ,Navarro,58,1,15,3,39,242,105,118,19,2
+TEXAS - Nonmetropolitan Counties,TEXAS ,Newton6,22,0,1,1,20,98,49,38,11,2
+TEXAS - Nonmetropolitan Counties,TEXAS ,Nolan6,4,0,0,0,4,31,10,21,0,1
+TEXAS - Nonmetropolitan Counties,TEXAS ,Ochiltree6,0,0,0,0,0,22,7,12,3,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Palo Pinto6,9,0,4,1,4,68,22,34,12,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Panola,26,1,12,3,10,260,75,165,20,2
+TEXAS - Nonmetropolitan Counties,TEXAS ,Pecos,1,0,0,0,1,98,15,66,17,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Polk,76,5,33,7,31,671,212,379,80,8
+TEXAS - Nonmetropolitan Counties,TEXAS ,Rains,8,0,0,0,8,48,19,24,5,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Reagan,7,0,0,0,7,32,11,18,3,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Real,3,0,0,0,3,59,15,39,5,1
+TEXAS - Nonmetropolitan Counties,TEXAS ,Refugio,3,0,2,0,1,52,30,19,3,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Roberts6,0,0,0,0,0,2,1,1,0,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Runnels,1,0,0,0,1,11,5,6,0,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Sabine6,14,0,5,0,9,73,39,24,10,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,San Augustine6,13,0,1,0,12,57,34,16,7,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,San Jacinto,44,0,26,1,17,330,115,173,42,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Schleicher6,4,0,0,0,4,13,6,6,1,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Scurry,7,0,2,0,5,44,15,28,1,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Shelby,40,1,0,2,37,189,61,90,38,3
+TEXAS - Nonmetropolitan Counties,TEXAS ,Sherman,0,0,0,0,0,3,2,1,0,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Somervell,4,0,0,0,4,30,11,16,3,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Starr,79,1,11,6,61,232,72,126,34,3
+TEXAS - Nonmetropolitan Counties,TEXAS ,Stephens,1,0,1,0,0,21,9,9,3,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Stonewall,1,0,0,0,1,0,0,0,0,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Sutton6,0,0,0,0,0,1,0,0,1,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Swisher6,7,0,1,1,5,24,7,13,4,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Terry,1,0,0,0,1,30,15,9,6,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Titus6,50,0,3,3,44,162,55,88,19,2
+TEXAS - Nonmetropolitan Counties,TEXAS ,Tyler6,67,5,6,1,55,252,121,92,39,4
+TEXAS - Nonmetropolitan Counties,TEXAS ,Upton6,2,0,0,0,2,31,3,25,3,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Uvalde,16,1,0,0,15,85,30,46,9,2
+TEXAS - Nonmetropolitan Counties,TEXAS ,Val Verde,29,0,3,1,25,87,41,41,5,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Walker6,52,0,11,3,38,186,61,93,32,2
+TEXAS - Nonmetropolitan Counties,TEXAS ,Ward,27,0,3,3,21,218,38,173,7,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Washington,50,0,11,2,37,140,47,79,14,1
+TEXAS - Nonmetropolitan Counties,TEXAS ,Wharton,68,0,12,4,52,230,73,127,30,2
+TEXAS - Nonmetropolitan Counties,TEXAS ,Wheeler6,5,0,0,0,5,11,1,7,3,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Wilbarger6,2,0,2,0,0,13,2,10,1,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Willacy6,24,0,8,0,16,123,43,75,5,1
+TEXAS - Nonmetropolitan Counties,TEXAS ,Winkler,9,1,2,0,6,80,10,55,15,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Wood,75,0,39,6,30,225,65,127,33,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Yoakum,3,0,1,0,2,18,9,5,4,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Young6,12,0,7,1,4,35,16,13,6,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Zapata,52,0,1,5,46,183,76,105,2,0
+TEXAS - Nonmetropolitan Counties,TEXAS ,Zavala,12,0,4,0,8,32,19,8,5,0
+UTAH - Metropolitan Counties,UTAH ,Box Elder6,12,1,5,0,6,131,40,81,10,0
+UTAH - Metropolitan Counties,UTAH ,Cache,32,0,23,1,8,150,15,95,40,4
+UTAH - Metropolitan Counties,UTAH ,Davis,50,0,14,1,35,213,28,173,12,0
+UTAH - Metropolitan Counties,UTAH ,Juab,3,0,1,0,2,54,8,39,7,0
+UTAH - Metropolitan Counties,UTAH ,Morgan4,4,0,2,0,2,,,21,3,0
+UTAH - Metropolitan Counties,UTAH ,Salt Lake County Unified Police Department,731,5,156,145,425,8002,983,6028,991,20
+UTAH - Metropolitan Counties,UTAH ,Tooele,12,0,4,1,7,218,25,173,20,1
+UTAH - Metropolitan Counties,UTAH ,Utah,87,2,30,3,52,323,38,260,25,2
+UTAH - Metropolitan Counties,UTAH ,Washington,28,1,5,3,19,138,31,94,13,0
+UTAH - Metropolitan Counties,UTAH ,Weber,94,0,32,6,56,963,291,583,89,2
+UTAH - Nonmetropolitan Counties,UTAH ,Carbon,10,0,5,0,5,93,25,63,5,0
+UTAH - Nonmetropolitan Counties,UTAH ,Grand,16,0,1,1,14,79,5,70,4,0
+UTAH - Nonmetropolitan Counties,UTAH ,Iron6,49,0,8,0,41,119,37,65,17,1
+UTAH - Nonmetropolitan Counties,UTAH ,Kane,7,0,0,0,7,24,6,13,5,0
+UTAH - Nonmetropolitan Counties,UTAH ,Millard,20,1,4,0,15,213,34,154,25,0
+UTAH - Nonmetropolitan Counties,UTAH ,Rich,3,0,0,0,3,18,1,17,0,0
+UTAH - Nonmetropolitan Counties,UTAH ,San Juan,6,1,1,1,3,38,7,25,6,0
+UTAH - Nonmetropolitan Counties,UTAH ,Sanpete,21,0,4,1,16,94,21,65,8,2
+UTAH - Nonmetropolitan Counties,UTAH ,Sevier6,8,0,2,0,6,98,17,73,8,1
+UTAH - Nonmetropolitan Counties,UTAH ,Summit,33,0,2,4,27,399,58,320,21,0
+UTAH - Nonmetropolitan Counties,UTAH ,Uintah,55,0,22,1,32,158,48,91,19,4
+UTAH - Nonmetropolitan Counties,UTAH ,Wasatch,31,0,20,0,11,91,14,67,10,0
+VERMONT - Metropolitan Counties,VERMONT ,Franklin,6,0,1,0,5,26,7,18,1,0
+VERMONT - Metropolitan Counties,VERMONT ,Grand Isle,4,0,0,1,3,27,8,16,3,0
+VERMONT - Nonmetropolitan Counties,VERMONT ,Bennington,2,0,1,0,1,6,1,4,1,0
+VERMONT - Nonmetropolitan Counties,VERMONT ,Caledonia,2,0,0,0,2,1,0,1,0,0
+VERMONT - Nonmetropolitan Counties,VERMONT ,Essex,0,0,0,0,0,18,7,10,1,0
+VERMONT - Nonmetropolitan Counties,VERMONT ,Lamoille,9,0,2,0,7,59,3,56,0,0
+VERMONT - Nonmetropolitan Counties,VERMONT ,Orange,6,0,6,0,0,18,3,15,0,0
+VERMONT - Nonmetropolitan Counties,VERMONT ,Orleans,0,0,0,0,0,75,6,68,1,0
+VERMONT - Nonmetropolitan Counties,VERMONT ,Rutland,2,0,0,0,2,13,2,11,0,0
+VERMONT - Nonmetropolitan Counties,VERMONT ,Washington,1,0,0,0,1,1,0,1,0,0
+VERMONT - Nonmetropolitan Counties,VERMONT ,Windham,2,0,0,0,2,23,5,18,0,0
+VERMONT - Nonmetropolitan Counties,VERMONT ,Windsor,0,0,0,0,0,15,12,3,0,0
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Albemarle County Police Department,116,2,28,14,72,1267,113,1104,50,6
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Amelia,26,0,3,4,19,172,35,107,30,1
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Amherst,74,5,7,5,57,356,36,296,24,2
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Appomattox,20,0,5,2,13,85,9,76,0,0
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Arlington County Police Department,298,2,55,92,149,3085,158,2721,206,6
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Augusta,90,0,15,5,70,801,182,539,80,3
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Bedford,63,1,13,2,47,475,95,349,31,1
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Botetourt,29,0,5,1,23,247,47,182,18,2
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Charles City,4,1,2,0,1,40,13,23,4,0
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Chesterfield County Police Department,458,12,115,146,185,5841,642,4887,312,30
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Clarke,6,0,2,0,4,64,11,49,4,1
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Craig,5,0,1,0,4,17,1,12,4,0
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Dinwiddie,86,0,9,10,67,294,43,229,22,5
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Fairfax County Police Department,957,14,167,346,430,13279,619,11822,838,30
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Fauquier,40,1,14,1,24,284,30,246,8,1
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Fluvanna,33,1,14,0,18,160,23,128,9,1
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Franklin,56,2,14,4,36,565,98,384,83,3
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Frederick,80,0,17,13,50,910,97,748,65,1
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Giles,12,0,2,0,10,127,36,76,15,0
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Gloucester,32,1,10,9,12,399,20,359,20,1
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Goochland,13,1,7,0,5,160,17,135,8,1
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Greene,19,1,10,0,8,195,21,164,10,3
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Hanover,168,0,28,7,133,884,52,796,36,10
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Henrico County Police Department,456,7,42,120,287,7887,561,6833,493,17
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Isle of Wight,23,0,3,0,20,200,27,158,15,3
+VIRGINIA - Metropolitan Counties,VIRGINIA ,James City County Police Department,83,0,12,13,58,696,44,633,19,0
+VIRGINIA - Metropolitan Counties,VIRGINIA ,King and Queen,13,0,1,1,11,30,2,27,1,2
+VIRGINIA - Metropolitan Counties,VIRGINIA ,King William,13,0,1,2,10,85,14,68,3,0
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Loudoun,393,0,168,36,189,2309,136,2019,154,24
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Madison,12,0,7,0,5,67,7,52,8,0
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Mathews,5,0,2,0,3,57,15,39,3,2
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Montgomery,61,0,11,6,44,308,53,223,32,2
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Nelson,26,0,8,0,18,166,27,123,16,0
+VIRGINIA - Metropolitan Counties,VIRGINIA ,New Kent,40,3,6,3,28,198,16,180,2,0
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Powhatan,25,0,13,2,10,284,41,234,9,0
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Prince George County Police Department,73,0,15,6,52,339,35,280,24,1
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Prince William County Police Department,787,14,147,155,471,4723,425,3954,344,13
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Pulaski,51,0,18,2,31,728,76,629,23,6
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Rappahannock,4,0,1,0,3,16,2,13,1,0
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Roanoke County Police Department,187,0,25,22,140,1207,146,979,82,0
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Rockingham,41,0,25,1,15,369,88,265,16,4
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Scott,21,0,8,4,9,201,39,140,22,3
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Southampton,19,2,10,0,7,203,42,138,23,3
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Spotsylvania,168,4,31,32,101,803,69,671,63,1
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Stafford,338,6,73,47,212,1427,156,1203,68,7
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Sussex,8,1,0,2,5,74,23,46,5,3
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Warren,34,1,20,1,12,154,14,135,5,4
+VIRGINIA - Metropolitan Counties,VIRGINIA ,Washington,37,3,10,4,20,603,92,456,55,2
+VIRGINIA - Metropolitan Counties,VIRGINIA ,York,78,0,20,7,51,875,50,793,32,5
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Accomack,100,6,10,25,59,333,81,243,9,2
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Alleghany,14,0,5,1,8,88,25,59,4,2
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Bath,3,0,0,0,3,7,0,7,0,1
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Bland,5,0,1,0,4,37,7,26,4,1
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Brunswick,9,0,1,1,7,81,17,59,5,3
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Buchanan,47,1,11,4,31,281,51,199,31,4
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Buckingham,13,1,5,0,7,122,31,80,11,2
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Caroline,58,0,14,4,40,223,25,198,0,5
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Carroll,36,3,5,0,28,166,27,117,22,0
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Charlotte,20,0,5,3,12,122,29,77,16,1
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Cumberland,11,1,0,1,9,41,9,27,5,1
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Dickenson,17,2,0,0,15,33,5,20,8,1
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Essex,19,0,0,0,19,44,17,17,10,0
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Floyd,19,2,9,0,8,82,16,59,7,2
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Grayson,26,3,6,0,17,169,35,103,31,2
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Greensville,10,0,4,2,4,79,20,56,3,0
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Halifax,45,2,14,8,21,209,56,137,16,4
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Henry,126,2,18,22,84,1115,220,785,110,10
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Highland,0,0,0,0,0,11,1,9,1,0
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,King George,29,0,7,2,20,213,34,159,20,0
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Lancaster,29,1,8,0,20,50,10,38,2,0
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Lee,27,1,5,2,19,122,12,109,1,1
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Louisa,39,5,10,2,22,333,32,271,30,4
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Lunenburg,17,3,3,1,10,40,18,20,2,0
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Mecklenburg,53,1,22,0,30,185,45,126,14,3
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Middlesex,13,1,4,0,8,112,18,89,5,4
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Northampton,12,0,2,2,8,53,11,34,8,0
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Northumberland,20,1,6,0,13,70,21,45,4,2
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Nottoway,15,1,3,1,10,71,16,46,9,0
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Orange,23,0,12,1,10,125,17,97,11,0
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Page,29,0,9,2,18,152,34,110,8,1
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Patrick,37,0,11,3,23,284,62,201,21,3
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Pittsylvania,79,9,18,10,42,425,107,292,26,2
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Prince Edward,19,0,5,2,12,57,16,37,4,0
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Rockbridge,32,1,7,0,24,238,60,164,14,1
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Russell,54,2,16,2,34,159,35,112,12,3
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Shenandoah,46,2,7,0,37,237,54,174,9,0
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Smyth,29,0,12,1,16,186,27,139,20,2
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Surry,3,0,1,0,2,16,2,11,3,0
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Tazewell,36,1,18,3,14,288,39,221,28,4
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Westmoreland,12,0,4,0,8,68,15,50,3,2
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Wise,64,1,39,3,21,249,51,163,35,5
+VIRGINIA - Nonmetropolitan Counties,VIRGINIA ,Wythe,26,3,15,2,6,193,31,139,23,3
+WASHINGTON - Metropolitan Counties,WASHINGTON ,Asotin,15,1,4,0,10,126,28,91,7,0
+WASHINGTON - Metropolitan Counties,WASHINGTON ,Benton,73,2,6,5,60,386,81,259,46,5
+WASHINGTON - Metropolitan Counties,WASHINGTON ,Chelan,43,0,3,0,40,322,90,219,13,0
+WASHINGTON - Metropolitan Counties,WASHINGTON ,Clark,230,4,64,27,135,2189,402,1410,377,10
+WASHINGTON - Metropolitan Counties,WASHINGTON ,Cowlitz,64,3,23,1,37,285,85,150,50,5
+WASHINGTON - Metropolitan Counties,WASHINGTON ,Douglas,15,0,9,1,5,225,59,141,25,1
+WASHINGTON - Metropolitan Counties,WASHINGTON ,Franklin,16,1,1,4,10,126,45,68,13,3
+WASHINGTON - Metropolitan Counties,WASHINGTON ,King,607,5,64,176,362,3621,796,2132,693,77
+WASHINGTON - Metropolitan Counties,WASHINGTON ,Kitsap,445,3,115,28,299,3036,590,2196,250,4
+WASHINGTON - Metropolitan Counties,WASHINGTON ,Pierce,1152,9,144,183,816,6822,1718,4029,1075,48
+WASHINGTON - Metropolitan Counties,WASHINGTON ,Skagit,74,0,11,13,50,757,222,474,61,1
+WASHINGTON - Metropolitan Counties,WASHINGTON ,Skamania,12,1,3,0,8,132,32,88,12,2
+WASHINGTON - Metropolitan Counties,WASHINGTON ,Snohomish,535,1,82,74,378,4328,917,2619,792,30
+WASHINGTON - Metropolitan Counties,WASHINGTON ,Spokane,195,5,51,20,119,2666,555,1900,211,11
+WASHINGTON - Metropolitan Counties,WASHINGTON ,Stevens,35,1,8,2,24,338,115,176,47,2
+WASHINGTON - Metropolitan Counties,WASHINGTON ,Thurston,246,3,27,19,197,1546,545,808,193,11
+WASHINGTON - Metropolitan Counties,WASHINGTON ,Walla Walla,20,1,4,1,14,266,88,152,26,2
+WASHINGTON - Metropolitan Counties,WASHINGTON ,Yakima,153,8,31,17,97,1466,383,759,324,7
+WASHINGTON - Nonmetropolitan Counties,WASHINGTON ,Adams,18,0,4,0,14,93,36,45,12,2
+WASHINGTON - Nonmetropolitan Counties,WASHINGTON ,Clallam,49,1,14,3,31,461,119,315,27,1
+WASHINGTON - Nonmetropolitan Counties,WASHINGTON ,Columbia,9,0,1,0,8,72,22,46,4,1
+WASHINGTON - Nonmetropolitan Counties,WASHINGTON ,Ferry,3,0,2,1,0,26,4,19,3,0
+WASHINGTON - Nonmetropolitan Counties,WASHINGTON ,Grant,95,0,25,6,64,837,179,537,121,16
+WASHINGTON - Nonmetropolitan Counties,WASHINGTON ,Grays Harbor,47,1,18,1,27,250,96,134,20,2
+WASHINGTON - Nonmetropolitan Counties,WASHINGTON ,Island,56,1,14,1,40,373,124,230,19,2
+WASHINGTON - Nonmetropolitan Counties,WASHINGTON ,Jefferson,33,0,4,3,26,222,91,117,14,1
+WASHINGTON - Nonmetropolitan Counties,WASHINGTON ,Kittitas,8,1,3,0,4,142,43,88,11,0
+WASHINGTON - Nonmetropolitan Counties,WASHINGTON ,Klickitat,4,1,0,0,3,76,68,5,3,0
+WASHINGTON - Nonmetropolitan Counties,WASHINGTON ,Lewis,86,2,22,3,59,473,146,269,58,1
+WASHINGTON - Nonmetropolitan Counties,WASHINGTON ,Lincoln,10,0,3,0,7,87,26,51,10,5
+WASHINGTON - Nonmetropolitan Counties,WASHINGTON ,Mason,85,0,11,9,65,956,334,510,112,2
+WASHINGTON - Nonmetropolitan Counties,WASHINGTON ,Okanogan,38,1,12,0,25,158,43,106,9,2
+WASHINGTON - Nonmetropolitan Counties,WASHINGTON ,Pacific,21,0,0,2,19,137,59,71,7,1
+WASHINGTON - Nonmetropolitan Counties,WASHINGTON ,Pend Oreille,5,0,2,0,3,140,35,93,12,0
+WASHINGTON - Nonmetropolitan Counties,WASHINGTON ,San Juan,9,0,0,0,9,105,20,76,9,0
+WASHINGTON - Nonmetropolitan Counties,WASHINGTON ,Wahkiakum,4,0,2,0,2,32,9,20,3,0
+WASHINGTON - Nonmetropolitan Counties,WASHINGTON ,Whitman,7,0,0,0,7,35,13,14,8,0
+WEST VIRGINIA - Metropolitan Counties,WEST VIRGINIA ,Berkeley,55,2,5,0,48,88,5,81,2,0
+WEST VIRGINIA - Metropolitan Counties,WEST VIRGINIA ,Brooke,4,0,3,0,1,7,1,6,0,1
+WEST VIRGINIA - Metropolitan Counties,WEST VIRGINIA ,Fayette,49,2,0,2,45,347,108,194,45,5
+WEST VIRGINIA - Metropolitan Counties,WEST VIRGINIA ,Hampshire,25,0,2,1,22,118,42,61,15,1
+WEST VIRGINIA - Metropolitan Counties,WEST VIRGINIA ,Hancock,7,0,1,0,6,2,0,2,0,0
+WEST VIRGINIA - Metropolitan Counties,WEST VIRGINIA ,Jackson,44,0,3,0,41,26,7,14,5,1
+WEST VIRGINIA - Metropolitan Counties,WEST VIRGINIA ,Jefferson,40,1,8,7,24,214,27,167,20,1
+WEST VIRGINIA - Metropolitan Counties,WEST VIRGINIA ,Kanawha,380,10,31,13,326,1361,463,688,210,17
+WEST VIRGINIA - Metropolitan Counties,WEST VIRGINIA ,Marshall,9,0,0,0,9,67,25,35,7,0
+WEST VIRGINIA - Metropolitan Counties,WEST VIRGINIA ,Mineral,2,0,0,0,2,40,8,32,0,0
+WEST VIRGINIA - Metropolitan Counties,WEST VIRGINIA ,Monongalia,136,0,10,2,124,487,161,297,29,1
+WEST VIRGINIA - Metropolitan Counties,WEST VIRGINIA ,Morgan,59,0,4,2,53,71,15,50,6,0
+WEST VIRGINIA - Metropolitan Counties,WEST VIRGINIA ,Preston,10,1,3,3,3,133,2,119,12,0
+WEST VIRGINIA - Metropolitan Counties,WEST VIRGINIA ,Wirt,14,0,1,0,13,22,12,8,2,0
+WEST VIRGINIA - Metropolitan Counties,WEST VIRGINIA ,Wood,105,3,10,4,88,489,146,292,51,4
+WEST VIRGINIA - Nonmetropolitan Counties,WEST VIRGINIA ,Calhoun,0,0,0,0,0,10,3,5,2,0
+WEST VIRGINIA - Nonmetropolitan Counties,WEST VIRGINIA ,Doddridge,1,0,0,1,0,32,15,17,0,0
+WEST VIRGINIA - Nonmetropolitan Counties,WEST VIRGINIA ,Greenbrier,14,1,2,1,10,63,26,32,5,1
+WEST VIRGINIA - Nonmetropolitan Counties,WEST VIRGINIA ,Hardy,33,0,0,0,33,13,5,5,3,0
+WEST VIRGINIA - Nonmetropolitan Counties,WEST VIRGINIA ,Lewis,3,0,0,1,2,22,10,6,6,0
+WEST VIRGINIA - Nonmetropolitan Counties,WEST VIRGINIA ,Logan,131,1,4,0,126,4,0,4,0,3
+WEST VIRGINIA - Nonmetropolitan Counties,WEST VIRGINIA ,McDowell,3,0,0,0,3,4,3,1,0,1
+WEST VIRGINIA - Nonmetropolitan Counties,WEST VIRGINIA ,Mercer,83,4,8,10,61,306,106,163,37,7
+WEST VIRGINIA - Nonmetropolitan Counties,WEST VIRGINIA ,Monroe,1,0,1,0,0,33,11,18,4,0
+WEST VIRGINIA - Nonmetropolitan Counties,WEST VIRGINIA ,Nicholas,120,0,4,0,116,13,0,13,0,2
+WEST VIRGINIA - Nonmetropolitan Counties,WEST VIRGINIA ,Randolph,80,0,4,0,76,174,66,102,6,3
+WEST VIRGINIA - Nonmetropolitan Counties,WEST VIRGINIA ,Roane,4,0,0,0,4,2,0,2,0,1
+WEST VIRGINIA - Nonmetropolitan Counties,WEST VIRGINIA ,Summers,10,0,0,0,10,25,3,17,5,0
+WEST VIRGINIA - Nonmetropolitan Counties,WEST VIRGINIA ,Upshur,3,0,2,0,1,11,1,9,1,0
+WEST VIRGINIA - Nonmetropolitan Counties,WEST VIRGINIA ,Wetzel,41,0,2,0,39,22,9,8,5,1
+WEST VIRGINIA - Nonmetropolitan Counties,WEST VIRGINIA ,Wyoming,66,0,1,1,64,70,24,39,7,0
+WISCONSIN - Metropolitan Counties,WISCONSIN ,Brown,83,1,28,3,51,623,36,557,30,2
+WISCONSIN - Metropolitan Counties,WISCONSIN ,Calumet,10,0,4,0,6,74,12,53,9,0
+WISCONSIN - Metropolitan Counties,WISCONSIN ,Chippewa,53,4,22,0,27,199,48,141,10,1
+WISCONSIN - Metropolitan Counties,WISCONSIN ,Columbia,34,1,8,0,25,201,47,136,18,2
+WISCONSIN - Metropolitan Counties,WISCONSIN ,Dane,98,0,20,5,73,684,181,453,50,2
+WISCONSIN - Metropolitan Counties,WISCONSIN ,Douglas,15,0,5,2,8,156,45,99,12,0
+WISCONSIN - Metropolitan Counties,WISCONSIN ,Eau Claire,29,0,16,0,13,192,65,108,19,1
+WISCONSIN - Metropolitan Counties,WISCONSIN ,Fond du Lac,26,0,9,1,16,204,102,92,10,0
+WISCONSIN - Metropolitan Counties,WISCONSIN ,Green6,7,0,3,0,4,56,8,45,3,0
+WISCONSIN - Metropolitan Counties,WISCONSIN ,Iowa,8,0,1,0,7,43,11,31,1,0
+WISCONSIN - Metropolitan Counties,WISCONSIN ,Kenosha,50,0,12,7,31,253,26,216,11,6
+WISCONSIN - Metropolitan Counties,WISCONSIN ,Kewaunee,13,0,3,0,10,42,7,34,1,0
+WISCONSIN - Metropolitan Counties,WISCONSIN ,La Crosse,15,0,2,0,13,126,39,78,9,0
+WISCONSIN - Metropolitan Counties,WISCONSIN ,Lincoln,38,0,4,0,34,56,17,36,3,1
+WISCONSIN - Metropolitan Counties,WISCONSIN ,Marathon6,41,0,8,4,29,319,45,264,10,0
+WISCONSIN - Metropolitan Counties,WISCONSIN ,Milwaukee,107,2,7,5,93,92,0,68,24,1
+WISCONSIN - Metropolitan Counties,WISCONSIN ,Oconto,19,0,4,1,14,212,80,124,8,0
+WISCONSIN - Metropolitan Counties,WISCONSIN ,Outagamie,37,0,8,0,29,265,82,165,18,3
+WISCONSIN - Metropolitan Counties,WISCONSIN ,Ozaukee,13,0,8,0,5,76,18,51,7,0
+WISCONSIN - Metropolitan Counties,WISCONSIN ,Pierce,4,0,0,0,4,99,29,67,3,2
+WISCONSIN - Metropolitan Counties,WISCONSIN ,Rock,56,0,16,4,36,244,57,163,24,1
+WISCONSIN - Metropolitan Counties,WISCONSIN ,Sheboygan,27,0,4,1,22,271,22,233,16,1
+WISCONSIN - Metropolitan Counties,WISCONSIN ,St. Croix,22,0,1,1,20,278,82,182,14,1
+WISCONSIN - Metropolitan Counties,WISCONSIN ,Washington,7,0,5,1,1,192,37,148,7,0
+WISCONSIN - Metropolitan Counties,WISCONSIN ,Waukesha,58,0,1,0,57,305,37,250,18,0
+WISCONSIN - Metropolitan Counties,WISCONSIN ,Winnebago,18,0,3,1,14,155,45,97,13,0
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Adams,21,0,0,0,21,255,109,134,12,2
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Ashland,22,0,3,0,19,41,11,29,1,0
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Barron,20,1,13,0,6,127,35,83,9,2
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Bayfield,19,0,3,0,16,80,33,40,7,0
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Buffalo,4,0,1,0,3,6,1,3,2,0
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Burnett,20,0,4,0,16,237,78,144,15,3
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Clark,14,0,1,0,13,97,25,57,15,3
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Crawford,25,0,2,0,23,90,10,79,1,0
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Dodge,39,0,14,3,22,149,16,123,10,0
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Door,10,0,4,0,6,57,10,44,3,0
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Dunn,47,0,6,1,40,82,17,51,14,0
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Florence6,11,0,1,0,10,16,0,15,1,0
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Forest,8,0,2,0,6,52,9,37,6,2
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Grant,38,1,10,0,27,133,34,84,15,1
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Green Lake,4,0,2,0,2,49,4,41,4,0
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Iron,7,0,0,0,7,42,1,38,3,0
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Jackson,11,0,1,2,8,131,35,78,18,0
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Jefferson,35,0,1,2,32,231,58,162,11,0
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Juneau,50,1,10,0,39,141,49,83,9,0
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Manitowoc,32,0,1,0,31,131,35,91,5,0
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Marinette,10,1,4,2,3,198,81,105,12,1
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Marquette,9,1,1,1,6,69,10,57,2,1
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Monroe,30,0,0,0,30,101,26,59,16,1
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Oneida,28,0,7,0,21,150,37,107,6,1
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Pepin,6,0,4,0,2,30,7,23,0,0
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Polk,35,0,15,2,18,167,34,110,23,0
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Portage,40,0,10,0,30,138,56,75,7,1
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Price,4,0,0,0,4,73,33,38,2,0
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Rusk,13,0,4,1,8,44,14,27,3,0
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Sauk,27,2,13,4,8,304,103,181,20,0
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Sawyer,38,0,7,0,31,105,21,79,5,0
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Taylor,21,0,5,0,16,56,7,48,1,0
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Trempealeau,11,0,0,0,11,82,17,60,5,0
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Vernon,3,1,0,0,2,77,12,58,7,0
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Vilas,4,0,0,0,4,101,20,76,5,0
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Walworth,10,0,3,2,5,152,65,79,8,1
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Washburn,19,0,6,0,13,123,51,63,9,0
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Waupaca,52,0,8,0,44,298,58,221,19,0
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Waushara,36,1,3,1,31,158,42,102,14,1
+WISCONSIN - Nonmetropolitan Counties,WISCONSIN ,Wood,18,1,14,0,3,123,27,85,11,1
+WYOMING - Metropolitan Counties,WYOMING ,Natrona,48,0,10,2,36,145,50,79,16,1
+WYOMING - Nonmetropolitan Counties,WYOMING ,Albany,6,0,1,0,5,28,4,22,2,0
+WYOMING - Nonmetropolitan Counties,WYOMING ,Big Horn,3,0,2,0,1,20,3,16,1,1
+WYOMING - Nonmetropolitan Counties,WYOMING ,Campbell,73,0,8,0,65,118,19,83,16,0
+WYOMING - Nonmetropolitan Counties,WYOMING ,Carbon,9,0,1,0,8,38,4,33,1,0
+WYOMING - Nonmetropolitan Counties,WYOMING ,Converse,11,0,0,0,11,34,1,32,1,0
+WYOMING - Nonmetropolitan Counties,WYOMING ,Crook,4,0,1,0,3,17,2,14,1,0
+WYOMING - Nonmetropolitan Counties,WYOMING ,Fremont,13,0,4,0,9,183,22,144,17,0
+WYOMING - Nonmetropolitan Counties,WYOMING ,Goshen,10,0,1,0,9,27,9,16,2,0
+WYOMING - Nonmetropolitan Counties,WYOMING ,Hot Springs,2,0,0,0,2,8,1,7,0,0
+WYOMING - Nonmetropolitan Counties,WYOMING ,Johnson,4,0,1,0,3,22,5,13,4,0
+WYOMING - Nonmetropolitan Counties,WYOMING ,Lincoln,16,0,7,0,9,119,37,77,5,1
+WYOMING - Nonmetropolitan Counties,WYOMING ,Niobrara,4,0,0,0,4,10,2,8,0,0
+WYOMING - Nonmetropolitan Counties,WYOMING ,Park6,13,0,8,0,5,67,20,43,4,1
+WYOMING - Nonmetropolitan Counties,WYOMING ,Platte,0,0,0,0,0,44,8,32,4,0
+WYOMING - Nonmetropolitan Counties,WYOMING ,Sheridan,3,0,0,0,3,47,7,31,9,0
+WYOMING - Nonmetropolitan Counties,WYOMING ,Sublette,3,0,0,0,3,45,2,40,3,0
+WYOMING - Nonmetropolitan Counties,WYOMING ,Sweetwater,16,0,4,0,12,83,16,58,9,1
+WYOMING - Nonmetropolitan Counties,WYOMING ,Uinta,2,0,0,0,2,40,5,34,1,0
+WYOMING - Nonmetropolitan Counties,WYOMING ,Washakie,2,0,1,0,1,22,3,13,6,0
+WYOMING - Nonmetropolitan Counties,WYOMING ,Weston,0,0,0,0,0,1,0,0,1,0
