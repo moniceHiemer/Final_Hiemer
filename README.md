@@ -5,6 +5,9 @@ Larceny Population CARTAGRAM Map
 
 1. Download the csv files
   - There should be 3 csv files 
+  - Table_10_Offenses_Known_to_Law_Enforcement_by_State_by_Metropolitan_and_Nonmetropolitan_Counties_2018.csv
+  - Table_10_Offenses_Known_to_Law_Enforcement_by_State_by_Metropolitan_and_Nonmetropolitan_Counties_2019.csv
+  - county_pop.csv
 2. Save the csv files into your working directory 
 
 3. Open the file FP_Map.R in R  
