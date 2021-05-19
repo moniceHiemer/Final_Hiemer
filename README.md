@@ -30,5 +30,5 @@ Larceny Population CARTAGRAM Map
 7. You should get the following interactive visualization!
   - The following is a still version
 
-<img width="1276" alt="Screen Shot 2021-05-18 at 11 18 37 PM" src="https://user-images.githubusercontent.com/42781599/118765323-c4395f00-b82f-11eb-9dec-7c1b626ff10f.png">
+<img width="1117" alt="Screen Shot 2021-05-18 at 11 28 41 PM" src="https://user-images.githubusercontent.com/42781599/118766227-01eab780-b831-11eb-9464-8dbadad0b00e.png">
 
