@@ -22,8 +22,8 @@ Larceny Population CARTAGRAM Map
     I will send you a recorded version of me running the code. :)
 
 6. Run all the code from begining to end!
-  - Line 139 takes about 20min to run. Make sure to wait until it is done runnig brfore continuing.
-  - #Map 2 also takes a while to run. 
+  - The cartagram in line 139 takes about 20min to run. Make sure to wait until it is done runnig before continuing.
+  - #Map2 also takes a while to run. 
   - Running all the code will take about 35min (not including installation of packages)
   - If you do not have patience contact me I will send you a recorded version! :)
 
