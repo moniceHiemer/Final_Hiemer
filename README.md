@@ -15,6 +15,7 @@ Larceny Population Map
 6. Run all the code from begining to end!
   - Running all the code will take about 35min (not including installation of packages)
   - If you do not have patience contact me I will send you a recorded version. 
-7. You should get the following visualization! (Map_picture.png)
+7. You should get the following interactive visualization!
+  - The following is a still version 
 
 ![Map_picture](https://user-images.githubusercontent.com/42781599/118755291-7287d900-b81d-11eb-81aa-eb77fffacfab.png)
