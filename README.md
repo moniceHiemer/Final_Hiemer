@@ -2,7 +2,7 @@
 Larceny Population Map
 
 1. Download the csv files
-  -there should be 3 csv files 
+  - There should be 3 csv files 
 2. Save the csv files into your working directory 
 
 3. Open the file FP_Map.R in R  
