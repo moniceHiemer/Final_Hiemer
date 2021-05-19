@@ -189,9 +189,9 @@ plot_ly(p )%>%
 
 
 # refrence graph 
-plot_ly(data_map1)%>% add_sf(color = ~Quartile_Larceny..theft,
-                             split = ~state,
-                             span = I(1))%>%hide_legend()
+#plot_ly(data_map1)%>% add_sf(color = ~Quartile_Larceny..theft,
+#                             split = ~state,
+#                             span = I(1))%>%hide_legend()
 #######ggplot map####Not interactive 
 #ggplot()+geom_sf(data=p, aes(fill = Quartile_Larceny..theft))+
 #  theme_void()+scale_fill_viridis(alpha = .8)
