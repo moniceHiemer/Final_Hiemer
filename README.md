@@ -1,7 +1,7 @@
 # Final_Hiemer
 Larceny Population Map
 
-1.Download the csv files
+1. Download the csv files
   -there should be 3 csv files 
 2. Save the csv files into your working directory 
 
